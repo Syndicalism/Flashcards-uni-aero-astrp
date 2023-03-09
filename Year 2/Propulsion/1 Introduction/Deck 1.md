@@ -144,9 +144,10 @@ $$ \dot{Q} = \dot{m}_{f} \text{LCV} $$
 #card 
 - This equation describes the relationship between heat production and fuel burn rate, relating them using the lower calorific value of the fuel.
 - $\dot{Q}=$ this is the heat produced (per second) by burning some fuel
-- $\dot{m}_{f}=$ the mass of fuel burned (per second)
+- $\dot{m}_{f} =$ the mass of fuel burned (per second)
 - $\text{LCV}=$ lower calorific value of fuel burned. Is the amount of heat that the fuel releases per unit mass. Basically a measure of energy density of the fuel.
 ^1678364861156
+
 
 
 
