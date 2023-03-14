@@ -8,18 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "60fedd3552883482",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Year 2/Propulsion/1 Introduction/Deck 1.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
             "id": "d5452f23b4b8daf1",
             "type": "leaf",
             "state": {
@@ -31,8 +19,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -161,6 +148,8 @@
   },
   "active": "d5452f23b4b8daf1",
   "lastOpenFiles": [
+    "Images/Pasted image 20230314111714.png",
+    "Templates/flashcard.md",
     "Year 2/Propulsion/1 Introduction/Deck 1.md",
     "Year 2/Flight mechanics/1.1 Equations of motion and tail plane equation.md",
     "Year 2/Flight mechanics",
@@ -171,7 +160,6 @@
     "Year 2/Propulsion/3 Gas dynamics/Prop 3 1.md",
     "Templates/CardPage.md",
     "Year 2/Propulsion/3 Gas dynamics",
-    "Templates/flashcard.md",
     "Templates/latex multiline eq.md",
     "Images/Pasted image 20230308150311.png",
     "Images",
