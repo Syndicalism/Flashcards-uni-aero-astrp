@@ -18,8 +18,21 @@
                 "source": true
               }
             }
+          },
+          {
+            "id": "d5452f23b4b8daf1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Year 2/Flight mechanics/1.1 Equations of motion and tail plane equation.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Year 2/Propulsion/1 Introduction/Deck 1.md",
+                "file": "Year 2/Flight mechanics/1.1 Equations of motion and tail plane equation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -146,14 +159,16 @@
       "flashcards-obsidian:Generate flashcards": false
     }
   },
-  "active": "60fedd3552883482",
+  "active": "d5452f23b4b8daf1",
   "lastOpenFiles": [
+    "Year 2/Propulsion/1 Introduction/Deck 1.md",
+    "Year 2/Flight mechanics/1.1 Equations of motion and tail plane equation.md",
+    "Year 2/Flight mechanics",
     "Flashcards-uni",
     "Images/Pasted image 20230309121703.png",
     "Images/Pasted image 20230309115202.png",
     "Images/Pasted image 20230309115149.png",
     "Year 2/Propulsion/3 Gas dynamics/Prop 3 1.md",
-    "Year 2/Propulsion/1 Introduction/Deck 1.md",
     "Templates/CardPage.md",
     "Year 2/Propulsion/3 Gas dynamics",
     "Templates/flashcard.md",
