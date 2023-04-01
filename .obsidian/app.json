@@ -2,6 +2,6 @@
   "readableLineLength": false,
   "showLineNumber": true,
   "autoConvertHtml": false,
-  "spellcheck": true,
+  "spellcheck": false,
   "attachmentFolderPath": "Images"
 }

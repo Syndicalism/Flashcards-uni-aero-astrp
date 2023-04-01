@@ -30,9 +30,21 @@
                 "source": true
               }
             }
+          },
+          {
+            "id": "6abf85a6f2e45b2e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Year 2/Propulsion/3 Gas dynamics/Prop 3 3.md",
+                "mode": "source",
+                "source": true
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -98,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Year 2/Propulsion/3 Gas dynamics/Prop 3 2.md",
+                "file": "Year 2/Propulsion/3 Gas dynamics/Prop 3 3.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -159,12 +171,13 @@
       "flashcards-obsidian:Generate flashcards": false
     }
   },
-  "active": "88233a32d72afb5a",
+  "active": "6abf85a6f2e45b2e",
   "lastOpenFiles": [
+    "Year 2/Propulsion/3 Gas dynamics/Prop 3 2.md",
+    "Year 2/Propulsion/3 Gas dynamics/Prop 3 3.md",
+    "Year 2/Propulsion/2 Thermodynamics/Prop 2 2.md",
     "Year 2/Propulsion/3 Gas dynamics/Prop 3 1.md",
     "Year 2/Propulsion/2 Thermodynamics/Prop 2 3.md",
-    "Year 2/Propulsion/2 Thermodynamics/Prop 2 2.md",
-    "Year 2/Propulsion/3 Gas dynamics/Prop 3 2.md",
     "Year 2/Propulsion/2 Thermodynamics/Prop 2 4.md",
     "Images/Pasted image 20230401155646.png",
     "Images/Pasted image 20230401155512.png",
