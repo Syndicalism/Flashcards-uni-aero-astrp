@@ -1,8 +1,20 @@
 
-For the following equation: $<% tp.file.cursor(1) %>$
+
+--------
+
+STA<% "" %>RT_CA<% "" %>RD
+Basic
+
+$$ \begin{align}
+<% tp.file.cursor(1) %>
+\end{align} $$
+For the equation above:
 - Name it's variables
 - Describe it's meaning
 - State limitiations and applicability
-#card 
+Ba<% "" %>ck: 
 - This is the equation for 
+
+E<% "" %>ND_CA<% "" %>RD
+
 

@@ -1,0 +1,151 @@
+{
+  "settings": {
+    "CUSTOM_REGEXPS": {
+      "Basic": "",
+      "Basic (and reversed card)": "",
+      "Basic (optional reversed card)": "",
+      "Basic (type in the answer)": "",
+      "Cloze": "",
+      "Obsidian-basic": "",
+      "Obsidian-basic-reversed": "",
+      "Obsidian-cloze": "",
+      "Obsidian-spaced": ""
+    },
+    "FILE_LINK_FIELDS": {
+      "Basic": "Front",
+      "Basic (and reversed card)": "Front",
+      "Basic (optional reversed card)": "Front",
+      "Basic (type in the answer)": "Front",
+      "Cloze": "Text",
+      "Obsidian-basic": "Front",
+      "Obsidian-basic-reversed": "Front",
+      "Obsidian-cloze": "Text",
+      "Obsidian-spaced": "Prompt"
+    },
+    "CONTEXT_FIELDS": {},
+    "FOLDER_DECKS": {
+      "Year 2": "",
+      "Images": "",
+      "Templates": "",
+      "Year 2/Flight mechanics": "",
+      "Year 2/Propulsion": "",
+      "Year 2/Untitled": "",
+      "Year 2/Flight mechanics/2 stuff": "",
+      "Year 2/Flight mechanics/1 Something": "",
+      "Year 2/Propulsion/2 Thermodynamics": "",
+      "Year 2/Propulsion/1 Introduction": "",
+      "Year 2/Propulsion/3 Gas dynamics": "",
+      "Year 2/Propulsion/4 Ramjets": "",
+      "Year 2/Test": "",
+      "Year 2/Test/Also test": "",
+      "Year 2/Test/Better vtest": ""
+    },
+    "FOLDER_TAGS": {
+      "Year 2": "",
+      "Images": "",
+      "Templates": "",
+      "Year 2/Flight mechanics": "",
+      "Year 2/Propulsion": "",
+      "Year 2/Untitled": "",
+      "Year 2/Flight mechanics/2 stuff": "",
+      "Year 2/Flight mechanics/1 Something": "",
+      "Year 2/Propulsion/2 Thermodynamics": "",
+      "Year 2/Propulsion/1 Introduction": "",
+      "Year 2/Propulsion/3 Gas dynamics": "",
+      "Year 2/Propulsion/4 Ramjets": "",
+      "Year 2/Test": "",
+      "Year 2/Test/Also test": "",
+      "Year 2/Test/Better vtest": ""
+    },
+    "Syntax": {
+      "Begin Note": "START_CARD",
+      "End Note": "END_CARD",
+      "Begin Inline Note": "STARTINL",
+      "End Inline Note": "ENDINL",
+      "Target Deck Line": "TARGET_DECK",
+      "File Tags Line": "FILE_TAGS",
+      "Delete Note Line": "DELETE",
+      "Frozen Fields Line": "FROZEN"
+    },
+    "Defaults": {
+      "Tag": "Obsidian_to_Anki",
+      "Deck": "Default",
+      "Scheduling Interval": 0,
+      "Add File Link": false,
+      "Add Context": false,
+      "CurlyCloze": false,
+      "CurlyCloze - Highlights to Clozes": false,
+      "ID Comments": true,
+      "Add Obsidian Tags": false
+    }
+  },
+  "Added Media": [
+    "Pasted image 20230403155123.png",
+    "Pasted image 20230308150311.png",
+    "Pasted image 20230309115202.png",
+    "Pasted image 20230309115149.png",
+    "Pasted image 20230309121703.png"
+  ],
+  "File Hashes": {
+    "Templates/EquationCard.md": "19c86d8edab799430bad2a7bd1690c8c",
+    "Templates/flashcard.md": "bb38a26e614ed32560a0c2e79fdcf22f",
+    "Templates/CardPage.md": "377768ef2a3a4f4a975c256f1893f665",
+    "Templates/latex multiline eq.md": "be16cd04810b3a13f84ba74b93f2fa19",
+    "Year 2/Test/Also test/Example cards.md": "735c813a058cf637675f0516f3208340",
+    "Year 2/Propulsion/4 Ramjets/Prop 4 4.md": "728f5abcbc4ad4d156c4350b2e654a92",
+    "Year 2/Propulsion/4 Ramjets/Prop 4 2.md": "91f8741593c12bd9650ca684604f31ab",
+    "Year 2/Propulsion/3 Gas dynamics/Prop 3 5.md": "2d474922d3fd5a341a17a59d9bb1c18e",
+    "Year 2/Propulsion/3 Gas dynamics/Prop 3 4.md": "455035c765a32c1376f80c9ab1048ca1",
+    "Year 2/Propulsion/3 Gas dynamics/Prop 3 3.md": "0e9cf9fec01a2486ed1815705dc8f5b4",
+    "Year 2/Propulsion/3 Gas dynamics/Prop 3 1.md": "3c8568b38e3f089179977d66d18d0f73",
+    "Year 2/Propulsion/3 Gas dynamics/Prop 3 2.md": "dc94165f3e88dc1e4eec02e9ec16408f",
+    "Year 2/Propulsion/1 Introduction/Deck 1.md": "f04946f3c1d816d7161e9fb42ff16b02",
+    "Year 2/Propulsion/2 Thermodynamics/Prop 2 4.md": "99823a105c81b53bdcc02edc89330d88",
+    "Year 2/Propulsion/2 Thermodynamics/Prop 2 3.md": "dca81500ece3dc540283b62f8f6f98fc",
+    "Year 2/Propulsion/2 Thermodynamics/Prop 2 2.md": "9bc836c36a41338153a1c89a032eaf8f",
+    "Year 2/Flight mechanics/1 Something/1.1 Equations of motion and tail plane equation.md": "49937e106c897667d0b2c64cf30c2335",
+    "Year 2/Test/Also test/Trial.md": "872df3405c0df00fd7d07b722534f6d5",
+    "Templates/flashcard OLDFORMAT.md": "b3874d5d865cb7084a6c1c5184d06767",
+    "Templates/CardPage old.md": "b2f1d9fc7df10dcaff0077ce59215643",
+    "Year 2/Test/Better vtest/Thingy.md": "8cc4b2c6d39af70eaa77ad2f7a2323cb",
+    "Misc/Regex for deleting broken ID's.md": "be1a2d051f5f4ef8bfdde96b4db31351"
+  },
+  "fields_dict": {
+    "Basic": [
+      "Front",
+      "Back"
+    ],
+    "Basic (and reversed card)": [
+      "Front",
+      "Back"
+    ],
+    "Basic (optional reversed card)": [
+      "Front",
+      "Back",
+      "Add Reverse"
+    ],
+    "Basic (type in the answer)": [
+      "Front",
+      "Back"
+    ],
+    "Cloze": [
+      "Text",
+      "Back Extra"
+    ],
+    "Obsidian-basic": [
+      "Front",
+      "Back"
+    ],
+    "Obsidian-basic-reversed": [
+      "Front",
+      "Back"
+    ],
+    "Obsidian-cloze": [
+      "Text",
+      "Extra"
+    ],
+    "Obsidian-spaced": [
+      "Prompt"
+    ]
+  }
+}

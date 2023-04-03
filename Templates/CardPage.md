@@ -1,13 +1,14 @@
----
-cards-deck: Default Subject::Default topic
----
+TARG<% "" %>ET_DE<% "" %>CK: <% tp.file.folder(true).slice( (tp.file.folder(true).slice(0, tp.file.folder(true).lastIndexOf("/")).lastIndexOf("/"))+1 ).replace("/","::") %>
 
 
-What is a thing?
-![[7e3a9595-e895-4425-a029-5c0e63fb3945.png]]
-#card 
-The answer
-![[UPof5ehzFQdZJApJG6eOZJUxcUUY-eglGy-mzoLe5XU.png]] 
 
+STA<% "" %>RT_CA<% "" %>RD
+Basic
 
+<% tp.file.cursor(1) %>
+
+Ba<% "" %>ck: 
+- 
+
+E<% "" %>ND_CA<% "" %>RD
 
