@@ -20,26 +20,38 @@
             }
           },
           {
-            "id": "88233a32d72afb5a",
+            "id": "c23e1611d559fa87",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Year 2/Propulsion/3 Gas dynamics/Prop 3 2.md",
+                "file": "Year 2/Propulsion/4 Ramjets/Prop 4 2.md",
                 "mode": "source",
                 "source": true
               }
             }
           },
           {
-            "id": "6abf85a6f2e45b2e",
+            "id": "d5cf40af5bf8226c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Year 2/Propulsion/3 Gas dynamics/Prop 3 3.md",
+                "file": "Year 2/Flight mechanics/1 Something/1.1 Equations of motion and tail plane equation.md",
                 "mode": "source",
                 "source": true
+              }
+            }
+          },
+          {
+            "id": "7129426cd7738b03",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Templates/EquationCard.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -110,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Year 2/Propulsion/3 Gas dynamics/Prop 3 3.md",
+                "file": "Year 2/Flight mechanics/1 Something/1.1 Equations of motion and tail plane equation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -171,28 +183,37 @@
       "flashcards-obsidian:Generate flashcards": false
     }
   },
-  "active": "6abf85a6f2e45b2e",
+  "active": "abae724f9efd645d",
   "lastOpenFiles": [
-    "Year 2/Propulsion/3 Gas dynamics/Prop 3 2.md",
-    "Year 2/Propulsion/3 Gas dynamics/Prop 3 3.md",
-    "Year 2/Propulsion/2 Thermodynamics/Prop 2 2.md",
+    "Year 2/Flight mechanics/2 stuff",
+    "Year 2/Flight mechanics/1 Something",
+    "Year 2/Propulsion/3 Gas dynamics/Prop 3 4.md",
+    "Year 2/Untitled",
+    "Images/Pasted image 20230403141853.png",
+    "Year 2/Propulsion/4 Ramjets/Prop 4 4.md",
+    "Year 2/Propulsion/4 Ramjets/Prop 4 2.md",
+    "Images/Pasted image 20230403103713.png",
+    "Images/Pasted image 20230403103650.png",
+    "Images/Pasted image 20230403103648.png",
+    "Images/Pasted image 20230403103607.png",
+    "Images/Pasted image 20230403100637.png",
+    "Images/Pasted image 20230403093242.png",
     "Year 2/Propulsion/3 Gas dynamics/Prop 3 1.md",
+    "Year 2/Propulsion/3 Gas dynamics/Prop 3 5.md",
+    "Year 2/Propulsion/4 Ramjets",
+    "Images/Pasted image 20230402153915.png",
+    "Images/250px-Nozzle_de_Laval_diagram.svg.png",
+    "Images/Pasted image 20230402152035.png",
+    "Year 2/Propulsion/3 Gas dynamics/Prop 3 3.md",
+    "Year 2/Propulsion/3 Gas dynamics/Prop 3 2.md",
+    "Templates/EquationCard.md",
+    "Templates/flashcard.md",
+    "Year 2/Propulsion/2 Thermodynamics/Prop 2 2.md",
     "Year 2/Propulsion/2 Thermodynamics/Prop 2 3.md",
     "Year 2/Propulsion/2 Thermodynamics/Prop 2 4.md",
-    "Images/Pasted image 20230401155646.png",
-    "Images/Pasted image 20230401155512.png",
-    "Images/Pasted image 20230401150343.png",
-    "Images/Pasted image 20230401145540.png",
     "Year 2/Propulsion/1 Introduction/Deck 1.md",
-    "Images/Pasted image 20230401122657.png",
-    "Images/Pasted image 20230401122452.png",
-    "Images/Pasted image 20230401120952.png",
-    "Images/Pasted image 20230401103635.png",
-    "Images/Pasted image 20230401101743.png",
     "Year 2/Propulsion/2 Thermodynamics",
-    "Year 2/Flight mechanics/1.1 Equations of motion and tail plane equation.md",
-    "Images/Pasted image 20230314114122.png",
-    "Templates/flashcard.md",
+    "Year 2/Flight mechanics/1 Something/1.1 Equations of motion and tail plane equation.md",
     "Year 2/Flight mechanics",
     "Flashcards-uni",
     "Templates/CardPage.md",
@@ -200,9 +221,6 @@
     "Templates/latex multiline eq.md",
     "Images",
     "Images/trim.994E5FA0-A28D-4E00-B568-CB50CACA2F81.mov",
-    "Templates",
-    "Year 2/Propulsion/1 Introduction",
-    "Year 2/Propulsion",
-    "Year 2/Materials"
+    "Templates"
   ]
 }

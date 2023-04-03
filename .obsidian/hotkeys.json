@@ -132,5 +132,13 @@
       ],
       "key": "K"
     }
+  ],
+  "templater-obsidian:Templates/EquationCard.md": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "J"
+    }
   ]
 }

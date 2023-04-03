@@ -22,7 +22,8 @@
   "syntax_highlighting": true,
   "enabled_templates_hotkeys": [
     "Templates/flashcard.md",
-    "Templates/latex multiline eq.md"
+    "Templates/latex multiline eq.md",
+    "Templates/EquationCard.md"
   ],
   "startup_templates": [
     ""
