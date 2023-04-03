@@ -20,26 +20,14 @@
             }
           },
           {
-            "id": "c23e1611d559fa87",
+            "id": "8f42f24080e59551",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Year 2/Propulsion/4 Ramjets/Prop 4 2.md",
+                "file": "Year 2/Propulsion/5 Combustion/Untitled.md",
                 "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "d5cf40af5bf8226c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Year 2/Flight mechanics/1 Something/1.1 Equations of motion and tail plane equation.md",
-                "mode": "source",
-                "source": true
+                "source": false
               }
             }
           },
@@ -56,7 +44,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -122,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Year 2/Flight mechanics/1 Something/1.1 Equations of motion and tail plane equation.md",
+                "file": "Year 2/Propulsion/5 Combustion/Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -167,7 +155,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -183,44 +171,46 @@
       "flashcards-obsidian:Generate flashcards": false
     }
   },
-  "active": "abae724f9efd645d",
+  "active": "8f42f24080e59551",
   "lastOpenFiles": [
+    "Images/Pasted image 20230403160910.png",
+    "Images/Pasted image 20230403160740.png",
+    "Year 2/Propulsion/4 Ramjets/Prop 4 2.md",
+    "Year 2/Propulsion/5 Combustion/Untitled.md",
+    "Year 2/Propulsion/3 Gas dynamics/Prop 3 1.md",
+    "Year 2/Propulsion/5 Combustion",
+    "Year 2/Propulsion/4 Ramjets/Untitled",
+    "Year 2/Flight mechanics/Untitled",
+    "Templates/EquationCard.md",
+    "Year 2/Flight mechanics/1 Something/1.1 Equations of motion and tail plane equation.md",
+    "Year 2/Flight mechanics/1 Something/1.2 High lift Devices.md",
+    "Year 2/Propulsion/2 Thermodynamics/Prop 2 2.md",
     "Year 2/Flight mechanics/2 stuff",
     "Year 2/Flight mechanics/1 Something",
     "Year 2/Propulsion/3 Gas dynamics/Prop 3 4.md",
     "Year 2/Untitled",
     "Images/Pasted image 20230403141853.png",
     "Year 2/Propulsion/4 Ramjets/Prop 4 4.md",
-    "Year 2/Propulsion/4 Ramjets/Prop 4 2.md",
     "Images/Pasted image 20230403103713.png",
     "Images/Pasted image 20230403103650.png",
     "Images/Pasted image 20230403103648.png",
     "Images/Pasted image 20230403103607.png",
     "Images/Pasted image 20230403100637.png",
     "Images/Pasted image 20230403093242.png",
-    "Year 2/Propulsion/3 Gas dynamics/Prop 3 1.md",
     "Year 2/Propulsion/3 Gas dynamics/Prop 3 5.md",
     "Year 2/Propulsion/4 Ramjets",
     "Images/Pasted image 20230402153915.png",
     "Images/250px-Nozzle_de_Laval_diagram.svg.png",
-    "Images/Pasted image 20230402152035.png",
     "Year 2/Propulsion/3 Gas dynamics/Prop 3 3.md",
     "Year 2/Propulsion/3 Gas dynamics/Prop 3 2.md",
-    "Templates/EquationCard.md",
     "Templates/flashcard.md",
-    "Year 2/Propulsion/2 Thermodynamics/Prop 2 2.md",
     "Year 2/Propulsion/2 Thermodynamics/Prop 2 3.md",
     "Year 2/Propulsion/2 Thermodynamics/Prop 2 4.md",
     "Year 2/Propulsion/1 Introduction/Deck 1.md",
     "Year 2/Propulsion/2 Thermodynamics",
-    "Year 2/Flight mechanics/1 Something/1.1 Equations of motion and tail plane equation.md",
     "Year 2/Flight mechanics",
     "Flashcards-uni",
     "Templates/CardPage.md",
-    "Year 2/Propulsion/3 Gas dynamics",
-    "Templates/latex multiline eq.md",
-    "Images",
-    "Images/trim.994E5FA0-A28D-4E00-B568-CB50CACA2F81.mov",
-    "Templates"
+    "Templates/latex multiline eq.md"
   ]
 }
