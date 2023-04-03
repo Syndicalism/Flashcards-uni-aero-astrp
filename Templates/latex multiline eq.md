@@ -1,1 +1,3 @@
-$$ <% tp.file.cursor(1) %> $$
+$$ \begin{align}
+<% tp.file.cursor(1) %> &= 
+\end{align} $$

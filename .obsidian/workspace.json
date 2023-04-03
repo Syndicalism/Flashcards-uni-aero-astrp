@@ -8,67 +8,43 @@
         "type": "tabs",
         "children": [
           {
-            "id": "1d33646c213c688d",
+            "id": "18ea1591c244e4b2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Year 2/Propulsion/3 Gas dynamics/Prop 3 1.md",
+                "file": "Year 2/Test/Better vtest/Thingy.md",
                 "mode": "source",
                 "source": true
               }
             }
           },
           {
-            "id": "c23e1611d559fa87",
+            "id": "9ba935f4ef3a4a49",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Year 2/Propulsion/4 Ramjets/Prop 4 2.md",
+                "file": "Year 2/Test/Better vtest/awdawd.md",
                 "mode": "source",
-                "source": true
+                "source": false
               }
             }
           },
           {
-            "id": "d5cf40af5bf8226c",
+            "id": "3949c1b5073a1d20",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Year 2/Propulsion/3 Gas dynamics/Prop 3 1.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "f24d7ca184d39fa8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Year 2/Test/Also test/Example cards.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "7129426cd7738b03",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Templates/EquationCard.md",
+                "file": "Misc/Regex for deleting broken ID's.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -134,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Year 2/Test/Also test/Example cards.md",
+                "file": "Year 2/Test/Better vtest/awdawd.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -195,19 +171,35 @@
       "obsidian-to-anki-plugin:Obsidian_to_Anki - Scan Vault": false
     }
   },
-  "active": "f24d7ca184d39fa8",
+  "active": "9ba935f4ef3a4a49",
   "lastOpenFiles": [
-    "Year 2/Propulsion/3 Gas dynamics/Prop 3 1.md",
+    "Year 2/Test/Better vtest/Thingy.md",
+    "Year 2/Test/Better vtest/awdawd.md",
+    "Misc/Regex for deleting broken ID's.md",
+    "Year 2/Propulsion/1 Introduction/Deck 1.md",
+    "Misc",
     "Templates/EquationCard.md",
+    "Templates/flashcard OLDFORMAT.md",
+    "Templates/flashcard.md",
+    "Templates/CardPage.md",
+    "Images/Pasted image 20230403155123.png",
+    "Year 2/Propulsion/3 Gas dynamics/Prop 3 5.md",
+    "Year 2/Test/Better vtest",
+    "Year 2/Propulsion/3 Gas dynamics/Prop 3 4.md",
+    "Year 2/Propulsion/3 Gas dynamics/Prop 3 3.md",
+    "Year 2/Propulsion/3 Gas dynamics/Prop 3 2.md",
+    "Year 2/Propulsion/3 Gas dynamics/Prop 3 1.md",
+    "Year 2/Propulsion/4 Ramjets/Prop 4 4.md",
     "Year 2/Test/Also test/Example cards.md",
+    "Year 2/Test/Also test/Trial.md",
+    "Templates/CardPage old.md",
+    "Templates/latex multiline eq.md",
     "Year 2/Test/Also test",
     "Year 2/Flight mechanics/1 Something/1.1 Equations of motion and tail plane equation.md",
     "Year 2/Flight mechanics/2 stuff",
     "Year 2/Flight mechanics/1 Something",
-    "Year 2/Propulsion/3 Gas dynamics/Prop 3 4.md",
     "Year 2/Test",
     "Images/Pasted image 20230403141853.png",
-    "Year 2/Propulsion/4 Ramjets/Prop 4 4.md",
     "Year 2/Propulsion/4 Ramjets/Prop 4 2.md",
     "Images/Pasted image 20230403103713.png",
     "Images/Pasted image 20230403103650.png",
@@ -215,24 +207,14 @@
     "Images/Pasted image 20230403103607.png",
     "Images/Pasted image 20230403100637.png",
     "Images/Pasted image 20230403093242.png",
-    "Year 2/Propulsion/3 Gas dynamics/Prop 3 5.md",
     "Year 2/Propulsion/4 Ramjets",
     "Images/Pasted image 20230402153915.png",
     "Images/250px-Nozzle_de_Laval_diagram.svg.png",
-    "Images/Pasted image 20230402152035.png",
-    "Year 2/Propulsion/3 Gas dynamics/Prop 3 3.md",
-    "Year 2/Propulsion/3 Gas dynamics/Prop 3 2.md",
-    "Templates/flashcard.md",
     "Year 2/Propulsion/2 Thermodynamics/Prop 2 2.md",
     "Year 2/Propulsion/2 Thermodynamics/Prop 2 3.md",
     "Year 2/Propulsion/2 Thermodynamics/Prop 2 4.md",
-    "Year 2/Propulsion/1 Introduction/Deck 1.md",
     "Year 2/Propulsion/2 Thermodynamics",
     "Year 2/Flight mechanics",
-    "Flashcards-uni",
-    "Templates/CardPage.md",
-    "Year 2/Propulsion/3 Gas dynamics",
-    "Templates/latex multiline eq.md",
-    "Images"
+    "Flashcards-uni"
   ]
 }

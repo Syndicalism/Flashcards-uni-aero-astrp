@@ -1,8 +1,8 @@
 {
-  "findText": ">> ",
-  "replaceText": " - ",
-  "useRegEx": false,
-  "selOnly": true,
+  "findText": "(\\<!--).+?(--\\>\\n)",
+  "replaceText": "",
+  "useRegEx": true,
+  "selOnly": false,
   "caseInsensitive": false,
   "processLineBreak": true,
   "processTab": false,

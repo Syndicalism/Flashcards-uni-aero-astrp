@@ -1,24 +1,24 @@
-TARGET_DECK Funny::sampleText
+TARGET_DECK: Funny::sampleText
 
 
 START_CARD
 Basic
 mmmmmm yes
-Back: ok so yes
+Back: 
+ok so yes
 <!--ID: 1680531063592-->
 END_CARD
 
 
 
+TARGET_DECK Funny
 START_CARD
-TARGET_DECK Funny::sampleText
 Basic
 mmmmmm yes
 
 $$ \frac{N}{N} $$
 $$ \begin{align}
-    B' &=-\nabla \times E,\\
-    E' &=\nabla \times B - 4\pi j
+ &= 
 \end{align} $$
 I think
 
