@@ -1,0 +1,170 @@
+{
+  "main": {
+    "id": "2c9ab8d7bfa0fcb9",
+    "type": "split",
+    "children": [
+      {
+        "id": "0c68606d55aca7d0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8895dd841ac56e82",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Templates/CardPage.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "ed78d1e9d3ae8c5e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Year 2/Propulsion/4 Ramjets/Prop 4 4.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "1b560d4461b4c9ba",
+    "type": "split",
+    "children": [
+      {
+        "id": "fa5869509d87d8b3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "36544cca903a5622",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "b8a51670dc114a33",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "ee1431b03d1e935c",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "c5372b784fdc67dc",
+    "type": "split",
+    "children": [
+      {
+        "id": "006d8f4f3fe5611f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2b7b445d9d89f3e2",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Year 2/Propulsion/4 Ramjets/Prop 4 4.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "422a49713478b59f",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "templater-obsidian:Templater": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-to-anki-plugin:Obsidian_to_Anki - Scan Vault": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "markdown-importer:Open format converter": false
+    }
+  },
+  "active": "ed78d1e9d3ae8c5e",
+  "lastOpenFiles": [
+    "Year 2/Propulsion/4 Ramjets/Prop 4 5.md",
+    "Templates/trol.md",
+    "Images/Pasted image 20230404123300.png",
+    "Images/Pasted image 20230404120044.png",
+    "Year 2/Propulsion/4 Ramjets/Prop 4 4.md",
+    "Year 2/Propulsion/4 Ramjets/Prop 4 2.md",
+    "Year 2/Propulsion/3 Gas dynamics/Prop 3 5.md",
+    "Year 2/Propulsion/3 Gas dynamics/Prop 3 2.md",
+    "Year 2/Propulsion/3 Gas dynamics/Prop 3 3.md",
+    "Year 2/Propulsion/3 Gas dynamics/Prop 3 1.md",
+    "Year 2/Propulsion/3 Gas dynamics/Prop 3 4.md",
+    "Year 2/Propulsion/2 Thermodynamics/Prop 2 4.md",
+    "Year 2/Propulsion/2 Thermodynamics/Prop 2 3.md",
+    "Templates/CardPage.md",
+    "Templates/flashcard.md",
+    "Templates/latex multiline eq.md",
+    "Templates/EquationCard.md",
+    "Templates/CardPage old.md",
+    "Year 2/Propulsion/2 Thermodynamics/Prop 2 2.md",
+    "Year 2/Propulsion/2 Thermodynamics/Prop 2 2 OLD.md",
+    "Year 2/Propulsion/1 Introduction/Deck 1.md",
+    "Year 2/Propulsion/5 Combustion/Untitled.md",
+    "Misc/Regex for deleting broken ID's.md"
+  ]
+}

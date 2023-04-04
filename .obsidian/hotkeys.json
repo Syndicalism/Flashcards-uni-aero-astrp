@@ -140,5 +140,14 @@
       ],
       "key": "J"
     }
+  ],
+  "templater-obsidian:Templates/trol.md": [
+    {
+      "modifiers": [
+        "Alt",
+        "Mod"
+      ],
+      "key": "N"
+    }
   ]
 }
