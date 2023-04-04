@@ -13,7 +13,43 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Templates/CardPage.md",
+                "file": "Year 2/Propulsion/6 Rockets/Prop 6 2.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "72ba2501217d3879",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Year 2/Propulsion/6 Rockets/Prop 6 3.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "c553f8029ed1bf2d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Year 2/Propulsion/6 Rockets/Prop 6 4.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "0df40afa5211e68d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Year 2/Propulsion/6 Rockets/Prop 6 5.md",
                 "mode": "source",
                 "source": true
               }
@@ -25,14 +61,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Year 2/Propulsion/4 Ramjets/Prop 4 4.md",
+                "file": "Year 2/Propulsion/4 Ramjets/Prop 4 2.md",
                 "mode": "source",
                 "source": true
               }
             }
+          },
+          {
+            "id": "c0989ee2fecafe7a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Year 2/Propulsion/3 Gas dynamics/Prop 3 5.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -98,7 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Year 2/Propulsion/4 Ramjets/Prop 4 4.md",
+                "file": "Year 2/Propulsion/6 Rockets/Prop 6 5.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -141,25 +189,39 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "ed78d1e9d3ae8c5e",
+  "active": "0df40afa5211e68d",
   "lastOpenFiles": [
+    "Images/Pasted image 20230404173801.png",
+    "Images/Pasted image 20230404172834.png",
+    "Images/Pasted image 20230404171730.png",
+    "Images/Pasted image 20230404171135.png",
+    "Year 2/Propulsion/6 Rockets/Prop 6 4.md",
+    "Year 2/Propulsion/6 Rockets/Prop 6 5.md",
+    "Images/Pasted image 20230404170347.png",
+    "Images/Pasted image 20230404170031.png",
+    "Year 2/Propulsion/6 Rockets/Prop 6 3.md",
+    "Images/Pasted image 20230404164514.png",
+    "Year 2/Propulsion/6 Rockets/Prop 6 2.md",
+    "Templates/EquationCard.md",
+    "Year 2/Propulsion/4 Ramjets/Prop 4 2.md",
+    "Year 2/Propulsion/3 Gas dynamics/Prop 3 5.md",
+    "Year 2/Propulsion/3 Gas dynamics/Prop 3 4.md",
+    "Templates/CardPage.md",
+    "Year 2/Propulsion/3 Gas dynamics/Prop 3 3.md",
+    "Images/Pasted image 20230404143355.png",
+    "Year 2/Propulsion/6 Rockets",
+    "Year 2/Propulsion/4 Ramjets/Prop 4 4.md",
     "Year 2/Propulsion/4 Ramjets/Prop 4 5.md",
+    "Images/Pasted image 20230404124438.png",
     "Templates/trol.md",
     "Images/Pasted image 20230404123300.png",
     "Images/Pasted image 20230404120044.png",
-    "Year 2/Propulsion/4 Ramjets/Prop 4 4.md",
-    "Year 2/Propulsion/4 Ramjets/Prop 4 2.md",
-    "Year 2/Propulsion/3 Gas dynamics/Prop 3 5.md",
     "Year 2/Propulsion/3 Gas dynamics/Prop 3 2.md",
-    "Year 2/Propulsion/3 Gas dynamics/Prop 3 3.md",
     "Year 2/Propulsion/3 Gas dynamics/Prop 3 1.md",
-    "Year 2/Propulsion/3 Gas dynamics/Prop 3 4.md",
     "Year 2/Propulsion/2 Thermodynamics/Prop 2 4.md",
     "Year 2/Propulsion/2 Thermodynamics/Prop 2 3.md",
-    "Templates/CardPage.md",
     "Templates/flashcard.md",
     "Templates/latex multiline eq.md",
-    "Templates/EquationCard.md",
     "Templates/CardPage old.md",
     "Year 2/Propulsion/2 Thermodynamics/Prop 2 2.md",
     "Year 2/Propulsion/2 Thermodynamics/Prop 2 2 OLD.md",

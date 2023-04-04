@@ -58,7 +58,8 @@ START_CARD
 Basic
 
 
-What does this equation tell us about what fluid velocity change is achieveable with a converging nozzle? $\frac{1}{A} \frac{dA}{dx} = \frac{1}{U} \frac{dU}{dx} (Ma^{2} - 1)$
+What does this equation tell us about what fluid velocity change is achieveable with a converging nozzle? 
+$$\frac{1}{A} \frac{dA}{dx} = \frac{1}{U} \frac{dU}{dx} (Ma^{2} - 1)$$
 
 Back: 
 - It shows us that for a converging nozzle ($\frac{dA}{dx}<1$) in the subsonic regime, gas can only be accelerated to mach 1. Here gas will alwayse be accelerated.
