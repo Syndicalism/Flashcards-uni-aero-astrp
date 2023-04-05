@@ -149,5 +149,15 @@
       ],
       "key": "N"
     }
+  ],
+  "global-search-and-replace:snr-search-and-replace": [
+    {
+      "modifiers": [
+        "Alt",
+        "Mod",
+        "Shift"
+      ],
+      "key": "R"
+    }
   ]
 }

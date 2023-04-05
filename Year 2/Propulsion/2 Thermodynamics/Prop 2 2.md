@@ -26,7 +26,7 @@ Basic
 State and explain the two property rule.
 
 Back: 
-- â€œThe state of a simple compressible system is completely specified by two independent, intensive properties.â€
+- “The state of a simple compressible system is completely specified by two independent, intensive properties.”
 - Simple implies no electrical, magnetic, gravitational, motion or surface tension effects. Basically that the behaviour of the gas is not being influenced by fucky forces beyond the scope of basic gas dynamics. Note that this isn't assuming a perfect or even ideal gas.
 - The 2 variables must be independent, for instance under the assumption of an ideal gas internal energy and enthalpy are NOT independent hence a different variable pair must be used (like pressure and specific volume).
 

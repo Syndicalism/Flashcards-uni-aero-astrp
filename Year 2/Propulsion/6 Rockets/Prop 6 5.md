@@ -144,5 +144,3 @@ Disadvantages:
 END_CARD
 
 
-
-![[Pasted image 20230404173801.png]]
