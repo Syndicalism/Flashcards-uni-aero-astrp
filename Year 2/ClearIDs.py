@@ -1,4 +1,5 @@
 import os
+import re
 
 markdown_files = []
 
@@ -10,21 +11,28 @@ for dirpath, dirnames, filenames in os.walk('C:/uni stuff/Flashcards-uni-aero-as
         if name.endswith(".md"):
             markdown_files.append(os.path.join(dirpath, name))
 
-searchRegex = "ABFALolmao"
+
+def remove_regex_matches(pattern, string):
+    # compile the regex pattern for performance
+    regex = re.compile(pattern)
+    # use sub() function to replace all matches with empty string
+    return regex.sub("", string)
 
 def replace_words(file_location):
-    text = ""
+    text2 = ""
     found = False 
     with open(file_location, 'r', encoding="Latin-1") as f:
         text = f.read(  )
-        if ( text.find( searchRegex ) != -1 ):
-            found = True
-            text = text.replace( searchRegex, "lmao")
+        text2 = remove_regex_matches( "(\<!--).+?(--\>\n)", text )
+        if ( text != text2 ):
+            found = False
+            print("found in",location)
 
     if ( found ):
         with open(file_location, 'w', encoding="Latin-1") as f:
-            f.write(text)
+            f.write(text2)
         print("Replaced at: \t",location)
+
 
 
 for location in markdown_files:

@@ -26,7 +26,7 @@ Basic
 State and explain the two property rule.
 
 Back: 
-- “The state of a simple compressible system is completely specified by two independent, intensive properties.”
+- The state of a simple compressible system is completely specified by two independent, intensive properties.
 - Simple implies no electrical, magnetic, gravitational, motion or surface tension effects. Basically that the behaviour of the gas is not being influenced by fucky forces beyond the scope of basic gas dynamics. Note that this isn't assuming a perfect or even ideal gas.
 - The 2 variables must be independent, for instance under the assumption of an ideal gas internal energy and enthalpy are NOT independent hence a different variable pair must be used (like pressure and specific volume).
 
@@ -170,7 +170,7 @@ Basic
 What is enthalpy and states it's symbols. Then describe it's general practical use.
 
 Back: 
-- Symboles are $H$ and $h$ for specific entropy
+- Symbols are $H$ and $h$ for specific entropy
 - It is defined as the sum of the systems internal energy and the product of it's pressure and volume aka: $H=U+PV$ or $h=u + \frac{P}{\rho}$
 - Since internal energy can't really be found we often work with changes instead: $\delta H = \delta U + \delta(PV) = \delta U + \delta W$
 
