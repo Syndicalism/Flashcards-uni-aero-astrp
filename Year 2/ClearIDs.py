@@ -17,7 +17,7 @@ def replace_words(file_location):
     found = False 
     with open(file_location, 'r', encoding="Latin-1") as f:
         text = f.read(  )
-        if ( text.find( searchRegex ) ):
+        if ( text.find( searchRegex ) != -1 ):
             found = True
             text = text.replace( searchRegex, "lmao")
 
@@ -25,11 +25,9 @@ def replace_words(file_location):
         with open(file_location, 'w', encoding="Latin-1") as f:
             f.write(text)
         print("Replaced at: \t",location)
-    else:
-        print("None found: \t",location)
 
 
 for location in markdown_files:
     replace_words( location )
 
-input("")
+input("Done")
