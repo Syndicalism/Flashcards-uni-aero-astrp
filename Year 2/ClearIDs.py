@@ -25,8 +25,7 @@ def replace_words(file_location):
         text = f.read(  )
         text2 = remove_regex_matches( "(\<!--).+?(--\>\n)", text )
         if ( text != text2 ):
-            found = False
-            print("found in",location)
+            found = True 
 
     if ( found ):
         with open(file_location, 'w', encoding="Latin-1") as f:
@@ -34,6 +33,7 @@ def replace_words(file_location):
         print("Replaced at: \t",location)
 
 
+input("Confirm deletion of all ID's in the markdown files")
 
 for location in markdown_files:
     replace_words( location )

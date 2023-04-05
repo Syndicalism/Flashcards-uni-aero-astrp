@@ -12,7 +12,7 @@ Back:
 $$\frac{1}{A} \frac{dA}{dx} = \frac{1}{U} \frac{dU}{dx} (Ma^{2} - 1)$$
 - The use of a converging diverging nozzle allows for supersonic acceleration of the exhaust (with the working principle behined that nozzle being shown in the equation above)
 - This nozzle converts the thermal and pressure energy in the gas into useful KE
-
+<!--ID: 1680694727549-->
 END_CARD
 
 
@@ -41,7 +41,7 @@ Back:
 - $V_{j}$ is the exhaust velocity
 - $\gamma$ is the specific heat ratio of the exhaust
 - $c_{p}$ is the constant pressure specific heat of the exhaust
-
+<!--ID: 1680694727562-->
 END_CARD
 
 
@@ -76,7 +76,7 @@ h_{c} - h_{e} &=   \frac{1}{2} (V^{2}_{e} - V^{2}_{c} ) &\to&& c_{p} (T_{c} - T_
 $$ \begin{align}
 V_{e} & =\sqrt{2c_{p} \left(T_{0,c} - T_{0c} \left(\frac{P_{e}}{P_{0c}}\right)^{\frac{\gamma-1}{\gamma}}\right)} & &\to & V_{j} &= \sqrt{2 c_{p} T_{0c} \left[1 - \left(\frac{P_{e}}{P_{0c}}\right)^\frac{\gamma-1}{\gamma} \right]}
 \end{align} $$
-
+<!--ID: 1680694727576-->
 END_CARD
 
 
@@ -99,7 +99,7 @@ I_{sp} &= \frac{I_{T}}{g_{0} m_{p}}
 $$ \begin{align}
 I_{sp} &= \frac{F}{g_{0} \dot{m}} 
 \end{align} $$
-
+<!--ID: 1680694727590-->
 END_CARD
 
 
@@ -113,7 +113,7 @@ What does$I_{sp}$ of an engine tell you about it's performance?
 
 Back: 
 - It shows how much force can be generated per mass of propleant acting as a sort of efficiency metric
-
+<!--ID: 1680694727602-->
 END_CARD
 
 
@@ -129,7 +129,7 @@ Back:
 - Effective exhaust velocity
 - Because why the fuck do we divide by $g_{0}$, it's just an unneeeded earth centric step that is dumb and stupid
 - Screw ISP
-
+<!--ID: 1680694727614-->
 END_CARD
 
 
@@ -146,7 +146,7 @@ Back:
 $$ \begin{align}
 c_{e} &= \frac{F}{\dot{m}}
 \end{align} $$
-
+<!--ID: 1680694727627-->
 END_CARD
 
 
@@ -163,7 +163,7 @@ $$ \begin{align}
 c_{e} &= \frac{F}{\dot{m}} & & & I_{sp} &= \frac{F}{g_{0} \dot{m}}\\
 && \therefore c_{e} &= \frac{I_{sp}}{g_{0}}
 \end{align} $$
-
+<!--ID: 1680694727640-->
 END_CARD
 
 
@@ -184,7 +184,7 @@ Back:
 - $P_{c}$ is combustion chamber exit temperature
 - $A_{t}$ is the are of the throat
 - $\dot{m}$ is the mass flow rate though the throat
-
+<!--ID: 1680694727652-->
 END_CARD
 
 
@@ -201,7 +201,7 @@ Back:
 - Since it is supersonic past the throat downstream information cannot propagate backwards
 - Downstream conditions cannot effect characteristic velocity of a correctly functioning rocket
 - Note that in the event it does  not achieve supersonic flow then it can be influenced by downstream conditions
-
+<!--ID: 1680694727665-->
 END_CARD
 
 
@@ -222,7 +222,7 @@ Back:
 - $F=$  nozzle thrust coefficient
 - $P_{c}$ is combustion chamber exit temperature
 - $A_{t}$ is the are of the throat
-
+<!--ID: 1680694727678-->
 END_CARD
 
 
@@ -241,7 +241,7 @@ C_{F} &= \frac{F}{P_{c} A_{t}} & & & C^{*} &= \frac{P_{c}A_{t}}{\dot{m}} \\
 &&  &=  \frac{F}{\dot{m}}\\
 && C_{F}  C^{*}  &=  c_{e}
 \end{align} $$
-
+<!--ID: 1680694727692-->
 END_CARD
 
 
@@ -257,7 +257,7 @@ What is the symbol for:
 Back: 
 -  characteristic velocity is $C^{*}$
 - nozzle thrust coefficient is $C_{F}$
-
+<!--ID: 1680694727705-->
 END_CARD
 
 

@@ -16,7 +16,7 @@ Back:
 - Ideal gas
 - Additionally we know that mass is conserved in the flow hence $\rho UA=\dot{m}=\text{constant}$ hence $\frac{d}{dx}(\rho UA) = 0$ and by expanding out $\frac{d\rho}{dx} \frac{1}{\rho} + \frac{dU}{dx} \frac{1}{U} + \frac{dA}{dx} \frac{1}{A}  = 0$
 - Then by combining this with equations relating to momentum and energy conservation for compressible flow along side the equation for speed of sound ($a^{2}= \frac{dP}{d\rho}$) you can get that equation
-
+<!--ID: 1680694728150-->
 END_CARD
 
 
@@ -47,7 +47,7 @@ Back:
 - Ideal gas
 - Isentropic flow
 - Small changes in diameter such that changes are gradual
-
+<!--ID: 1680694728163-->
 END_CARD
 
 
@@ -64,7 +64,7 @@ $$\frac{1}{A} \frac{dA}{dx} = \frac{1}{U} \frac{dU}{dx} (Ma^{2} - 1)$$
 Back: 
 - It shows us that for a converging nozzle ($\frac{dA}{dx}<1$) in the subsonic regime, gas can only be accelerated to mach 1. Here gas will alwayse be accelerated.
 - Also that for the supersonic regime, the lowest velocity that can be achieved will be mach 1. Here gas will alwayse be deccelerated.
-
+<!--ID: 1680694728177-->
 END_CARD
 
 
@@ -82,7 +82,7 @@ Back:
 - It shows us that for a diverging nozzle ($\frac{dA}{dx}>1$) in the subsonic regime, gas can be deccelerated to zero and only deccelerated.
 - Also that for the supersonic regime, the gas can be accelerated infinitely but only accelerated.
 - Of course in reality the amount the gas can be accelerated does have limits, you can't get gas past the speed of light using a big enough nozzle. (sadly)
-
+<!--ID: 1680694728192-->
 END_CARD
 
 
@@ -99,7 +99,7 @@ Back:
 - This is because a subsonic flow will accelerate in a converging nozzle
 - When it exceeds mach 1 it will become a supersonic flow, hence it will deccelerate in a converging nozzle... making it subsonic
 - It can be seen that regardless of ability to reach supersonic flow before the throat it will be stuck at mach 1 for the duration of the converging region.
-
+<!--ID: 1680694728204-->
 END_CARD
 
 
@@ -115,7 +115,7 @@ For a converging-diverging nozzle operating correctly, where in the nozzle does 
 Back: 
 - If the nozzle is operating correctly there will be no normal shocks inside the nozzle
 - In correct operation, although supersonic flow exists the conditions are such that no shocks will form and the flow will remain supersonic as it leaves the nozzle
-
+<!--ID: 1680694728215-->
 END_CARD
  
 --------
@@ -141,7 +141,7 @@ Back:
 - It makes the assumption of a perfect gas along with basically every assumption you can make except for compressibility
 - The equation itself is the result of the fact that choked flow through a nozzle has maximum flow rate which is independent of pressure differential across the nozzle
 - The equation shows that the only way to incerease flow throughput is by increasing stagnation pressure or temperature or by increasing throat area
-
+<!--ID: 1680694728228-->
 END_CARD
 
 
@@ -162,7 +162,7 @@ Back:
 - Increasing reseviour temperature - increases mass flow rate
 - Increasing reseviour density - increases mass flow rate
 - Decreasing output ambient pressure - no change
-
+<!--ID: 1680694728243-->
 END_CARD
 
 
@@ -179,7 +179,7 @@ Where does the energy for accelerating a gas in the diverging section of a conve
 Back: 
 - The pressure and temperature get converted into kinetic energy
 - ![[Pasted image 20230402153915.png]]
-
+<!--ID: 1680694728256-->
 END_CARD
 
 
@@ -198,7 +198,7 @@ Back:
 - In realistic conditions there must be no flow at all
 - On the diagram below this state would correspond to (1)
 - ![[Pasted image 20230402152035.png]]
-
+<!--ID: 1680694728268-->
 END_CARD
 
  
@@ -217,7 +217,7 @@ Back:
 - The flow deccelerates in the diverging region and never reaches supersonic speeds
 - On the diagram below this state would correspond to (2)
 - ![[Pasted image 20230402152035.png]]
-
+<!--ID: 1680694728280-->
 END_CARD
 
 
@@ -238,7 +238,7 @@ Back:
 - The flow is subsonic and hence deccelerates during the diverging region
 - On the diagram below this state would correspond to (3)
 - ![[Pasted image 20230402152035.png]]
-
+<!--ID: 1680694728293-->
 END_CARD
 
 
@@ -260,7 +260,7 @@ Back:
 - Now it's subsonic it will deccelerate in the remaining region of the diverging nozzle
 - On the diagram below this state would correspond to (4)
 - ![[Pasted image 20230402152035.png]]
-
+<!--ID: 1680694728306-->
 END_CARD
 
 
@@ -281,7 +281,7 @@ Back:
 - At the exit of the diverging region the pressure gradient is too great leading to a normal shock and a transition into subsonic flow
 - On the diagram below this state would correspond to (5)
 - ![[Pasted image 20230402152035.png]]
-
+<!--ID: 1680694728318-->
 END_CARD
 
 
@@ -298,7 +298,7 @@ Back:
 - The pressure of the exiting gas is too low, this means that oblique shocks will form outside the nozzle (in a vehicle this causes inefficiency)
 - On the diagram below this state would correspond to (6)
 - ![[Pasted image 20230402152035.png]]
-
+<!--ID: 1680694728330-->
 END_CARD
 
 
@@ -317,7 +317,7 @@ Back:
 - This is the ideal operating condition
 - On the diagram below this state would correspond to (7)
 - ![[Pasted image 20230402152035.png]]
-
+<!--ID: 1680694728344-->
 END_CARD
 
 
@@ -335,6 +335,6 @@ Back:
 - The pressure of the exhaust is so high that it exceeds ambient pressure and expands until it forms shocks (in a vehicle this causes inefficiency)
 - On the diagram below this state would correspond to (8)
 - ![[Pasted image 20230402152035.png]]
-
+<!--ID: 1680694728357-->
 END_CARD
  

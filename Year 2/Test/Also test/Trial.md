@@ -9,6 +9,5 @@ owo
 
 Back: 
 - yes
-<!--ID: 1680533335250-->
 END_CARD
 

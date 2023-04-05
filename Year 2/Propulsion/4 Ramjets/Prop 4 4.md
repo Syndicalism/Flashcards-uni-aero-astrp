@@ -36,7 +36,7 @@ Stagnation density:
 - We know density, temperature and pressure are coupled for an ideal gas by $P=\rho RT \:\to\: \frac{P_{0}}{RT_{0}} = \rho_{0}$, hence using the information derived so far:
 	- In an isentropic flow $P_{0},T_{0}$ are constant hence stagnation density will not change
 	- In a non isentropic flow $T_{0}$ will be cosntant but $P_{0}$ will decrease, hence for an ideal gas stagnation density will increase
-
+<!--ID: 1680694727761-->
 END_CARD
 
 
@@ -56,7 +56,7 @@ Back:
 	- Stagnation temperature is equivilent to temperature at the inlet and outlet
 - Heat is added enthalpy will increase, it is an ideal gas this will cause a temperature increase
 - Hence the stagnation temperature must increase
-
+<!--ID: 1680694727775-->
 END_CARD
 
 
@@ -70,7 +70,7 @@ In a ideal ramjet how does stagnation temperature and stagnation pressure change
 Back: 
 - In an ideal ramjet the nozzle is isentropic, no work is done and we are working with a perfect gas
 - Hence there will be no change in either stagnation temperature or pressure
-
+<!--ID: 1680694727787-->
 END_CARD
 
 
@@ -85,7 +85,7 @@ State how stagnation pressure and stagnation temperature change through each com
 Back: 
 - Stagnation pressure is constant throughout the entire ramjet
 - Stagnation temperature is constant in the diffuser and nozzle but increases in the combustion chamber
-
+<!--ID: 1680694727799-->
 END_CARD
 
 
@@ -99,7 +99,7 @@ What are the 2 main sources of losses in a real ramjet?
 Back: 
 - Pressure losses, as a result of friction
 - Heat losses, as a result of incomplete combustion and conduction to environment
-
+<!--ID: 1680694727811-->
 END_CARD
 
 
@@ -117,7 +117,7 @@ Back:
 | Diffuser ($1\to2$)                     | Combustion ($2\to3$)                   | Nozzle ($3\to4$)                       | 
 | -------------------------------------- | -------------------------------------- | -------------------------------------- |
 | $$\Gamma{d}= \frac{P_{0,2}}{P_{0,1}}$$ | $$\Gamma{c}= \frac{P_{0,3}}{P_{0,2}}$$ | $$\Gamma{n}= \frac{P_{0,4}}{P_{0,3}}$$ |
-
+<!--ID: 1680694727824-->
 END_CARD
 
 
@@ -139,7 +139,7 @@ $$ \begin{align}
 &\text{ideal}  && & &\text{real}\\
 \dot{Q} &= \text{LCV} \: \dot{m}_{f} &&\to& \dot{Q} &= \eta_\text{comb} \: \text{LCV} \: \dot{m}_{f} 
 \end{align} $$
-
+<!--ID: 1680694727837-->
 END_CARD
 
 
@@ -153,7 +153,7 @@ Why is the full thrust equation used when dealing with real ramjets?
 Back: 
 - The exhaust is not nessisarilly fully expanded, so the full thrust equation must be used:
 $$ F = \dot{m} [ (1+f)V_{j} - V ] \underline{+ (P_{j} - P_{A})A_{j}}$$
-
+<!--ID: 1680694727849-->
 END_CARD
 
 
@@ -169,7 +169,7 @@ Back:
 
 - Real machines will have additional increases in entropy
 - Depending on if the machine is supposed to extract/do work or just reach a specific target temperature the exact disruption varies
-
+<!--ID: 1680694727863-->
 END_CARD
 
 
@@ -194,7 +194,7 @@ Back:
 - $\text{Ma}$ is the mach number of the incoming air
 
 - Since KE is negligible in both cases $P_{2} = P_{2,0}$
-
+<!--ID: 1680694727875-->
 END_CARD
 
 
@@ -219,7 +219,7 @@ Back:
 - $\text{LCV}$ is lower calorific value of the fuel 
 - $\eta_{\text{comb}}$ is combustion efficiency paramiter
  
-
+<!--ID: 1680694727888-->
 END_CARD
 
 
@@ -236,8 +236,7 @@ $$ \begin{align}
 \text{Ideal:} & & P_{0,4} &= P_{0,1}\\
 \text{Real:} & & P_{0,4} &= \Gamma_{d} \Gamma_{c} \Gamma_{n} P_{0,1}
 \end{align} $$
-
-
+<!--ID: 1680694727900-->
 END_CARD
 
 
@@ -254,7 +253,7 @@ Back:
 - Entropy is produced due to pressure losses, leading to $T_{4}$ being greater than in the ideal case when the gas is full expanded ($P_{4}=P_{A}$)
 - The equation $V_{j} = \sqrt{2 c_{p} (T_{3} - T_{4}) }$ shows that velocity is a function of the temperature difference across the nozzle
 - The drop in exhaust velocity will result in lower thrust
-
+<!--ID: 1680694727913-->
 END_CARD
 
 

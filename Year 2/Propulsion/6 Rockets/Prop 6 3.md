@@ -20,7 +20,7 @@ Back:
 - Deadweight mass - $m_{dw}$ - The mass of structure of the stage, also called structure mass
 - Initial mass - $m_{0}$ - The total mass of the stage + payload before any propellant is used
 - Burnout mass - $m_{bo}$ - The mass of the stage+payload once all propellant in the stage is used
-
+<!--ID: 1680694727360-->
 END_CARD
 
 
@@ -43,7 +43,7 @@ Back:
 $$ \begin{align}
 \text{MR} &= \frac{m_{0}}{m_{bo}}= \frac{m_{bo}+m_{p}}{m_{bo}}
 \end{align} $$
-
+<!--ID: 1680694727375-->
 END_CARD
 
 
@@ -59,7 +59,7 @@ $$ \begin{align}
 {\lambda} &= \frac{m_{pl}}{m_{0}} = \frac{\text{payload mass}}{\text{initial mass}}
 \end{align} $$
 - ${\lambda}$ is the symbol for payload mass to initial mass
-
+<!--ID: 1680694727388-->
 END_CARD
 
 
@@ -75,7 +75,7 @@ $$ \begin{align}
 {\delta} &= \frac{m_{dw}}{m_{0}} = \frac{\text{deadweight mass}}{\text{initial mass}}
 \end{align} $$
 - ${\delta}$ is the symbol for deadweight mass to initial mass ratio
-
+<!--ID: 1680694727399-->
 END_CARD
 
 
@@ -93,7 +93,7 @@ Back:
 - ${\delta}$ is the symbol for deadweight mass to initial mass ratio
 - ${\lambda}$ is the symbol for payload mass to initial mass
 - $\text{MR}$ is rocket mass ratio
-
+<!--ID: 1680694727411-->
 END_CARD
 
 
@@ -122,7 +122,7 @@ Back:
 - $c_{e}$ is effective exhaust velocity
 - $\Delta V_{\text{ideal}}$ is the ideal change in velocity due to thrust
 - This equation assumes that there are no forces acting on the rocket other than thrust but apart from that makes no assumptions
-
+<!--ID: 1680694727426-->
 END_CARD
 
 
@@ -147,7 +147,7 @@ Back:
 - $g$ is local gravitational acceleration
 - $\psi$ is the angle between the direction of thrust and the normal to the direction of gravity (upright it is $90\degree$)
 - $D$ is the force of drag
-
+<!--ID: 1680694727440-->
 END_CARD
 
 
@@ -166,7 +166,7 @@ To decrease it you can:
 - Fly at a shallow angle
 - Decreasing the time spent during a burn
 - Decrease the period of the burn in high gravity area's (be high)
-
+<!--ID: 1680694727451-->
 END_CARD
 
 
@@ -186,7 +186,7 @@ To decrease it you can:
 - Decreasing the time spent during a burn
 - Fly slowly through regions of high density
 	- To achieve this you may want to fly vertically for the fastest decrease in air density
-
+<!--ID: 1680694727463-->
 END_CARD
 
 
@@ -203,7 +203,7 @@ What is a gravity turn?
 Back: 
 - In practice, launches start vertically with relatively low speeds and accelerations, which occurs quite naturally because the mass is highest at lift-off. 
 - After that, the angle ψ is reduced quite rapidly to reduce gravity losses in a manoeuvre called a gravity turn.
-
+<!--ID: 1680694727477-->
 END_CARD
 
 
@@ -221,7 +221,7 @@ $$ \begin{align}
 \end{align} $$
 - The rocket equation shows us that we get diminishing returns for just adding more fuel, in the context of gravity eventually "more fuel" just doesn't help
 - By introducing staging and dumping unneeded components (empty tanks, engines ect) we can overcome this issue
-
+<!--ID: 1680694727492-->
 END_CARD
 
 
@@ -242,7 +242,7 @@ Back:
 - ${\delta_{i}}$ is  deadweight mass to initial mass ratio for stage $i$
 - $\Delta V_{i}$ is the delta V that is achieved by stage i
 - $c_{e,i}$ is the effective exhaust velocity for stage i
-
+<!--ID: 1680694727509-->
 END_CARD
 
 
@@ -259,7 +259,7 @@ Back:
 - This results in an exponential relationship as stage size increases, which is how you get absolutely ridiculous rockets like the Saturn 5
 - Additionally stages provide lots of added complexity
 - The largest improvement in performance comes from going from 1 to 2 stages, as you'd expect due to diminishing returns with additional staging
-
+<!--ID: 1680694727521-->
 END_CARD
 
 
@@ -276,7 +276,7 @@ Back:
 $$ \begin{align}
 \lambda &= \lambda_{1} \times \lambda_{2} \times \lambda_{3} \times ... \times \lambda_{n}
 \end{align} $$
-
+<!--ID: 1680694727533-->
 END_CARD
 
 

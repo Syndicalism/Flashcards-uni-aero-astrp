@@ -12,7 +12,7 @@ Back:
 - isentropic refers to having constant entropy
 - adiabatic process is a thermodynamic process in which heat is not either lost or gained by the thermodynamic system
 - Isentropic process is a type of adiabatic process, but an adiabatic process is not nessisarily a isentropic one
-
+<!--ID: 1680694728368-->
 END_CARD
 
 
@@ -32,7 +32,7 @@ Back:
 - This is why another name for stagnation enthalpy is static enthalpy
 - Somewhat intuitively that is why it's equation is $h_{0} = h + \frac{V^{2}}{2}$
 - Stagnation enthalpy is also sometimes called total enthalpy, because 
-
+<!--ID: 1680694728381-->
 END_CARD
 
  
@@ -49,7 +49,7 @@ Back:
 - If no work is also done then there is no change in the total energy of the system
 - Stagnation enthalpy is essentially the sum of energy of a system
 - Hence there is no change in stagnation enthalpy
-
+<!--ID: 1680694728394-->
 END_CARD
 
 
@@ -67,7 +67,7 @@ Back:
 - If no work is also done then there is no change in the total energy of the system
 - Although there may be no total energy change, if the fluids velocity changes then it's enthalpy will also change
 - Calculating how it changes may make use of the equation for stagnation enthalpy ($h_{0} = h + \frac{V^{2}}{2}$) since in this process that will not change
-
+<!--ID: 1680694728406-->
 END_CARD
 
  
@@ -82,7 +82,7 @@ Why doesn't stagnation enthalpy change across a normal shock?
 Back: 
 - In a normal shock no work is done and no heat is transferred
 - Hence stagnation enthalpy will not change
-
+<!--ID: 1680694728419-->
 END_CARD
 
  
@@ -105,7 +105,7 @@ Back:
 - The equation for mach number can be used to rearange equations interms of mach number
 - Using these facts together can be used to manipulate the equations into what are known as the "Rankine-Hugoniot equations"
 - ![[Pasted image 20230402105715.png]]
-
+<!--ID: 1680694728430-->
 END_CARD
 
 
@@ -128,7 +128,7 @@ Back:
 - $\gamma=$ specific heat ratio of the gas
 - This equation is supposed to be applied on the boundaries of the normal shock
 - It assumes a perfect gas as well as all the assumptions related to the compressible gas flow equations (viscosity ect)
-
+<!--ID: 1680694728443-->
 END_CARD
 
 
@@ -150,7 +150,7 @@ Back:
 - $P_{2}/P_{1}=$ The ratio of the pressure after to before the normal shock
 - This equation is supposed to be applied on the boundaries of the normal shock
 - It assumes a perfect gas as well as all the assumptions related to the compressible gas flow equations (viscosity ect)
-
+<!--ID: 1680694728455-->
 END_CARD
 
 
@@ -169,7 +169,7 @@ Back:
 - Temperature increases, the increase is exponential with mach number increase
 - Velocity decreases, the decrease tends towords zero with higher mach numbers
 - ![[Pasted image 20230402134249.png]]
-
+<!--ID: 1680694728467-->
 END_CARD
 
 
@@ -186,7 +186,7 @@ Back:
 - There is entropy change across a normal shock!
 - The process may be adiabatic but isn't isentropic
 - The shock itself is caused by extreme instability in the fluid state which leads to a rapid conversion of KE into other forms of energy, during this some is used to increase the fluids temperature, this produces entropy.
-
+<!--ID: 1680694728479-->
 END_CARD
 
 
@@ -206,7 +206,7 @@ Back:
 - The equations predict a reduction in entropy if applied to a mach number less than 1
 - This violates the seond law of thermodynamics and is not possible
 - This is evedence that as expected the equations only work when analysing the transition from supersonic to subsonic flows (aka $Ma_{1}>1>Ma_{2}$)
-
+<!--ID: 1680694728491-->
 END_CARD
 
  
@@ -223,7 +223,7 @@ Back:
 - The reason abrupt changes in conditions can exist is because of the nature of supersonic flows: a flow so fast that information cannot back propigate
 - This means that even 1mm before the shock the flow may have perfectly undisterbed behaviour (rather than the continous transitions seen in things like potential flow)
 - Various conditions will contribute to where a shock wave forms but a common one is pressure difference, a normal shock will often form such that it produces a pressure equal to the opposing pressure which caused the transition. (for example atmospheric pressure) 
-
+<!--ID: 1680694728502-->
 END_CARD
 
  

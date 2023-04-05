@@ -2,6 +2,7 @@ TARGET_DECK: Propulsion::2 Thermodynamics
 
 
 
+
 START_CARD
 Basic
 
@@ -13,7 +14,7 @@ Properties that define the state of a system. The 3 types are:
 - Extensive, properties do depend on the amount of material eg: Mass, kinetic energy. Denoted using upper case letters eg $C_{p}$ constant pressure heat. 
 - Specific, a type of intensive property derived by dividing any extensive property by mass. Denoted using lower case letters eg $c_{p}$ constant pressure specific heat. 
 ![[Pasted image 20230401101743.png]]
-
+<!--ID: 1680694728849-->
 END_CARD
 
 
@@ -29,8 +30,7 @@ Back:
 - The state of a simple compressible system is completely specified by two independent, intensive properties.
 - Simple implies no electrical, magnetic, gravitational, motion or surface tension effects. Basically that the behaviour of the gas is not being influenced by fucky forces beyond the scope of basic gas dynamics. Note that this isn't assuming a perfect or even ideal gas.
 - The 2 variables must be independent, for instance under the assumption of an ideal gas internal energy and enthalpy are NOT independent hence a different variable pair must be used (like pressure and specific volume).
-
-
+<!--ID: 1680694728861-->
 END_CARD
 
 
@@ -64,7 +64,7 @@ Back:
 - In this example the end points are the same but it is clear that the work done is different!
 
 ![[Pasted image 20230401103635.png]]
-
+<!--ID: 1680694728873-->
 END_CARD
 
 
@@ -83,7 +83,7 @@ Back:
 - Adiabatic (no heat transfer)
 - Isentropic (constant entropy, valid when a process is adiabatic and reversible)
 - Isenthalpic (constant enthalpy)
-
+<!--ID: 1680694728884-->
 END_CARD
 
 
@@ -103,7 +103,7 @@ Back:
 - $\Delta U=$ internal energy change of system
 - $Q=$ heat transfer into system
 - $W=$ thermodynamic work done, extracting energy from the system
-
+<!--ID: 1680694728897-->
 END_CARD
 
 
@@ -121,7 +121,7 @@ Back:
 - The second law of thermodynamics is a general principle which places constraints upon the direction of heat transfer and the attainable efficiencies of heat engines. 
 - As an equation it could just be stated that for a closed system $\frac{dS}{dt} \geq 0$ where $S$ is entropy.
 - In perfect systems we may model that $\frac{dS}{dt}=0$ which is of course not possible in real life.
-
+<!--ID: 1680694728909-->
 END_CARD
 
 
@@ -139,7 +139,7 @@ Back:
 - Entropy is related to the number of accessible microstates, and there is typically one unique state (called the ground state) with minimum energy. In such a case, the entropy at absolute zero will be exactly zero.
 - If the system does not have a well-defined order, then there may remain some finite entropy as the system is brought to very low temperatures, either because the system becomes locked into a configuration with non-minimal energy or because the minimum energy state is non-unique. The constant value is called the residual entropy of the system.
 - This stuff isn't really needed to be known for the course but it's nice to add in for completion.
-
+<!--ID: 1680694728920-->
 END_CARD
 
 
@@ -156,7 +156,7 @@ Back:
 - The disorder of a system, it has relation to the number of accessible microstates of the system.
 - A measure of how much unusable energy there is in a system.
 - Specific entropy is just the specific version of entropy, hence has symbol $s$, normal entropy has symbol $S$
-
+<!--ID: 1680694728930-->
 END_CARD
 
 
@@ -173,7 +173,7 @@ Back:
 - Symbols are $H$ and $h$ for specific entropy
 - It is defined as the sum of the systems internal energy and the product of it's pressure and volume aka: $H=U+PV$ or $h=u + \frac{P}{\rho}$
 - Since internal energy can't really be found we often work with changes instead: $\delta H = \delta U + \delta(PV) = \delta U + \delta W$
-
+<!--ID: 1680694728942-->
 END_CARD
 
 
@@ -190,7 +190,7 @@ Back:
 - For an ideal gas enthalpy is independent of it's pressure or volume, depending only on temperature
 - Ideal gas can use the equation $dh = c_{P} \:dT$
 - For a perfect gas $c_{P}$ is constant (by definition) hence the equation can be simplified to $\Delta h = c_{p} \Delta T$ 
-
+<!--ID: 1680694728955-->
 END_CARD
 
  
@@ -207,7 +207,7 @@ Back:
 - $\Delta U=$ increase in internal energy in the system
 - $W=$ work output from the system
 - $Q=$ heat added into the system
-
+<!--ID: 1680694728967-->
 END_CARD
 
 
@@ -230,7 +230,7 @@ Back:
 - The somewhat useful form is $PV=mRT$
 - The based form is $P=\rho RT$ (sometimes in the form $P\nu = RT$, here $\nu=$ specific density)
 - $R=$ specific gas constant
-
+<!--ID: 1680694728979-->
 END_CARD
 
 
@@ -248,7 +248,7 @@ Back:
 - $\bar{R}=$ the universal gas constant
 - $R=$ specific gas constant
 - $M=$ molar mass of the gas, the mass of 1 mol of a substance
-
+<!--ID: 1680694728991-->
 END_CARD
 
 
@@ -267,7 +267,7 @@ Back:
 - The molar mass of carbon-12 is 12g/mol
 - It's kinda obvious how this works
 - The symbol typically used for molar mass is $M$
-
+<!--ID: 1680694729004-->
 END_CARD
 
  
@@ -284,7 +284,7 @@ Back:
 - The volume occupied by the molecules is negligible relative to the empty space
 - Intermolecular interactions/forces are negligible
 - Molecules only carry translational kinetic energy, aka: no weird forms of KE storage like vibration or rotation, just linear momentum.
-
+<!--ID: 1680694729016-->
 END_CARD
 
 
@@ -303,7 +303,7 @@ Back:
 - Near phase transitions it stops working due to the funky forces involved in phase transitions (intermolecular stuff)
 
 ![[Pasted image 20230401120952.png]]
-
+<!--ID: 1680694729029-->
 END_CARD
 
 
@@ -323,7 +323,7 @@ Back:
 - $\gamma\equiv \frac{c_{P}}{c_{V}}$, it is the ratio of specific heats (about 1.4 for air) and comes up often in various other equations
 
 ![[Pasted image 20230401122452.png]]
-
+<!--ID: 1680694729041-->
 END_CARD
 
 
@@ -341,7 +341,7 @@ Back:
 - When we assume a ideal gas both internal energy and enthalpy can be shown to be functions of temperature only, hence we can show $c_{P}$ and $c_{V}$ to be ONLY functions of temperature.
 - In the perfect gas gas we take these as constants ignoring the temp variable behaviour. (For basically all this modules content we will use perfect gases.)
 - ![[Pasted image 20230401122657.png]]
-
+<!--ID: 1680694729053-->
 END_CARD
 
 
