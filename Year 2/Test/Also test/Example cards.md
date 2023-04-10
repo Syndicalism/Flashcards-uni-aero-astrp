@@ -6,7 +6,6 @@ Basic
 mmmmmm yes
 Back: 
 ok so yes
-<!--ID: 1680531063592-->
 END_CARD
 
 
@@ -29,7 +28,6 @@ Looks like it just
 continues
 
 regardless of blank space
-<!--ID: 1680531118841-->
 END_CARD
 
 START

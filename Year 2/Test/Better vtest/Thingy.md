@@ -28,7 +28,6 @@ awd
 >> adawd
 
 awdawdw
-<!--ID: 1680535393321-->
 END_CARD
 
 
@@ -41,7 +40,6 @@ Basic
 
 Back: 
 - ad
-<!--ID: 1680535393336-->
 END_CARD
 
 
@@ -66,7 +64,6 @@ Back:
 $$ \begin{align}
 awda &= awdaw
 \end{align} $$
-<!--ID: 1680535393348-->
 END_CARD
 
 

@@ -11,7 +11,7 @@ $$ \begin{align}
 For the equation above:
 - Name it's variables
 - Describe it's meaning
-- State limitiations and applicability
+- State limitations and applicability
 Ba<% "" %>ck: 
 - This is the equation for 
 
