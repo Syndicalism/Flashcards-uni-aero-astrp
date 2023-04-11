@@ -49,9 +49,33 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Year 2/Flight mechanics/3 Flight Dynamics/3.1 Rigid aircraft model Six degrees of freedom.md",
+                "file": "Year 2/Flight mechanics/3 Flight Dynamics/3.2 Decoupled linear model.md",
                 "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "3841b69e7159825a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Year 2/Flight mechanics/3 Flight Dynamics/3.3 Longitudinal model.md",
+                "mode": "preview",
                 "source": true
+              }
+            }
+          },
+          {
+            "id": "dbe7eb87bd1acd8c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Year 2/Flight mechanics/3 Flight Dynamics/3.2 Decoupled linear model.md",
+                "mode": "source",
+                "source": false
               }
             }
           },
@@ -68,7 +92,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -134,7 +158,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Year 2/Flight mechanics/3 Flight Dynamics/3.1 Rigid aircraft model Six degrees of freedom.md",
+                "file": "Year 2/Flight mechanics/3 Flight Dynamics/3.3 Longitudinal model.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -177,11 +201,15 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "486dbad010d97785",
+  "active": "3841b69e7159825a",
   "lastOpenFiles": [
+    "Year 2/Flight mechanics/3 Flight Dynamics/3.2 Decoupled linear model.md",
+    "Year 2/Flight mechanics/3 Flight Dynamics/3.3 Longitudinal model.md",
+    "Images/Pasted image 20230411101403.png",
+    "Images/Pasted image 20230411100409.png",
+    "Year 2/Flight mechanics/3 Flight Dynamics/3.1 Rigid aircraft model Six degrees of freedom.md",
     "Images/Pasted image 20230410174715.png",
     "Year 2/Flight mechanics/2 Trim and Static Stability/2.4 Lateral-Directional Stability.md",
-    "Year 2/Flight mechanics/3 Flight Dynamics/3.1 Rigid aircraft model Six degrees of freedom.md",
     "Images/Pasted image 20230410173511.png",
     "Images/Pasted image 20230410173133.png",
     "Images/Pasted image 20230410172947.png",
@@ -189,9 +217,6 @@
     "Images/Pasted image 20230410172302.png",
     "Images/Pasted image 20230410171947.png",
     "Images/Pasted image 20230410171151.png",
-    "Images/Pasted image 20230410170645.png",
-    "Images/Pasted image 20230410170518.png",
-    "Images/Pasted image 20230410164101.png",
     "Year 2/Flight mechanics/2 Trim and Static Stability/2.3 Determining Margins from flight tests.md",
     "Year 2/Flight mechanics/2 Trim and Static Stability/2.1 Longitudinal Static Stability.md",
     "Year 2/Flight mechanics/2 Trim and Static Stability/2.2 Longitudinal Manoeuvre Stability.md",
@@ -219,7 +244,6 @@
     "Year 2/Flight mechanics/1 Something",
     "Year 2/Propulsion/4 Ramjets/Prop 4 2.md",
     "Year 2/Test/Better vtest/Thingy.md",
-    "Year 2/Propulsion/2 Thermodynamics/Prop 2 4.md",
     "Year 2/Flight mechanics/3 Flight Dynamics"
   ]
 }
