@@ -50,8 +50,8 @@
               "type": "markdown",
               "state": {
                 "file": "Year 2/Propulsion/5 Combustion/Ex 5 4.md",
-                "mode": "source",
-                "source": false
+                "mode": "preview",
+                "source": true
               }
             }
           },
@@ -80,7 +80,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -146,7 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Year 2/Propulsion/5 Combustion/Ex 5 4.md",
+                "file": "Year 2/Propulsion/5 Combustion/Ex 5 3.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -189,11 +189,11 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "70aee4c1240ed235",
+  "active": "e5823f9c67f91935",
   "lastOpenFiles": [
+    "Year 2/Propulsion/5 Combustion/Ex 5 4.md",
     "Images/Pasted image 20230412182659.png",
     "Year 2/Propulsion/5 Combustion/Ex 5 3.md",
-    "Year 2/Propulsion/5 Combustion/Ex 5 4.md",
     "Year 2/Propulsion/5 Combustion/Ex 5 2.md",
     "Year 2/Propulsion/7 Gas Turbine Engines/Prop 7 2.md",
     "Year 2/Propulsion/2 Thermodynamics/Prop 2 4.md",
@@ -215,7 +215,6 @@
     "Images/Pasted image 20230410172947.png",
     "Images/Pasted image 20230410172728.png",
     "Images/Pasted image 20230410172302.png",
-    "Images/Pasted image 20230410171947.png",
     "Year 2/Flight mechanics/2 Trim and Static Stability/2.1 Longitudinal Static Stability.md",
     "Year 2/Flight mechanics/2 Trim and Static Stability/2.2 Longitudinal Manoeuvre Stability.md",
     "Year 2/Propulsion/3 Gas dynamics/Prop 3 5.md",
