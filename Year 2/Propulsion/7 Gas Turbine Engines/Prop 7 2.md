@@ -49,17 +49,4 @@ Back:
 END_CARD
 
 
---------
-
-START_CARD
-Basic
-
-
-
-Back: 
-- 
-
-END_CARD
-
-
 
