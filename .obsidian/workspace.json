@@ -54,9 +54,69 @@
                 "source": true
               }
             }
+          },
+          {
+            "id": "3f2a116f7a1163cd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Year 2/Propulsion/7 Gas Turbine Engines/Prop 7 6.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "6b3db26c4cae5b6b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Year 2/Propulsion/7 Gas Turbine Engines/Prop 7 7.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "5b50a547e659f1b7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Year 2/Propulsion/7 Gas Turbine Engines/Prop 7 8.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "0bd9f683a20d1fdc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Year 2/Propulsion/8 Design of turbofan engines/Prop 8 2.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "b949e4c08d2b1650",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Year 2/Propulsion/8 Design of turbofan engines/Prop 8 3.md",
+                "mode": "source",
+                "source": true
+              }
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 8
       }
     ],
     "direction": "vertical"
@@ -122,7 +182,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Year 2/Propulsion/7 Gas Turbine Engines/Prop 7 5.md",
+                "file": "Year 2/Propulsion/8 Design of turbofan engines/Prop 8 3.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -165,28 +225,35 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "46de597a453648c3",
+  "active": "b949e4c08d2b1650",
   "lastOpenFiles": [
-    "Year 2/Propulsion/7 Gas Turbine Engines/Prop 7 4.md",
+    "Images/Pasted image 20230507211044.png",
+    "Images/Pasted image 20230507205609.png",
+    "Images/Pasted image 20230507203928.png",
+    "Year 2/Propulsion/8 Design of turbofan engines/Prop 8 2.md",
+    "Year 2/Propulsion/8 Design of turbofan engines/Prop 8 3.md",
+    "Images/Pasted image 20230507182252.png",
+    "Images/Pasted image 20230507181628.png",
+    "Images/Pasted image 20230507181624.png",
+    "Images/Pasted image 20230507181601.png",
+    "Images/Pasted image 20230507175304.png",
+    "Year 2/Propulsion/7 Gas Turbine Engines/Prop 7 8.md",
+    "Year 2/Propulsion/8 Design of turbofan engines",
+    "Images/Pasted image 20230507163431.png",
+    "Year 2/Propulsion/7 Gas Turbine Engines/Prop 7 7.md",
+    "Images/Pasted image 20230507161937.png",
+    "Images/Pasted image 20230507155257.png",
+    "Year 2/Propulsion/7 Gas Turbine Engines/Prop 7 6.md",
     "Year 2/Propulsion/7 Gas Turbine Engines/Prop 7 5.md",
+    "Year 2/Propulsion/7 Gas Turbine Engines/Prop 7 4.md",
+    "Year 2/Propulsion/7 Gas Turbine Engines/Prop 7 2.md",
     "Year 2/Materials/1 Structural Performance/1.2 Stress, loading and failure.md",
-    "Images/Pasted image 20230427200619.png",
-    "Images/Pasted image 20230427200235.png",
-    "Images/Pasted image 20230427195724.png",
-    "Images/Pasted image 20230427195521.png",
-    "Images/Pasted image 20230427195407.png",
-    "Images/Pasted image 20230427193548.png",
-    "Images/Pasted image 20230427193135.png",
-    "Images/Pasted image 20230427193120.png",
-    "Images/Pasted image 20230427193038.png",
-    "Images/Pasted image 20230427192913.png",
     "Year 2/Materials/1 Structural Performance/1.1 Modes of failure.md",
     "Year 2/Materials/4 High temperature materials",
     "Year 2/Materials/3 Ferrous metals",
     "Year 2/Materials/2 Lightweight materials",
     "Year 2/Materials/1 Structural Performance",
     "Year 2/Materials",
-    "Year 2/Propulsion/7 Gas Turbine Engines/Prop 7 2.md",
     "Year 2/Propulsion/5 Combustion/Ex 5 3.md",
     "Year 2/Propulsion/5 Combustion/Ex 5 4.md",
     "Year 2/Propulsion/5 Combustion/Ex 5 2.md",
@@ -203,14 +270,8 @@
     "Year 2/Flight mechanics/2 Trim and Static Stability/2.1 Longitudinal Static Stability.md",
     "Year 2/Flight mechanics/2 Trim and Static Stability/2.2 Longitudinal Manoeuvre Stability.md",
     "Year 2/Propulsion/3 Gas dynamics/Prop 3 5.md",
-    "Year 2/Propulsion/6 Rockets/Prop 6 5.md",
-    "Year 2/Propulsion/6 Rockets/Prop 6 4.md",
-    "Year 2/Propulsion/6 Rockets/Prop 6 3.md",
-    "Year 2/Propulsion/6 Rockets/Prop 6 2.md",
     "Year 2/Propulsion/6 Rockets",
-    "Year 2/Propulsion/4 Ramjets/Prop 4 5.md",
     "Year 2/Flight mechanics/2 Trim and Static Stability",
-    "Year 2/Flight mechanics/1 Trim and Static Stability",
-    "Year 2/ClearIDs.py"
+    "Year 2/Flight mechanics/1 Trim and Static Stability"
   ]
 }
