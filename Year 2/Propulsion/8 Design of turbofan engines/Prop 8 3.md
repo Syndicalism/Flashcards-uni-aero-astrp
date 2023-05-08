@@ -140,23 +140,30 @@ Basic
 
 ![[Pasted image 20230508131525.png]]
 
-How can the following equation be determined, and what does it tell us?
+How can the following equation be determined, and what does it tell us about propulsive control?
 
 $$ \begin{align}
-V_{jc} &= \sqrt{ 2 c_{p} T_{05} \left( 1 - \frac{P_{9}}{P_{05}}\right)^{\frac{\gamma-1}{\gamma}} }
+V_{jc} &= \sqrt{ 2 c_{p} T_{05} \left( 1 - \frac{P_{9}}{P_{05}}^{\frac{\gamma-1}{\gamma}}\right) }
 \end{align} $$
 
 Back: 
 $$ \begin{align}
-\text{Isentropic relation:}&& \frac{T}{P^{\frac{\gamma-1}{\gamma}}} &= k & &\to & \frac{P_{9}}{P_{5}} &= \left(\frac{T_{9}}{T_{5}}\right)^{\frac{\gamma}{\gamma -1}}\\
+\text{Isentropic relation:}&& \frac{T}{P^{\frac{\gamma-1}{\gamma}}} &= k & &\to & \frac{T_{9}}{T_{5}} &= \left(\frac{P_{9}}{P_{5}}\right)^{\frac{\gamma-1}{\gamma}}\\
 \text{Adiabatic+zero work entropy:}& & h_{0} &= h + \frac{1}{2}V^{2}\\
 \text{Low KE at 5:}& & V_{5}^{2} &\approx 0, & &\therefore h_{05} \approx h_{5},\:\:T_{05} \approx T_{5}\\
 \end{align} $$
+- This can all be combined together
+
 $$ \begin{align}
 h_{05} - h_{09} &= h_{5} - h_{9} + \frac{1}{2}(V_{5}^{2} - V_{9}^{2})\\
 0 &= h_{05} - h_{9} + \frac{1}{2}( - V_{9}^{2})\\
-0 &= c_{p} (T_{05} - T_{9}) + \frac{1}{2}( - V_{9}^{2})\\
+V_{9} &= \sqrt{ 2c_{p} (T_{05} - T_{9}) } \\
+ &= \sqrt{ 2c_{p} \left(T_{05} - T_{05} \left(\frac{P_{9}}{P_{05}}\right)^{\frac{\gamma-1}{\gamma}} \right) } \\
+V_{jc} &= \sqrt{ 2c_{p} T_{05} \left(1 - \frac{P_{9}}{P_{05}}^{\frac{\gamma-1}{\gamma}} \right) } \\
 \end{align} $$
+- It shows us that by varying the pressure loss across the turbine we can change the jet output velocity
+- 
+
 
 END_CARD
 
