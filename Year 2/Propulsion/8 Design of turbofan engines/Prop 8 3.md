@@ -110,10 +110,17 @@ $$ \begin{align}
 START_CARD
 Basic
 
-
+Starting with the equation:
+$$ \begin{align}
+T_{013} = T_{02} \left( 1 + \frac{(\text{fpr})^{\frac{\gamma-1}{\gamma}} - 1}{\eta_{f}} \right)
+\end{align} $$
+What else is needed to derive fan velocity? What does the final equation tell us about the properties of fan exit velocity?
 
 Back: 
-- 
+$$ \begin{align}
+\text{Temperature across fan:}& & T_{013} &= T_{02} \left( 1 + \frac{(\text{fpr})^{\frac{\gamma-1}{\gamma}} - 1}{\eta_{f}} \right)\\
+\text{Adiabatic - zero work:}& & h_{0} &= h + \frac{1}{2}V^{2}
+\end{align} $$
 
 END_CARD
 
