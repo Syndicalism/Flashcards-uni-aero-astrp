@@ -138,10 +138,25 @@ END_CARD
 START_CARD
 Basic
 
+![[Pasted image 20230508131525.png]]
 
+How can the following equation be determined, and what does it tell us?
+
+$$ \begin{align}
+V_{jc} &= \sqrt{ 2 c_{p} T_{05} \left( 1 - \frac{P_{9}}{P_{05}}\right)^{\frac{\gamma-1}{\gamma}} }
+\end{align} $$
 
 Back: 
-- 
+$$ \begin{align}
+\text{Isentropic relation:}&& \frac{T}{P^{\frac{\gamma-1}{\gamma}}} &= k & &\to & \frac{P_{9}}{P_{5}} &= \left(\frac{T_{9}}{T_{5}}\right)^{\frac{\gamma}{\gamma -1}}\\
+\text{Adiabatic+zero work entropy:}& & h_{0} &= h + \frac{1}{2}V^{2}\\
+\text{Low KE at 5:}& & V_{5}^{2} &\approx 0, & &\therefore h_{05} \approx h_{5},\:\:T_{05} \approx T_{5}\\
+\end{align} $$
+$$ \begin{align}
+h_{05} - h_{09} &= h_{5} - h_{9} + \frac{1}{2}(V_{5}^{2} - V_{9}^{2})\\
+0 &= h_{05} - h_{9} + \frac{1}{2}( - V_{9}^{2})\\
+0 &= c_{p} (T_{05} - T_{9}) + \frac{1}{2}( - V_{9}^{2})\\
+\end{align} $$
 
 END_CARD
 
