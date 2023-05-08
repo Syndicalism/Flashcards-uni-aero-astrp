@@ -119,8 +119,16 @@ What else is needed to derive fan velocity? What does the final equation tell us
 Back: 
 $$ \begin{align}
 \text{Temperature across fan:}& & T_{013} &= T_{02} \left( 1 + \frac{(\text{fpr})^{\frac{\gamma-1}{\gamma}} - 1}{\eta_{f}} \right)\\
-\text{Adiabatic - zero work:}& & h_{0} &= h + \frac{1}{2}V^{2}
+\text{Adiabatic+zero work entropy:}& & h_{0} &= h + \frac{1}{2}V^{2} & &\to & V_{jb} &= \sqrt{ 2 c_{p} ( T_{013} - T_{19} ) }\\
+\text{Isentropic relation:}&& \frac{T}{P^{\frac{\gamma-1}{\gamma}}} &= k & &\to & \frac{P_{02}}{P_{a}} &= \left(\frac{T_{02}}{T_{a}}\right)^{\frac{\gamma}{\gamma -1}}
 \end{align} $$
+
+Using maths magic all of these combine into:
+$$ \begin{align}
+V_{jb} &= \sqrt{2 c_{p} T_{013} \left(1 - \frac{P_{a}}{P_{013}}^{\frac{\gamma-1}{\gamma}}\right)} = 
+\end{align} $$
+
+Which essentially tells us that 
 
 END_CARD
 
