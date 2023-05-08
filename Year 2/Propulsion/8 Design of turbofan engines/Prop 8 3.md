@@ -59,4 +59,36 @@ Back:
 END_CARD
 
 
+--------
+
+START_CARD
+Basic
+
+What is the equation for fpr?
+
+Back: 
+- fpr is fan pressure ratio:
+$$ \begin{align}
+\text{fpr} &= \frac{P_{02}}{P_{a}}
+\end{align} $$
+
+- This is the ratio of stagnation pressures across the fan (after fan divided by before fan)
+
+![[Pasted image 20230508131525.png]]
+
+END_CARD
+
+
+--------
+
+START_CARD
+Basic
+
+
+
+Back: 
+- 
+
+END_CARD
+
 
