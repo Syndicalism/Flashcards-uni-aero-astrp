@@ -179,13 +179,23 @@ $$ \begin{align}
 \dot{m}_{c} c_{p} (T_{045} - T_{05}) &= \dot{m}_{c} c_{p} (T_{023} - T_{02}) + \text{bpr} \:\dot{m}_{c} c_{p} (T_{013} - T_{02})
 \end{align} $$
 
-Then give a basic outline of how it's derived
+Then derive it.
 
 Back: 
-- 
+- $\dot{m}_{c}$ is the mass flow through the turbine
+- $c_{p}$ is the constant pressure specific temperature
+- $T_{045}$ is stagnation temperature between the turbines
+- $T_{05}$ is stagnation temperature out the last turbine
+- $T_{023}$ is stagnation temperature between the compressors
+- $T_{02}$ is stagnation temperature in the inlet
+- $T_{013}$ is stagnation temperature out the fan
+- $\text{bpr}$ is the fan bypass ratio (~12ish)
 
+- To derive it, just apply SFEE to a SINGLE SPOOL, then simplify
 $$ \begin{align}
-m_{c} c_{p} (T_{04} - T_{05}) &= m_{c} c_{p} (T_{03} - T_{02}) + m_{b} c_{p} (T_{013} - T_{02})
+\text{Energy extracted in turbine} &= \text{Energy used in compressor} + \text{Energy used in fan}\\
+m_{c} c_{p} (T_{045} - T_{05}) &= m_{c} c_{p} (T_{023} - T_{02}) + m_{b} c_{p} (T_{013} - T_{02})\\
+m_{c} c_{p} (T_{045} - T_{05}) &= m_{c} c_{p} (T_{023} - T_{02}) +  \text{bpr}\:m_{c} c_{p} (T_{013} - T_{02})\\
 \end{align} $$
 
 END_CARD
