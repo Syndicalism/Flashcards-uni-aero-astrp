@@ -84,9 +84,14 @@ END_CARD
 START_CARD
 Basic
 
-
+How can fan pressure ratio be used to determine $T_{013}$?
+![[Pasted image 20230508131525.png]]
 
 Back: 
+$$ \begin{align}
+\text{Fan pressure ratio:}&&\text{fpr} &= \frac{P_{02}}{P_{a}}\\
+\text{Isentropic relation:}&& \frac{T}{P^{\frac{\gamma-1}{\gamma}}} &= k & &\to &\\
+\end{align} $$
 - 
 
 END_CARD
