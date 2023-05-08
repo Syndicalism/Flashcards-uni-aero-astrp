@@ -94,19 +94,28 @@ $$ \begin{align}
 && && && &= (\text{fpr})^{\frac{\gamma-1}{\gamma}}\\
 && && && T_{013s} &= T_{02} (\text{fpr})^{\frac{\gamma-1}{\gamma}}
 \end{align} $$
-- This assumes pefect gas relations and no entropy change, to account for entropy we use isentropic efficiency factor $\eta_{f}$:
+- This assumes perfect gas relations and no entropy change, to account for entropy we use isentropic efficiency factor $\eta_{f}$:
 
 $$ \begin{align}
 \eta_{f} &= \frac{\Delta T_{0s}}{\Delta T_{0}} = \frac{T_{013s} - T_{02}}{T_{013} - T_{02}} & &\to & \eta_{f}(T_{013} - T_{02}) = T_{013s} - T_{02}\\
-&& && \eta_{f}T_{013} = T_{013s} + T_{02} (\eta_{f})
+&& && \eta_{f}T_{013} = T_{013s} + T_{02} (\eta_{f} - 1)\\
+&& && \eta_{f}T_{013} = T_{02} (\text{fpr})^{\frac{\gamma-1}{\gamma}} + T_{02} (\eta_{f} - 1)\\
+&& && T_{013} = \frac{T_{02}}{\eta_{f}} \left( (\text{fpr})^{\frac{\gamma-1}{\gamma}} + \eta_{f} - 1 \right)\\
+&& && T_{013} = T_{02} \left( 1 + \frac{(\text{fpr})^{\frac{\gamma-1}{\gamma}} - 1}{\eta_{f}} \right)\\
 \end{align} $$
-- Subbing into the equation from earlyer:
 
-$$ \begin{align}
-\frac{T_{013}}{T_{02}} &=  (\text{fpr})^{\frac{\gamma-1}{\gamma}}\\
-T_{013} &= T_{02} (\text{fpr})^{\frac{\gamma-1}{\gamma}} \\
-\end{align} $$
+
+--------
+
+START_CARD
+Basic
+
+
+
+Back: 
+- 
 
 END_CARD
+
 
 
