@@ -140,7 +140,7 @@ Basic
 
 ![[Pasted image 20230508131525.png]]
 
-How can the following equation be determined, and what does it tell us about propulsive control?
+How can the following equation be determined, and how does it relate to finding bypass ratio?
 
 $$ \begin{align}
 V_{jc} &= \sqrt{ 2 c_{p} T_{05} \left( 1 - \frac{P_{9}}{P_{05}}^{\frac{\gamma-1}{\gamma}}\right) }
@@ -161,11 +161,35 @@ V_{9} &= \sqrt{ 2c_{p} (T_{05} - T_{9}) } \\
  &= \sqrt{ 2c_{p} \left(T_{05} - T_{05} \left(\frac{P_{9}}{P_{05}}\right)^{\frac{\gamma-1}{\gamma}} \right) } \\
 V_{jc} &= \sqrt{ 2c_{p} T_{05} \left(1 - \frac{P_{9}}{P_{05}}^{\frac{\gamma-1}{\gamma}} \right) } \\
 \end{align} $$
-- It shows us that by varying the pressure loss across the turbine we can change the jet output velocity
-- 
+- It shows us that by varying the pressure loss across the turbine we can change the jet output velocity, which makes perfect sense
+- So if we want to maximise efficiency aka $V_{jc} \approx V_{jb}$ we can use this to find the work that needs to be extracted through the turbine and hence bypass ratio
 
 
 END_CARD
+
+
+--------
+
+START_CARD
+Basic
+
+Name all the variables in the following equation and state what the equation describes:
+
+$$ \begin{align}
+\dot{m}_{c} c_{p} (T_{045} - T_{05}) &= \dot{m}_{c} c_{p} (T_{023} - T_{02}) + \text{bpr} \:\dot{m}_{c} c_{p} (T_{013} - T_{02})
+\end{align} $$
+
+Then give a basic outline of how it's derived
+
+Back: 
+- 
+
+$$ \begin{align}
+m_{c} c_{p} (T_{04} - T_{05}) &= m_{c} c_{p} (T_{03} - T_{02}) + m_{b} c_{p} (T_{013} - T_{02})
+\end{align} $$
+
+END_CARD
+
 
 
 
