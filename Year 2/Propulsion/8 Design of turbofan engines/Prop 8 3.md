@@ -125,12 +125,26 @@ $$ \begin{align}
 
 Using maths magic all of these combine into:
 $$ \begin{align}
-V_{jb} &= \sqrt{2 c_{p} T_{013} \left(1 - \frac{P_{a}}{P_{013}}^{\frac{\gamma-1}{\gamma}}\right)} = 
+V_{jb} &= \sqrt{2 c_{p} T_{013} \left(1 - \frac{P_{a}}{P_{013}}^{\frac{\gamma-1}{\gamma}}\right)} \\&= \sqrt{2 c_{p} T_{02} \left( 1 + \frac{(\text{fpr})^{\frac{\gamma-1}{\gamma}} - 1}{\eta_{f}} \right) \left(1 - \frac{P_{a} }{P_{02}(\text{fpr})}^{\frac{\gamma-1}{\gamma}}\right)}
 \end{align} $$
 
-Which essentially tells us that 
+Which essentially tells us that the bypass exit velocity is purely a function of fan pressure ratio
 
 END_CARD
+
+
+--------
+
+START_CARD
+Basic
+
+
+
+Back: 
+- 
+
+END_CARD
+
 
 
 
