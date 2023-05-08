@@ -69,7 +69,7 @@ What is the equation for fpr?
 Back: 
 - fpr is fan pressure ratio:
 $$ \begin{align}
-\text{fpr} &= \frac{P_{02}}{P_{a}}
+\text{fpr} &= \frac{P_{013}}{P_{02}}
 \end{align} $$
 
 - This is the ratio of stagnation pressures across the fan (after fan divided by before fan)
@@ -84,15 +84,28 @@ END_CARD
 START_CARD
 Basic
 
-How can fan pressure ratio be used to determine $T_{013}$?
+How can fan pressure ratio be used to determine $T_{013}$ for the isentropic and realistic case?
 ![[Pasted image 20230508131525.png]]
 
 Back: 
 $$ \begin{align}
-\text{Fan pressure ratio:}&&\text{fpr} &= \frac{P_{02}}{P_{a}}\\
-\text{Isentropic relation:}&& \frac{T}{P^{\frac{\gamma-1}{\gamma}}} &= k & &\to &\\
+\text{Fan pressure ratio:}&&\text{fpr} &= \frac{P_{013}}{P_{02}}\\
+\text{Isentropic relation:}&& \frac{T}{P^{\frac{\gamma-1}{\gamma}}} &= k & &\to & \frac{T_{013s}}{T_{02}} &= \left(\frac{P_{013}}{P_{02}}\right)^{\frac{\gamma-1}{\gamma}} \\
+&& && && &= (\text{fpr})^{\frac{\gamma-1}{\gamma}}\\
+&& && && T_{013s} &= T_{02} (\text{fpr})^{\frac{\gamma-1}{\gamma}}
 \end{align} $$
-- 
+- This assumes pefect gas relations and no entropy change, to account for entropy we use isentropic efficiency factor $\eta_{f}$:
+
+$$ \begin{align}
+\eta_{f} &= \frac{\Delta T_{0s}}{\Delta T_{0}} = \frac{T_{013s} - T_{02}}{T_{013} - T_{02}} & &\to & \eta_{f}(T_{013} - T_{02}) = T_{013s} - T_{02}\\
+&& && \eta_{f}T_{013} = T_{013s} + T_{02} (\eta_{f})
+\end{align} $$
+- Subbing into the equation from earlyer:
+
+$$ \begin{align}
+\frac{T_{013}}{T_{02}} &=  (\text{fpr})^{\frac{\gamma-1}{\gamma}}\\
+T_{013} &= T_{02} (\text{fpr})^{\frac{\gamma-1}{\gamma}} \\
+\end{align} $$
 
 END_CARD
 
