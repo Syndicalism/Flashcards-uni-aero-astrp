@@ -149,7 +149,7 @@ V_{jc} &= \sqrt{ 2 c_{p} T_{05} \left( 1 - \frac{P_{9}}{P_{05}}^{\frac{\gamma-1}
 Back: 
 $$ \begin{align}
 \text{Isentropic relation:}&& \frac{T}{P^{\frac{\gamma-1}{\gamma}}} &= k & &\to & \frac{T_{9}}{T_{5}} &= \left(\frac{P_{9}}{P_{5}}\right)^{\frac{\gamma-1}{\gamma}}\\
-\text{Adiabatic+zero work entropy:}& & h_{0} &= h + \frac{1}{2}V^{2}\\
+\text{Adiabatic+zero work entropy change:}& & h_{0} &= h + \frac{1}{2}V^{2}\\
 \text{Low KE at 5:}& & V_{5}^{2} &\approx 0, & &\therefore h_{05} \approx h_{5},\:\:T_{05} \approx T_{5}\\
 \end{align} $$
 - This can all be combined together
