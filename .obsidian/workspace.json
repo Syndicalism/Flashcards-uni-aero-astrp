@@ -49,9 +49,9 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Year 2/Propulsion/8 Design of turbofan engines/Prop 8 3.md",
+                "file": "Year 2/Flight mechanics/3 Flight Dynamics/3.0 Derivative meanings.md",
                 "mode": "source",
-                "source": false
+                "source": true
               }
             }
           }
@@ -130,7 +130,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Year 2/Propulsion/8 Design of turbofan engines/Prop 8 3.md",
+                "file": "Year 2/Flight mechanics/3 Flight Dynamics/3.0 Derivative meanings.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -175,12 +175,13 @@
   },
   "active": "46de597a453648c3",
   "lastOpenFiles": [
+    "Year 2/Propulsion/8 Design of turbofan engines/Prop 8 3.md",
+    "Year 2/Flight mechanics/3 Flight Dynamics/3.0 Derivative meanings.md",
     "Images/Pasted image 20230508131525.png",
     "Year 2/Propulsion/8 Design of turbofan engines/Prop 8 2.md",
     "Year 2/Propulsion/7 Gas Turbine Engines/Prop 7 8.md",
     "Year 2/Propulsion/7 Gas Turbine Engines/Prop 7 6.md",
     "Year 2/Propulsion/7 Gas Turbine Engines/Prop 7 5.md",
-    "Year 2/Propulsion/8 Design of turbofan engines/Prop 8 3.md",
     "Year 2/Propulsion/8 Design of turbofan engines",
     "Year 2/Propulsion/7 Gas Turbine Engines/Prop 7 7.md",
     "Images/Pasted image 20230507211044.png",
@@ -192,7 +193,6 @@
     "Images/Pasted image 20230507181601.png",
     "Images/Pasted image 20230507175304.png",
     "Images/Pasted image 20230507163431.png",
-    "Images/Pasted image 20230507161937.png",
     "Year 2/Materials/1 Structural Performance/1.2 Stress, loading and failure.md",
     "Year 2/Materials/1 Structural Performance/1.1 Modes of failure.md",
     "Year 2/Materials/4 High temperature materials",
