@@ -18,7 +18,7 @@ Back:
 
 - Isentropic - Constant entropy
 - Isobaric - Constant pressure
-
+<!--ID: 1684493060767-->
 END_CARD
 
 
@@ -33,7 +33,7 @@ Back:
 - Compression ratio
 
 Proof: https://www.desmos.com/calculator/kdudnd0od8
-
+<!--ID: 1684493060779-->
 END_CARD
 
 --------
@@ -45,7 +45,7 @@ Sketch the PV diagram for a Brayton cycle engine.
 
 Back: 
 ![[Pasted image 20230412105819.png]]
-
+<!--ID: 1684493060791-->
 END_CARD
 
 

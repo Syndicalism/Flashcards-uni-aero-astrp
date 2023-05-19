@@ -13,7 +13,7 @@ What is an engine spool? How many spools does the following engine have?
 Back: 
 - This is the mechanical connection between a compressor and turbine blade set, they are on a single spool and hence operate at a single rotation speed
 - That engine has 2 spools.
-
+<!--ID: 1684493060512-->
 END_CARD
 
 
@@ -26,7 +26,7 @@ What is the relationship between jet speed and engine noise?
 
 Back: 
 - Jet noise is a very high exponential function of jet speed (power of 8)
-
+<!--ID: 1684493060529-->
 END_CARD
 
 
@@ -42,7 +42,7 @@ Back:
 - Gear boxes can get to efficiencies of ~99%
 - Jet engines put absolute SHIT tones of energy through these shafts
 - 1% of an absolute shit tone is more than enough to liquify most engines
-
+<!--ID: 1684493060540-->
 END_CARD
 
 
@@ -58,7 +58,7 @@ Back:
 - It allows more optimisation of individual blades
 - Greatly helps with engine startup requirements
 - Allows for greater power density HPC can go FAAAST, so less material needed
-
+<!--ID: 1684493060553-->
 END_CARD
 
 
@@ -74,7 +74,7 @@ Back:
 - This is where a fan is connected to the engine to convert power to thrust
 - In this example it can be seen the LPC is directly connected to the fan
 - Modern turbofans produce the majority of their thrust from the fans (to increase propulsive efficiency)
-
+<!--ID: 1684493060566-->
 END_CARD
 
 
@@ -91,7 +91,7 @@ Back:
 - Practically it's basically just a turbofan with a bigger fan that can't go at high speeds because propellers are cringe
 - They tend to be more efficient
 - Basically all thrust is produced from the propeller instead of  the jet
-
+<!--ID: 1684493060581-->
 END_CARD
 
 
@@ -109,7 +109,7 @@ Back:
 - Cringe
 - This is where the gas turbine powers a generator which then electrically drives the fans in other sections of the aircraft
 - Since they can be placed anywhere higher bypass ratios can be achieved and they can be put in aerodynamically beneficial locations
-
+<!--ID: 1684493060593-->
 END_CARD
 
 

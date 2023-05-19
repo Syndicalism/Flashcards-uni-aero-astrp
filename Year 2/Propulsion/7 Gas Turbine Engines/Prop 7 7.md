@@ -17,7 +17,7 @@ Back:
 - For situations where the turbomachinery isn't 100% efficient, entropy is produced in operation
 - This means that there is a direct positive relationship between energy used for compression and energy loss (because comp/turb inefficiency)
 - So as you increase the pressure ratio more and more energy is lost to inefficiency, which counteracts the gains from increased compression ratio
-
+<!--ID: 1684493060612-->
 END_CARD
 
 --------
@@ -34,7 +34,7 @@ Back:
 - The x axis is pressure ratio
 - This assumes a 90% efficient compressor and turbine
 - Each line is showing the relationship at a particular temperature ratio ($T_4$ is the stagnation temperature exiting the combustion chamber, $T_{2}$ is the stagnation temperature entering the compressor)
-
+<!--ID: 1684493060624-->
 END_CARD
 
 
@@ -52,7 +52,7 @@ Back:
 	- So as you increase the pressure ratio more and more energy is lost to inefficiency, which counteracts the gains from increased compression ratio
 	- This chart specifically shows that with increased temp ratio efficiency increases, this is because more total energy is extracted so a lower proportion's wasted in the compression
 	- To achieve this  more fuel can be added to drive up the temp ratio between compressor inlet and combustion chamber outlet
-
+<!--ID: 1684493060636-->
 END_CARD
 
 
@@ -75,7 +75,7 @@ Back:
 - Thermal fatigue
 
 - It's clear that each of these mechanisms become much more severe with increasing temperature, so to practically run a jet engine we've got to make sure the materials only reach a fraction of their actual maximum operating temperature.
-
+<!--ID: 1684493060650-->
 END_CARD
 
 
@@ -93,7 +93,7 @@ Back:
 - Generally both are used at once
 
 ![[Pasted image 20230507161937.png]]
-
+<!--ID: 1684493060663-->
 END_CARD
 
 
@@ -108,7 +108,7 @@ Back:
 - Ceramics are hella based, they work at super high temps, don't corrode, don't creep... but they are too brittle for current practical implementation
 - There is research into using them as blades but can't rn
 - Currently ceramics see use as thermal barrier coatings
-
+<!--ID: 1684493060675-->
 END_CARD
 
 

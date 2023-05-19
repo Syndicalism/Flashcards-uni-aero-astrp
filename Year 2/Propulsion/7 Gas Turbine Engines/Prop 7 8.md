@@ -13,7 +13,7 @@ Back:
 - This increases the thrust
 
 ![[Pasted image 20230507163431.png]]
-
+<!--ID: 1684493060690-->
 END_CARD
 
 
@@ -27,7 +27,7 @@ What is the practicality of a afterburner?
 Back: 
 - After-burners are terrible for efficiency, so they are not something we generally add to a vehicle for normal operation
 - They are ideal for aircraft that occasionally need increased thrust (such as a fighter)
-
+<!--ID: 1684493060703-->
 END_CARD
 
 
@@ -46,7 +46,7 @@ Back:
 	- When active the exit temperature increases, more flow can pass through the throat as speed of sound increases
 
 
-
+<!--ID: 1684493060715-->
 END_CARD
 
 

@@ -10,7 +10,7 @@ Sketch the TS diagram for the process across and ideal diffusor and a realistic 
 Back: 
 
 ![[Pasted image 20230414155111.png]]
-
+<!--ID: 1684493060826-->
 END_CARD
 
 
@@ -32,7 +32,7 @@ $$ \begin{align}
 $$ \begin{align}
 \eta_{c} &= \frac{\Delta h_{0}}{\Delta h_{0s}}  
 \end{align} $$
-
+<!--ID: 1684493060838-->
 END_CARD
 
 
@@ -55,7 +55,7 @@ Back:
 - $T_{02}$ is the temperature into the compressor
 - $T_{03s}$ is the temperature out of the compressor assuming isentropic compression
 - $\eta_{c}$ is the isentropic efficiency of the compressor
-
+<!--ID: 1684493060851-->
 END_CARD
 
 
@@ -84,7 +84,7 @@ $$ \begin{align}
 \eta_{c} &= \frac{\Delta h_{0s}}{\Delta h_{0}} & &\to & T_{03} &= T_{02} + \frac{T_{03s} - T_{02}}{\eta_{c}}
 \end{align} $$
 - Done
-
+<!--ID: 1684493060863-->
 END_CARD
  
 
