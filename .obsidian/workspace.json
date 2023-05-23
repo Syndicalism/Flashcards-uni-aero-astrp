@@ -59,9 +59,11 @@
             "id": "2e3e69d9db2793ec",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.2.8"
+                "file": "Year 2/Flight mechanics/PP Questions/17-18.md",
+                "mode": "source",
+                "source": true
               }
             }
           }
@@ -140,7 +142,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Year 2/Flight mechanics/3 Flight Dynamics/3.3 Longitudinal model.md",
+                "file": "Year 2/Flight mechanics/PP Questions/17-18.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -185,6 +187,10 @@
   },
   "active": "2e3e69d9db2793ec",
   "lastOpenFiles": [
+    "Images/Pasted image 20230519172109.png",
+    "Images/Pasted image 20230519171553.png",
+    "Year 2/Flight mechanics/PP Questions/17-18.md",
+    "Year 2/Flight mechanics/PP Questions",
     "Year 2/Flight mechanics/3 Flight Dynamics/3.2 Decoupled linear model.md",
     "Year 2/Flight mechanics/3 Flight Dynamics/3.1 Rigid aircraft model Six degrees of freedom.md",
     "Year 2/Flight mechanics/1 Trim and Static Stability/1.6 Cruise & Loiter Performance.md",
@@ -214,7 +220,6 @@
     "Images/Pasted image 20230507181624.png",
     "Images/Pasted image 20230507181601.png",
     "Images/Pasted image 20230507175304.png",
-    "Images/Pasted image 20230507163431.png",
     "Year 2/Materials/1 Structural Performance/1.2 Stress, loading and failure.md",
     "Year 2/Materials/1 Structural Performance/1.1 Modes of failure.md",
     "Year 2/Materials/4 High temperature materials",
@@ -225,11 +230,8 @@
     "Year 2/Propulsion/7 Gas Turbine Engines/Prop 7 4.md",
     "Year 2/Propulsion/7 Gas Turbine Engines/Prop 7 2.md",
     "Year 2/Propulsion/5 Combustion/Ex 5 3.md",
-    "Year 2/Propulsion/5 Combustion/Ex 5 4.md",
-    "Year 2/Propulsion/5 Combustion/Ex 5 2.md",
     "Year 2/Propulsion/7 Gas Turbine Engines",
     "Year 2/Propulsion/6 Rockets",
-    "Year 2/Flight mechanics/2 Trim and Static Stability",
-    "Year 2/Flight mechanics/1 Trim and Static Stability"
+    "Year 2/Flight mechanics/2 Trim and Static Stability"
   ]
 }
