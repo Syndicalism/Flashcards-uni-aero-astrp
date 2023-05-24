@@ -9,7 +9,7 @@ What is bypass ratio?
 
 Back: 
 - The mass flow bypassing the engine core over the mass flow through the engine core
-
+<!--ID: 1684940390917-->
 END_CARD
 
 
@@ -22,7 +22,7 @@ What is the fan pressure ratio?
 
 Back: 
 - The ratio of the pressure before the fan vs after the fan
-
+<!--ID: 1684940390927-->
 END_CARD
 
 
@@ -37,7 +37,7 @@ Back:
 - A higher fan pressure ratio means that the velocity at the outlet will be greater, hence to keep a constant thrust you'd have to decrease mass flow rate and hence bypass ratio
   
 ![[Pasted image 20230507203928.png]]
-
+<!--ID: 1684940390936-->
 END_CARD
 
 
@@ -55,7 +55,7 @@ Back:
 - Specific thrust is effectively just the speed of the air exiting the jet
 - (Bare) Specific fuel consumption is the fuel needed per unit thrust
 - It can be seen that a higher fan pressure ratio results in reduced efficiency
-
+<!--ID: 1684940390943-->
 END_CARD
 
 
@@ -75,7 +75,7 @@ $$ \begin{align}
 - This is the ratio of stagnation pressures across the fan (after fan divided by before fan)
 
 ![[Pasted image 20230508131525.png]]
-
+<!--ID: 1684940390952-->
 END_CARD
 
 
@@ -129,7 +129,7 @@ V_{jb} &= \sqrt{2 c_{p} T_{013} \left(1 - \frac{P_{a}}{P_{013}}^{\frac{\gamma-1}
 \end{align} $$
 
 Which essentially tells us that the bypass exit velocity is purely a function of fan pressure ratio
-
+<!--ID: 1684940390959-->
 END_CARD
 
 
@@ -164,7 +164,7 @@ V_{jc} &= \sqrt{ 2c_{p} T_{05} \left(1 - \frac{P_{9}}{P_{05}}^{\frac{\gamma-1}{\
 - It shows us that by varying the pressure loss across the turbine we can change the jet output velocity, which makes perfect sense
 - So if we want to maximise efficiency aka $V_{jc} \approx V_{jb}$ we can use this to find the work that needs to be extracted through the turbine and hence bypass ratio
 
-
+<!--ID: 1684940390969-->
 END_CARD
 
 
@@ -197,7 +197,7 @@ $$ \begin{align}
 m_{c} c_{p} (T_{045} - T_{05}) &= m_{c} c_{p} (T_{023} - T_{02}) + m_{b} c_{p} (T_{013} - T_{02})\\
 m_{c} c_{p} (T_{045} - T_{05}) &= m_{c} c_{p} (T_{023} - T_{02}) +  \text{bpr}\:m_{c} c_{p} (T_{013} - T_{02})\\
 \end{align} $$
-
+<!--ID: 1684940390977-->
 END_CARD
 
 

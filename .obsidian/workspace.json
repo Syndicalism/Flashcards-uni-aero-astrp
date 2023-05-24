@@ -61,26 +61,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Year 2/Flight mechanics/3 Flight Dynamics/3.2 Decoupled linear model.md",
+                "file": "Year 2/Flight mechanics/3 Flight Dynamics/3.0 Derivative meanings.md",
                 "mode": "source",
                 "source": true
               }
             }
-          },
-          {
-            "id": "80c1a6e248ac1539",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Year 2/Flight mechanics/3 Flight Dynamics/3.0 Derivative meanings.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -197,22 +185,32 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "80c1a6e248ac1539",
+  "active": "2e3e69d9db2793ec",
   "lastOpenFiles": [
-    "Year 2/Flight mechanics/1 Trim and Static Stability/1.0 Misc.md",
     "Year 2/Flight mechanics/3 Flight Dynamics/3.8ish Spiraly shite.md",
-    "Images/Pasted image 20230524150036.png",
+    "Year 2/Flight mechanics/1 Trim and Static Stability/1.0 Misc.md",
+    "Year 2/Flight mechanics/3 Flight Dynamics/3.2 Decoupled linear model.md",
+    "Year 2/Propulsion/8 Design of turbofan engines/Prop 8 2.md",
+    "Year 2/Propulsion/8 Design of turbofan engines/Prop 8 3.md",
+    "Year 2/Propulsion/8 Design of turbofan engines",
+    "Year 2/Propulsion/7 Gas Turbine Engines/Prop 7 8.md",
+    "Year 2/Propulsion/7 Gas Turbine Engines/Prop 7 7.md",
+    "Year 2/Propulsion/7 Gas Turbine Engines/Prop 7 6.md",
+    "Year 2/Flight mechanics/PP Questions/17-18.md",
+    "Year 2/Flight mechanics/PP Questions",
     "Year 2/Flight mechanics/3 Flight Dynamics/3.0 Derivative meanings.md",
+    "Images/Pasted image 20230524150036.png",
     "Images/Pasted image 20230524125108.png",
     "Images/Pasted image 20230524124314.png",
     "Images/Pasted image 20230524124009.png",
-    "Year 2/Flight mechanics/3 Flight Dynamics/3.1 Rigid aircraft model Six degrees of freedom.md",
-    "Year 2/Flight mechanics/3 Flight Dynamics/3.3 Longitudinal model.md",
-    "Year 2/Flight mechanics/PP Questions/17-18.md",
     "Images/Pasted image 20230519172109.png",
     "Images/Pasted image 20230519171553.png",
-    "Year 2/Flight mechanics/PP Questions",
-    "Year 2/Flight mechanics/3 Flight Dynamics/3.2 Decoupled linear model.md",
+    "Images/Pasted image 20230508131525.png",
+    "Images/Pasted image 20230507211044.png",
+    "Images/Pasted image 20230507205609.png",
+    "Images/Pasted image 20230507203928.png",
+    "Year 2/Flight mechanics/3 Flight Dynamics/3.1 Rigid aircraft model Six degrees of freedom.md",
+    "Year 2/Flight mechanics/3 Flight Dynamics/3.3 Longitudinal model.md",
     "Year 2/Flight mechanics/1 Trim and Static Stability/1.6 Cruise & Loiter Performance.md",
     "Year 2/Flight mechanics/1 Trim and Static Stability/1.5 Trim Drag & Performance Optimisation.md",
     "Year 2/Flight mechanics/1 Trim and Static Stability/1.4 Drag.md",
@@ -223,17 +221,7 @@
     "Year 2/Flight mechanics/2 Trim and Static Stability/2.3 Determining Margins from flight tests.md",
     "Year 2/Flight mechanics/2 Trim and Static Stability/2.2 Longitudinal Manoeuvre Stability.md",
     "Year 2/Flight mechanics/2 Trim and Static Stability/2.1 Longitudinal Static Stability.md",
-    "Year 2/Propulsion/8 Design of turbofan engines/Prop 8 3.md",
-    "Images/Pasted image 20230508131525.png",
-    "Year 2/Propulsion/8 Design of turbofan engines/Prop 8 2.md",
-    "Year 2/Propulsion/7 Gas Turbine Engines/Prop 7 8.md",
-    "Year 2/Propulsion/7 Gas Turbine Engines/Prop 7 6.md",
     "Year 2/Propulsion/7 Gas Turbine Engines/Prop 7 5.md",
-    "Year 2/Propulsion/8 Design of turbofan engines",
-    "Year 2/Propulsion/7 Gas Turbine Engines/Prop 7 7.md",
-    "Images/Pasted image 20230507211044.png",
-    "Images/Pasted image 20230507205609.png",
-    "Images/Pasted image 20230507203928.png",
     "Year 2/Materials/1 Structural Performance/1.2 Stress, loading and failure.md",
     "Year 2/Materials/1 Structural Performance/1.1 Modes of failure.md",
     "Year 2/Materials/4 High temperature materials",
