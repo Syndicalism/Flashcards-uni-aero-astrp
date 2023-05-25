@@ -32,12 +32,24 @@
             }
           },
           {
-            "id": "b9a97a2630cb6fba",
+            "id": "b422102f8ee6c26d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Year 2/Flight mechanics/3 Flight Dynamics/3.3 Longitudinal model.md",
+                "file": "Year 2/Flight mechanics/3 Flight Dynamics/3.0 Derivative meanings.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "46de597a453648c3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Year 2/Flight mechanics/1 Trim and Static Stability/1.0 Misc.md",
                 "mode": "source",
                 "source": false
               }
@@ -118,7 +130,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Year 2/Flight mechanics/3 Flight Dynamics/3.3 Longitudinal model.md",
+                "file": "Year 2/Flight mechanics/3 Flight Dynamics/3.0 Derivative meanings.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -161,15 +173,11 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "b9a97a2630cb6fba",
+  "active": "b422102f8ee6c26d",
   "lastOpenFiles": [
-    "Year 2/Test/Also test/Untitled.md",
-    "Year 2/Propulsion/5 Combustion/Prop 5.5.md",
-    "Year 2/Propulsion/5 Combustion/Prop 5.4.md",
-    "Year 2/Propulsion/5 Combustion/Prop 5.3.md",
-    "Year 2/Flight mechanics/3 Flight Dynamics/3.0 Derivative meanings.md",
     "Year 2/Materials/1 Structural Performance/1.1 Modes of failure.md",
     "Year 2/Flight mechanics/1 Trim and Static Stability/1.0 Misc.md",
+    "Year 2/Flight mechanics/3 Flight Dynamics/3.0 Derivative meanings.md",
     "Images/Pasted image 20230525130825.png",
     "Images/Pasted image 20230525130815.png",
     "Images/Pasted image 20230525130805.png",
@@ -201,6 +209,9 @@
     "Year 2/Flight mechanics/2 Trim and Static Stability/2.4 Lateral-Directional Stability.md",
     "Year 2/Flight mechanics/2 Trim and Static Stability/2.3 Determining Margins from flight tests.md",
     "Year 2/Flight mechanics/2 Trim and Static Stability/2.2 Longitudinal Manoeuvre Stability.md",
+    "Year 2/Flight mechanics/2 Trim and Static Stability/2.1 Longitudinal Static Stability.md",
+    "Year 2/Propulsion/7 Gas Turbine Engines/Prop 7 5.md",
+    "Year 2/Materials/1 Structural Performance/1.2 Stress, loading and failure.md",
     "Year 2/Materials/4 High temperature materials",
     "Year 2/Materials/3 Ferrous metals",
     "Year 2/Materials/2 Lightweight materials",
