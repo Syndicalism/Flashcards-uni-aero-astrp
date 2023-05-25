@@ -19,7 +19,6 @@ Back:
 - Essentially it is just a way of writing that the energy change of some substance flowing through a control volume is related to the work done on it and the heat added/removed, this is the starting point for most gas analysis we do.
 
 ![[Pasted image 20230401145540.png]]
-<!--ID: 1680694728649-->
 END_CARD
 
 
@@ -42,7 +41,6 @@ Back:
 - Burner, the heat addition from combustion can be modelled as a constant pressure heat addition process, no work is done on the fluid and KE is neglected again.
 - Turbine, this extracts work from the gas (equivalent to what the compressor needs) and with no heat transfer is modelled as a adiabatic process. (again KE ignored)
 - Nozzle, this is the fun end of the thing where gas becomes thrust. The model is basically just a diffuser in reverse so adiabatic modelling where input KE is neglected but output KE is important (because thrust).
-<!--ID: 1680694728662-->
 END_CARD
 
 
@@ -58,7 +56,6 @@ Explain this equation: $\frac{T_{2}}{T_{1}} = \left(\frac{P_{2}}{P_{1}}\right)^\
 Back: 
 - It describes the relationship between temperature and pressure for an adiabatic process dealing with a perfect gas
 - $\gamma$ is the ratio of specific heats
-<!--ID: 1680694728675-->
 END_CARD
 
  
@@ -74,7 +71,6 @@ Back:
 - Simply $dS = \frac{dQ}{T}$ or $ds = \frac{dq}{T}$ 
 - This shows that adding heat to a cold system results in a greater entropy increase that adding an equivilent amount of heat to a hot system
 - By understanding entropy as a measure of energy dispersal this makes sense, extreme temperatures tend to be useful so if you want to do something useful with heat you'll get more done by adding that heat to something that's already hot rather than heating something cold
-<!--ID: 1680694728688-->
 END_CARD
 
 
@@ -92,7 +88,6 @@ Back:
 - $dS$ is entropy increase, $dU$ is internal energy increase, $p$ is pressure, $dV$ is volume increase
 - This form makes no assumptions and is universally applicable
 - It is a equation that describes how changes in internal energy relate to entropy changes
-<!--ID: 1680694728700-->
 END_CARD
 
 
@@ -111,7 +106,6 @@ Back:
 - This form makes no assumptions and is universally applicable
 - Just like the first TdS equation it describes how entropy changes relates to other changes in the system
 - To make it specific you just divide by mas and sub in specific mass: $T\:dS = dH - V\:dp \:\to\: T\:ds = dh - \frac{V}{m}\:dp \:\to\: T\:ds = dh - \nu\:dp$
-<!--ID: 1680694728712-->
 END_CARD
 
 
@@ -132,7 +126,6 @@ Back:
 - $R$ is specific gas constant of the thing
 - $\nu$ is specific volume
 - Note: This is derived simply using the second TdS equation and ideal gas law. 
-<!--ID: 1680694728725-->
 END_CARD
 
 
@@ -153,7 +146,6 @@ Back:
 - $c_{P}$ is constant pressure specific heat 
 - $\nu$ is specific volume
 - Note: This is derived simply using the second TdS equation and ideal gas law. 
-<!--ID: 1680694728736-->
 END_CARD
 
  
@@ -171,7 +163,6 @@ Back:
 - Realistically entropy will always increase, hence it will not be a vertical line
 - In a gas turbine we assume both the compressor and turbine are isentropic, in reality this isn't the case. In both cases it's clear that there is an increase in entropy which reduces the useful work of the system and hence efficiency
 - ![[Pasted image 20230401155646.png]]
-<!--ID: 1680694728748-->
 END_CARD
 
 
@@ -187,7 +178,6 @@ Define isentropic efficiency factor.
 Back: 
 - Isentropic efficiency factor is commonly used when dealing with compressors/turbines, it is a measure of the difference between actual work and idealised isentropic work
 - For work extracted it is $\eta = \frac{w_{real}}{w_{isentropic}}$, for work input it is $\eta = \frac{w_{isentropic}}{w_{real}}$. To avoid confusion all that's really needed is to keep in mind that $\eta<1$ (second law of thermodynamics)
-<!--ID: 1680694728761-->
 END_CARD
 
 

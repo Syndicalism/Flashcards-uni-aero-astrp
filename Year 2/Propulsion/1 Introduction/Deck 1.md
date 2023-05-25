@@ -16,7 +16,6 @@ Back:
 - Expand equations on pressure forces and describe exhaust momentum flux using ex velocity and mass flow rate
 - Sub into momentum flux equation and rearrange:
 $$  F  = \dot{m} V_{j} + A_{j} (P_{j} - P_{A}) $$
-<!--ID: 1680694889485-->
 END_CARD
 
  
@@ -38,7 +37,6 @@ It is the equation for force out of a rocket engine. Often since the pressure co
  - $A_{j}=$ cross sectional area of end of rocket nozzle
  - $P_{j}=$ pressure on rocket nozzle end
  - $P_{A}=$ atmospheric pressure
-<!--ID: 1680694889511-->
 END_CARD
 
  
@@ -67,7 +65,6 @@ This is the equation for force from a jet engine. The variables mean:
 Approximations might be:
  - Pressure contribution is tiny relative to the velocity out it may be neglected.
  - Fuel mass flow may be negligible relative to air mass flow $f<<1$ so it's contribution may be neglected
-<!--ID: 1680694889529-->
 END_CARD
 
 
@@ -83,7 +80,6 @@ Back:
 The rato of air mass flow to fuel mass flow:
 $$ f=\frac{\dot{m}_{f}}{\dot{m}_{a}} = \frac{\text{fuel mass flow}}{\text{air mass flow}} $$
 It is often small $f<<1$ which depending on the equation may be used to simplify it using $f\approx0$.
-<!--ID: 1680694889545-->
 END_CARD
 
  
@@ -100,7 +96,6 @@ Back:
 Thrust Specific Fuel Consumption.
 $$ \text{TSFC} = \frac{m_{f}}{I} = \frac{\dot{m}_{f}}{F} $$
 It is the mass of fuel required per unit impulse, or by dividing by time it is the mass flow rate required for one newton of force. Basically a measure of engine fuel efficiency where the lower the better, since then less fuel is burned per unit thrust.
-<!--ID: 1680694889562-->
 END_CARD
 
  
@@ -126,7 +121,6 @@ Assumes:
 - Constant speed
 - Constant lift to drag ratio
 - Constant $\text{TSFC}$
-<!--ID: 1680694889579-->
 END_CARD
 
 
@@ -145,7 +139,6 @@ This equation descirbes how well an engine converts heat into kinetic energy and
 - $\eta_{O}=$ overall efficiency, indicates how well an engine converts heat into displacement work. AKA the OVERALL efficiency (shock)
 - $\eta_{th}=$ thermal efficiency, indicates how well an engine can convert heat into kinetic energy
 - $\eta_{P}=$ propulsive efficiency, indicates how well an engine can convert the kinetic energy into displacement work
-<!--ID: 1680694889595-->
 END_CARD
 
 
@@ -159,7 +152,6 @@ What is propulsive efficiency and it's definitional equation?
 Back: 
 The propulsive efficiency is defined as the ratio of aircraft power to the rate of kinetic energy of the working fluid produced by the engine.
 $$ \eta_{P} = \frac{\dot{W}_{aircraft}}{\dot{W}_{jet}} = \frac{\text{Thrust}\times\text{Speed}}{\Delta\text{KE through jet}} $$
-<!--ID: 1680694889610-->
 END_CARD
 
 
@@ -174,7 +166,6 @@ Describe using an equation $\dot{W}_{aircraft}$ (the power used to propel the ai
 
 Back: 
 $$ \dot{W}_{aircraft} = \text{Speed} \times \text{Total thrust} $$
-<!--ID: 1680694889627-->
 END_CARD
 
  
@@ -187,7 +178,6 @@ Describe using an equation $\dot{W}_{jet}$ (the kinetic energy produced by the e
 
 Back: 
 $$ \dot{W}_{jet} = \text{KE}_{out} - \text{KE}_{in} = \frac{1}{2}(\dot{m}_{a} + \dot{m}_{f}) V_{j}^{2} - \frac{1}{2} \dot{m}_{a} V^{2} $$
-<!--ID: 1680694889642-->
 END_CARD
 
 
@@ -206,7 +196,6 @@ Back:
 - $V_{j}=$ velocity of jet exhaust relative to vehicle
 - $V=$ velocity of air relative to vehicle
 - The main splifications are: Neglecting contributions from fuel mass since $f<<1$, neglecting pressure contributions 
-<!--ID: 1680694889656-->
 END_CARD
 
 
@@ -224,7 +213,6 @@ Back:
 - Considering a constant aircraft velocity, we can see that the propulsive efficiency drops with increasing exhaust speed, and that the efficiency increases as the exhaust speed approaches the aircraft speed. From a propulsive efficiency point of view, we therefore want to minimize the difference between $V_{j}$ and $V$.
 - Since thrust is a function of the difference in momentum in vs out ($F=\dot{m}_{a}(V_{j} - V)$), to achieve adiquate thrust for flight the mass flow rate will have to be increased to compensate. (hence why engines often have high bypass ratios and are increasing in size)
 ![[Pasted image 20230309121703.png]]
-<!--ID: 1680694889670-->
 END_CARD
 
 
@@ -242,7 +230,6 @@ Back:
 - $\dot{Q}=$ this is the heat produced (per second) by burning some fuel
 - $\dot{m}_{f} =$ the mass of fuel burned (per second)
 - $\text{LCV}=$ lower calorific value of fuel burned. Is the amount of heat that the fuel releases per unit mass. Basically a measure of energy density of the fuel.
-<!--ID: 1680694889682-->
 END_CARD
 
  

@@ -19,7 +19,6 @@ Back:
 - It shows that in a given ideal gas the speed of sound is only a function of temperature (of course gas properties matter but for a given sample $R,\gamma$ don't change)
 - Doesn't apply if not working with an ideal gas
 - The derivation comes from an isentropic assumption! So the equation will not work when entropy is changing or heat is being transferred! 
-<!--ID: 1680694728524-->
 END_CARD
 
 
@@ -42,7 +41,6 @@ Back:
 - $\text{Ma}=$ Mach number
 - $U=$ velocity between some refrence and the fluid
 - Mach number is a dimensionless quantity in fluid dynamics representing the ratio of flow velocity past a boundary to the local speed of sound
-<!--ID: 1680694728537-->
 END_CARD
 
  
@@ -66,7 +64,6 @@ Back:
 - It can be used to relate the mach number of the fluid to it's temperature at any point along the fluid?
 - The derivation assumes a ideal gas
 - The derivation will not work across a normal shock since there is a change in entropy?
-<!--ID: 1680694728555-->
 END_CARD
 
  
@@ -80,7 +77,6 @@ What are critical properties?
 
 Back: 
 - They are properties of a fluid which are at a mach number of 1 (the local speed of sound)
-<!--ID: 1680694728566-->
 END_CARD
 
  
@@ -94,7 +90,6 @@ If I isothermally increase the pressure for a ideal gas, how does the speed of s
 
 Back: 
 - It doesn't change as for an ideal gas speed of sound is only a function of temperature
-<!--ID: 1680694728581-->
 END_CARD
 
  
@@ -115,7 +110,6 @@ Back:
 - $T_{0}$ is the stagnation temperature
 - $\gamma=$ specific heat ratio
 - The equation only works for an ideal gas
-<!--ID: 1680694728594-->
 END_CARD
 
 
@@ -137,7 +131,6 @@ Back:
 - $P_{0}$ is the stagnation pressure
 - $\gamma=$ specific heat ratio
 - The equation only works for an ideal gas 
-<!--ID: 1680694728607-->
 END_CARD
 
 
@@ -160,7 +153,6 @@ Back:
 - $\rho_{0}$ is the stagnation density
 - $\gamma=$ specific heat ratio
 - The equation only works for an ideal gas 
-<!--ID: 1680694728619-->
 END_CARD
 
 
@@ -181,7 +173,6 @@ Back:
 - $a$ is the local speed of sound, $P$ is pressure, $\rho$ is density
 - It's derivation assumes an isentropic process
 - It's derivation assumes small disturbances 
-<!--ID: 1680694728630-->
 END_CARD
  
 

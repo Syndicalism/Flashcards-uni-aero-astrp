@@ -27,7 +27,6 @@ Advantages:
 Disadvantages: 
 - Tank pressure limits function
 - Limited thrust can be achieved
-<!--ID: 1680694727269-->
 END_CARD
 
 -------
@@ -57,7 +56,6 @@ Disadvantages:
 - The power that the turbine can deliver is limited by the amount of heat that can be extracted from the heat exchanger at the nozzle
 	- This results in a size limitation, because an increase in engine size results in a volume that increases with the size cubed, while the surface area (and therefore the amount of heat that can be extracted) increases with the size squared.
 - The expander cycle cannot start by itself: the heat exchanger will only work once the engine is running.
-<!--ID: 1680694727283-->
 END_CARD
 
 
@@ -73,7 +71,6 @@ In the expander cycle engine above the fuel lines are changed such that only a p
 Back:  
 -  This means that some fuel is lost, but enables the turbine to operate on a larger pressure ratio, because the fuel leaving the turbine does not need to be pressurized to reach the combustion chamber (since it's being vented)
 - The additional performance gained from the increased pressure ratio may be greater than the loss caused by wasting fuel
-<!--ID: 1680694727296-->
 END_CARD
 
 
@@ -106,7 +103,6 @@ Advantages:
 Disadvantages: 
 - The hot gas on the turbine increases the wear on that part
 - The pre combustion wastes propellant
-<!--ID: 1680694727308-->
 END_CARD
 
 

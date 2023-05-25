@@ -30,9 +30,21 @@
                 "source": true
               }
             }
+          },
+          {
+            "id": "b9a97a2630cb6fba",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Year 2/Flight mechanics/3 Flight Dynamics/3.3 Longitudinal model.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -106,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Year 2/Propulsion/7 Gas Turbine Engines/Prop 7 5.md",
+                "file": "Year 2/Flight mechanics/3 Flight Dynamics/3.3 Longitudinal model.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -149,8 +161,12 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "debfda4a08e4960f",
+  "active": "b9a97a2630cb6fba",
   "lastOpenFiles": [
+    "Year 2/Test/Also test/Untitled.md",
+    "Year 2/Propulsion/5 Combustion/Prop 5.5.md",
+    "Year 2/Propulsion/5 Combustion/Prop 5.4.md",
+    "Year 2/Propulsion/5 Combustion/Prop 5.3.md",
     "Year 2/Flight mechanics/3 Flight Dynamics/3.0 Derivative meanings.md",
     "Year 2/Materials/1 Structural Performance/1.1 Modes of failure.md",
     "Year 2/Flight mechanics/1 Trim and Static Stability/1.0 Misc.md",
@@ -185,9 +201,6 @@
     "Year 2/Flight mechanics/2 Trim and Static Stability/2.4 Lateral-Directional Stability.md",
     "Year 2/Flight mechanics/2 Trim and Static Stability/2.3 Determining Margins from flight tests.md",
     "Year 2/Flight mechanics/2 Trim and Static Stability/2.2 Longitudinal Manoeuvre Stability.md",
-    "Year 2/Flight mechanics/2 Trim and Static Stability/2.1 Longitudinal Static Stability.md",
-    "Year 2/Propulsion/7 Gas Turbine Engines/Prop 7 5.md",
-    "Year 2/Materials/1 Structural Performance/1.2 Stress, loading and failure.md",
     "Year 2/Materials/4 High temperature materials",
     "Year 2/Materials/3 Ferrous metals",
     "Year 2/Materials/2 Lightweight materials",

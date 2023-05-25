@@ -12,7 +12,6 @@ Back:
 - The solid propellant typically contains both the fuel and the oxidizer.
 - There is a perforation through the center of the rocket, which acts as the combustion chamber, and will increase in size as the propellant is consumed.
 - The exhaust is then propelled out of a nozzle to provide thrust
-<!--ID: 1680694727329-->
 END_CARD
 
 
@@ -28,7 +27,6 @@ Back:
 - It is however possible to design the grain structure such that there is desirable time dependent thrust
 
 ![[Pasted image 20230404170347.png]]
-<!--ID: 1680694727344-->
 END_CARD
 
 
