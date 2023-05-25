@@ -23,7 +23,8 @@
   "enabled_templates_hotkeys": [
     "Templates/flashcard.md",
     "Templates/latex multiline eq.md",
-    "Templates/EquationCard.md"
+    "Templates/EquationCard.md",
+    "Templates/trol.md"
   ],
   "startup_templates": [
     ""
