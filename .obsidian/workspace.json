@@ -13,9 +13,9 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Year 2/Propulsion/7 Gas Turbine Engines/Prop 7 4.md",
+                "file": "Year 2/Propulsion/7 Gas Turbine Engines/Prop 7 5.md",
                 "mode": "source",
-                "source": true
+                "source": false
               }
             }
           },
@@ -25,38 +25,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Year 2/Propulsion/7 Gas Turbine Engines/Prop 7 5.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "b422102f8ee6c26d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Year 2/Flight mechanics/3 Flight Dynamics/3.0 Derivative meanings.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "46de597a453648c3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Year 2/Flight mechanics/1 Trim and Static Stability/1.0 Misc.md",
+                "file": "Year 2/Propulsion/9 Turbomachinery part 1/Prop 9 7.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -130,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Year 2/Flight mechanics/3 Flight Dynamics/3.0 Derivative meanings.md",
+                "file": "Year 2/Propulsion/9 Turbomachinery part 1/Prop 9 7.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -173,52 +149,53 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "b422102f8ee6c26d",
+  "active": "debfda4a08e4960f",
   "lastOpenFiles": [
-    "Year 2/Materials/1 Structural Performance/1.1 Modes of failure.md",
+    "Images/Pasted image 20230527173209.png",
+    "Images/Pasted image 20230527172353.png",
+    "Images/Pasted image 20230527172256.png",
+    "Images/Pasted image 20230527172034.png",
+    "Images/Pasted image 20230527171911.png",
+    "Images/Pasted image 20230527171738.png",
+    "Year 2/Propulsion/9 Turbomachinery part 1/Prop 9 6.md",
+    "Year 2/Propulsion/9 Turbomachinery part 1/Prop 9 7.md",
+    "Images/Pasted image 20230527165032.png",
+    "Images/Pasted image 20230527164817.png",
+    "Images/Pasted image 20230527164019.png",
+    "Images/Pasted image 20230527163758.png",
+    "Images/Pasted image 20230527163737.png",
+    "Year 2/Propulsion/9 Turbomachinery part 1/Prop 9 4.md",
+    "Year 2/Propulsion/9 Turbomachinery part 1/9 3 Turbomachines.md",
+    "Year 2/Propulsion/9 Turbomachinery part 1/9 2 Turbomachines.md",
     "Year 2/Flight mechanics/1 Trim and Static Stability/1.0 Misc.md",
+    "Year 2/Propulsion/7 Gas Turbine Engines/Prop 7 5.md",
+    "Year 2/Propulsion/7 Gas Turbine Engines/Prop 7 8.md",
+    "Year 2/Propulsion/7 Gas Turbine Engines/Prop 7 7.md",
+    "Year 2/Propulsion/8 Design of turbofan engines/Prop 8 3.md",
+    "Year 2/Propulsion/9 Turbomachinery part 1",
+    "Year 2/Propulsion/8 Design of turbofan engines/Prop 8 2.md",
     "Year 2/Flight mechanics/3 Flight Dynamics/3.0 Derivative meanings.md",
-    "Images/Pasted image 20230525130825.png",
-    "Images/Pasted image 20230525130815.png",
-    "Images/Pasted image 20230525130805.png",
-    "Images/Pasted image 20230525130745.png",
-    "Images/Pasted image 20230525130732.png",
-    "Images/Pasted image 20230525121247.png",
-    "Images/Pasted image 20230525120028.png",
-    "Images/Pasted image 20230525114948.png",
-    "Images/Pasted image 20230525112340.png",
-    "Images/Pasted image 20230525104301.png",
+    "Year 2/Propulsion/7 Gas Turbine Engines/Prop 7 4.md",
+    "Year 2/Propulsion/8 Design of turbofan engines",
+    "Year 2/Propulsion/7 Gas Turbine Engines/Prop 7 6.md",
     "Year 2/Flight mechanics/PP Questions/17-18.md",
+    "Year 2/Flight mechanics/PP Questions",
+    "Year 2/Flight mechanics/3 Flight Dynamics/3.8ish Spiraly shite.md",
+    "Year 2/Materials/1 Structural Performance/1.1 Modes of failure.md",
     "Year 2/Flight mechanics/3 Flight Dynamics/3.2 Decoupled linear model.md",
     "Year 2/Flight mechanics/3 Flight Dynamics/3.3 Longitudinal model.md",
     "Year 2/Flight mechanics/3 Flight Dynamics/3.1 Rigid aircraft model Six degrees of freedom.md",
-    "Year 2/Flight mechanics/3 Flight Dynamics/3.8ish Spiraly shite.md",
-    "Year 2/Propulsion/8 Design of turbofan engines/Prop 8 3.md",
-    "Year 2/Propulsion/8 Design of turbofan engines/Prop 8 2.md",
-    "Year 2/Propulsion/8 Design of turbofan engines",
-    "Year 2/Propulsion/7 Gas Turbine Engines/Prop 7 8.md",
-    "Year 2/Propulsion/7 Gas Turbine Engines/Prop 7 7.md",
-    "Year 2/Propulsion/7 Gas Turbine Engines/Prop 7 6.md",
-    "Year 2/Flight mechanics/PP Questions",
     "Year 2/Flight mechanics/1 Trim and Static Stability/1.6 Cruise & Loiter Performance.md",
     "Year 2/Flight mechanics/1 Trim and Static Stability/1.5 Trim Drag & Performance Optimisation.md",
     "Year 2/Flight mechanics/1 Trim and Static Stability/1.4 Drag.md",
     "Year 2/Flight mechanics/1 Trim and Static Stability/1.3 High-Lift Devices.md",
     "Year 2/Flight mechanics/1 Trim and Static Stability/1.2 Stick Fixed versus Stick Free.md",
-    "Year 2/Flight mechanics/1 Trim and Static Stability/1.1 Equations of motion and tail plane equation.md",
-    "Year 2/Flight mechanics/2 Trim and Static Stability/2.4 Lateral-Directional Stability.md",
-    "Year 2/Flight mechanics/2 Trim and Static Stability/2.3 Determining Margins from flight tests.md",
-    "Year 2/Flight mechanics/2 Trim and Static Stability/2.2 Longitudinal Manoeuvre Stability.md",
-    "Year 2/Flight mechanics/2 Trim and Static Stability/2.1 Longitudinal Static Stability.md",
-    "Year 2/Propulsion/7 Gas Turbine Engines/Prop 7 5.md",
-    "Year 2/Materials/1 Structural Performance/1.2 Stress, loading and failure.md",
     "Year 2/Materials/4 High temperature materials",
     "Year 2/Materials/3 Ferrous metals",
     "Year 2/Materials/2 Lightweight materials",
     "Year 2/Materials/1 Structural Performance",
     "Year 2/Materials",
     "Year 2/Propulsion/7 Gas Turbine Engines",
-    "Year 2/Propulsion/6 Rockets",
-    "Year 2/Flight mechanics/2 Trim and Static Stability"
+    "Year 2/Propulsion/6 Rockets"
   ]
 }
