@@ -2,6 +2,7 @@ TARGET_DECK: Propulsion::3 Gas dynamics
 
 
 
+
 START_CARD
 Basic
 
@@ -14,7 +15,7 @@ Back:
 - Inviscid flow (also follows that there is no viscous heating)
 - No thermal diffusion
 - Ideal gas assumed
-
+<!--ID: 1685356103323-->
 END_CARD
 
  
@@ -30,7 +31,7 @@ Back:
 - $x=$ position along streamline
 - $h=$ enthalpy
 - $U=$ velocity
-
+<!--ID: 1685356103338-->
 END_CARD
 
 
@@ -48,7 +49,7 @@ Back:
 - This is the equation for conservation of mass along a 1D compressible flow, which makes perfect sense if you think about it.
 - $U=$ velocity at some point along a streamline
 - $\rho=$ density at some point along a streamline
-
+<!--ID: 1685356103354-->
 END_CARD
 
  
@@ -65,7 +66,7 @@ Back:
 - $U=$ velocity at some point along a streamline
 - $\rho=$ density at some point along a streamline
 - $P=$ pressure at some point along a streamline
-
+<!--ID: 1685356103370-->
 END_CARD
  
 --------
@@ -80,7 +81,7 @@ Back:
 - This is the equation for conservation of energy along a 1D compressible flow.
 - $U=$ velocity at some point along a streamline
 - $h=$ enthalpy at some point along a streamline
-
+<!--ID: 1685356103385-->
 END_CARD
 
  
@@ -97,7 +98,7 @@ Back:
 - $U_{1}=$ velocity at some point along a streamline
 - $h_{1}=$ enthalpy at some point along a streamline
 - $h_{0}=$ stagnation enthalpy of streamline
-
+<!--ID: 1685356103404-->
 END_CARD
 
 
@@ -117,7 +118,7 @@ Back:
 - $C_{p}=$ constant pressure specific heat
 - $T_{0}=$ stagnation temperature of streamline
 - This equation makes the additional assumption that we are dealing with a perfect gas
-
+<!--ID: 1685356103419-->
 END_CARD
 
 
@@ -140,7 +141,7 @@ Back:
 - $\gamma=$ specific heat ratio
 - This equation makes the additional assumption that we are dealing with a perfect gas
 - This equation makes the additional assumption that all processes along the streamline have isentropic flow, in the event of a normal shock there will be a entropy change meaning a change in stagnation pressure.
-
+<!--ID: 1685356103432-->
 END_CARD
 
  
@@ -162,7 +163,7 @@ Back:
 - $\gamma=$ specific heat ratio 
 - This equation makes the additional assumption that we are dealing with a perfect gas
 - This equation makes the additional assumption that all processes along the streamline have isentropic flow, in the event of a normal shock there will be a entropy change meaning a change in stagnation density.
-
+<!--ID: 1685356103443-->
 END_CARD
 
 
