@@ -196,7 +196,7 @@ END_CARD
 START_CARD
 Basic
 
-Consider a turbojet engine in flight at sea level, with mid-span blade speed of 380.8 m/s, the multi-stage compressor has an overall total pressure ratio of 10:1. Assuming that the designer has decided that the upper limit for the mid-span stage loading coefficient should be 0.4, determine the minimum number of stages required.
+Consider a turbojet engine in flight at sea level, with mid-span blade speed of 380.8 m/s and inlet temperature of 324.9K, the multi-stage compressor has an overall total pressure ratio of 10:1. Assuming that the designer has decided that the upper limit for the mid-span stage loading coefficient should be 0.4, determine the minimum number of stages required.
 
 Back: 
 - Loading coefficient should maximum 0.4:
@@ -207,16 +207,38 @@ $$ \begin{align}
 \end{align} $$
 - Deriving a formula for temperature change interms of pressure ratio of isentropic compression of a perfect gas:
 $$ \begin{align}
-  \frac{T}{p}^{\frac{\gamma-1}{\gamma}} &= k &&\to& \frac{T_{02}}{p_{02}^{\frac{\gamma-1}{\gamma}}} &= \frac{T_{03}}{p_{03}^{\frac{\gamma-1}{\gamma}}}  \\ &= 
+  \frac{T}{p^{\frac{\gamma-1}{\gamma}}} &= k &&\to& \frac{T_{02}}{p_{02}^{\frac{\gamma-1}{\gamma}}} &= \frac{T_{03}}{p_{03}^{\frac{\gamma-1}{\gamma}}}   &&\to& \frac{p_{03}}{p_{02}}^{\frac{\gamma-1}{\gamma}} &= \frac{T_{03}}{T_{02}}    \\&&&&&&&& T_{02}\text{PR}^{\frac{\gamma-1}{\gamma}} &= T_{03} 
 \end{align} $$
 
-- Deriving a formula for isentropic 
+- Deriving a formula for isentropic static entropy change using pressure ratio:
 
 $$ \begin{align} 
-\Delta h_{0,total} &= c_{p} (T_{03} - T_{02}) & &\to & \Delta h_{0,total} &= c_{p} (T_{03} - T_{02})
+\Delta h_{0,total} &= c_{p} (T_{03} - T_{02}) & &\to & \Delta h_{0,total} &= c_{p}T_{02} \left( \text{PR}^{\frac{\gamma-1}{\gamma}} - 1\right)\\
+&& && &= 1005 \times 324.9\times \left( 10^{\frac{1.4-1}{1.4}} - 1 \right)\\
+&& && &= 303895 \: J/kg
+\end{align} $$
+
+- Then determining the number of stages needed to get this change:
+ $$ \begin{align}
+\frac{\Delta h_{0,total}}{\Delta h_{0,stage}} = \frac{303895}{58003} = &5.23\\
+&\therefore \text{need 6 compression stages}
 \end{align} $$
 
 END_CARD
+
+
+--------
+
+START_CARD
+Basic
+
+
+
+Back: 
+- 
+
+END_CARD
+
 
 
 
