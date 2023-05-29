@@ -167,10 +167,17 @@ END_CARD
 START_CARD
 Basic
 
-
+Consider a turbojet engine in flight at sea level (T=288 K, p=1.01 bar) and Mach 0.8. Due to flow divergence in the engine inlet, the flow enters the first compressor rotor at Mach 0.6. Assume there is no inlet guide vane and therefore no swirl in the flow entering the first rotor. If the designer has specified a mid-span flow coefficient of 0.55 for the first stage, determine the mid-span blade speed.
 
 Back: 
-- 
+![[Pasted image 20230529104340.png]]
+
+- Assume a perfect gas, find the temperature before the fan then using a mach number relation:
+$$ \begin{align}
+T_{02} &= T_{atm} \left( 1 + \frac{\gamma-1}{2} M^{2} \right) & &\to & T_{02} &=288 \left( 1 + \frac{1.4-1}{2} 0.6^{2} \right) = 324.9K
+\end{align} $$
+- Note that all velocity is axial $V=V_{x}$ since there is no swirl. 
+
 
 END_CARD
 
