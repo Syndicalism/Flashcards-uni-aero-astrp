@@ -143,7 +143,7 @@ END_CARD
 START_CARD
 Basic
 
-How does the speed of sound vary through a turbine?
+Where is the highest Mach number in a compressor?  How does this influence design?
 
 Back: 
 $$ \begin{align}
@@ -151,7 +151,26 @@ c &= \sqrt{k R T}
 \end{align} $$
 
 - We know that (for a perfect gas) speed of sound increases with temperature (this is also the case for real gases)
-- Speed of sound will be increasing 
+- Speed of sound will be increasing through the compressor.
+- Since the max speed of the gas can be approximated to be constant, the highest mach numbers will be seen at the intake.
+- Supersonic effects set an upper limit on flow rates related to choking fan blades.
+- For practical reasons the relative mach number onto the fan tip is kept below Mach 1.6, with axial mach number about 0.6:
+	- Bird strikes
+	- Limiting noise
+
+END_CARD
+
+
+
+--------
+
+START_CARD
+Basic
+
+
+
+Back: 
+- 
 
 END_CARD
 
