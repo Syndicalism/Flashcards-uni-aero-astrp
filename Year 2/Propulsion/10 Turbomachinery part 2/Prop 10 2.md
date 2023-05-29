@@ -199,9 +199,21 @@ Basic
 Consider a turbojet engine in flight at sea level, with mid-span blade speed of 380.8 m/s, the multi-stage compressor has an overall total pressure ratio of 10:1. Assuming that the designer has decided that the upper limit for the mid-span stage loading coefficient should be 0.4, determine the minimum number of stages required.
 
 Back: 
-- Loading coefficient should be less than 0.4:
+- Loading coefficient should maximum 0.4:
 $$ \begin{align}
-\psi &= \Delta
+\psi &= \frac{\Delta h_{0,stage}}{U^{2}} \leq 0.4 & &\to & \psi U^{2} = \Delta h_{0,stage}  &\leq 0.4 U^{2}\\
+&& &&  \Delta h_{0,stage}  &\leq 0.4 \times 380.8^{2}\\
+&& &&  \Delta h_{0,stage}  &\leq 58003 \:J/kg
+\end{align} $$
+- Deriving a formula for temperature change interms of pressure ratio of isentropic compression of a perfect gas:
+$$ \begin{align}
+  \frac{T}{p}^{\frac{\gamma-1}{\gamma}} &= k &&\to& \frac{T_{02}}{p_{02}^{\frac{\gamma-1}{\gamma}}} &= \frac{T_{03}}{p_{03}^{\frac{\gamma-1}{\gamma}}}  \\ &= 
+\end{align} $$
+
+- Deriving a formula for isentropic 
+
+$$ \begin{align} 
+\Delta h_{0,total} &= c_{p} (T_{03} - T_{02}) & &\to & \Delta h_{0,total} &= c_{p} (T_{03} - T_{02})
 \end{align} $$
 
 END_CARD
