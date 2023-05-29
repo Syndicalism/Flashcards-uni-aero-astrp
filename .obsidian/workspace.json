@@ -25,6 +25,18 @@
             "state": {
               "type": "markdown",
               "state": {
+                "file": "Year 2/Propulsion/10 Turbomachinery part 2/Prop 10 2.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "2a891a009887668f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
                 "file": "Year 2/Propulsion/9 Turbomachinery part 1/Prop 9 7.md",
                 "mode": "source",
                 "source": false
@@ -106,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Year 2/Propulsion/9 Turbomachinery part 1/Prop 9 7.md",
+                "file": "Year 2/Propulsion/10 Turbomachinery part 2/Prop 10 2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,6 +163,14 @@
   },
   "active": "debfda4a08e4960f",
   "lastOpenFiles": [
+    "Year 2/Propulsion/9 Turbomachinery part 1/Prop 9 7.md",
+    "Year 2/Propulsion/10 Turbomachinery part 2/Prop 10 2.md",
+    "Images/Pasted image 20230527181855.png",
+    "Year 2/Propulsion/9 Turbomachinery part 1/9 3 Turbomachines.md",
+    "Year 2/Propulsion/9 Turbomachinery part 1/9 2 Turbomachines.md",
+    "Year 2/Propulsion/9 Turbomachinery part 1/Prop 9 4.md",
+    "Year 2/Propulsion/7 Gas Turbine Engines/Prop 7 5.md",
+    "Year 2/Propulsion/10 Turbomachinery part 2",
     "Images/Pasted image 20230527173209.png",
     "Images/Pasted image 20230527172353.png",
     "Images/Pasted image 20230527172256.png",
@@ -158,17 +178,10 @@
     "Images/Pasted image 20230527171911.png",
     "Images/Pasted image 20230527171738.png",
     "Year 2/Propulsion/9 Turbomachinery part 1/Prop 9 6.md",
-    "Year 2/Propulsion/9 Turbomachinery part 1/Prop 9 7.md",
     "Images/Pasted image 20230527165032.png",
     "Images/Pasted image 20230527164817.png",
     "Images/Pasted image 20230527164019.png",
-    "Images/Pasted image 20230527163758.png",
-    "Images/Pasted image 20230527163737.png",
-    "Year 2/Propulsion/9 Turbomachinery part 1/Prop 9 4.md",
-    "Year 2/Propulsion/9 Turbomachinery part 1/9 3 Turbomachines.md",
-    "Year 2/Propulsion/9 Turbomachinery part 1/9 2 Turbomachines.md",
     "Year 2/Flight mechanics/1 Trim and Static Stability/1.0 Misc.md",
-    "Year 2/Propulsion/7 Gas Turbine Engines/Prop 7 5.md",
     "Year 2/Propulsion/7 Gas Turbine Engines/Prop 7 8.md",
     "Year 2/Propulsion/7 Gas Turbine Engines/Prop 7 7.md",
     "Year 2/Propulsion/8 Design of turbofan engines/Prop 8 3.md",
@@ -189,13 +202,11 @@
     "Year 2/Flight mechanics/1 Trim and Static Stability/1.5 Trim Drag & Performance Optimisation.md",
     "Year 2/Flight mechanics/1 Trim and Static Stability/1.4 Drag.md",
     "Year 2/Flight mechanics/1 Trim and Static Stability/1.3 High-Lift Devices.md",
-    "Year 2/Flight mechanics/1 Trim and Static Stability/1.2 Stick Fixed versus Stick Free.md",
     "Year 2/Materials/4 High temperature materials",
     "Year 2/Materials/3 Ferrous metals",
     "Year 2/Materials/2 Lightweight materials",
     "Year 2/Materials/1 Structural Performance",
     "Year 2/Materials",
-    "Year 2/Propulsion/7 Gas Turbine Engines",
-    "Year 2/Propulsion/6 Rockets"
+    "Year 2/Propulsion/7 Gas Turbine Engines"
   ]
 }
