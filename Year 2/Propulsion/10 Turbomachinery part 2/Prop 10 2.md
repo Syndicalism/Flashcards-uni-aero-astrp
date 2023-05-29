@@ -226,20 +226,7 @@ $$ \begin{align}
 
 END_CARD
 
-
---------
-
-START_CARD
-Basic
-
-
-
-Back: 
-- 
-
-END_CARD
-
-
+ 
 
 
 
