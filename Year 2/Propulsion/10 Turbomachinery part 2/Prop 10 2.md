@@ -143,10 +143,15 @@ END_CARD
 START_CARD
 Basic
 
-
+How does the speed of sound vary through a turbine?
 
 Back: 
-- 
+$$ \begin{align}
+c &= \sqrt{k R T}
+\end{align} $$
+
+- We know that (for a perfect gas) speed of sound increases with temperature (this is also the case for real gases)
+- Speed of sound will be increasing 
 
 END_CARD
 

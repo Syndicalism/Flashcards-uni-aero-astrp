@@ -35,9 +35,11 @@
             "id": "af3be9bb80f8641b",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.2.8"
+                "file": "Year 2/Propulsion/10 Turbomachinery part 2/Prop 10 2.md",
+                "mode": "source",
+                "source": false
               }
             }
           },
