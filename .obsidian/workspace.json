@@ -32,6 +32,16 @@
             }
           },
           {
+            "id": "af3be9bb80f8641b",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.2.8"
+              }
+            }
+          },
+          {
             "id": "2a891a009887668f",
             "type": "leaf",
             "state": {
@@ -44,7 +54,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -161,7 +171,7 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "debfda4a08e4960f",
+  "active": "af3be9bb80f8641b",
   "lastOpenFiles": [
     "Year 2/Propulsion/9 Turbomachinery part 1/Prop 9 7.md",
     "Year 2/Propulsion/10 Turbomachinery part 2/Prop 10 2.md",
