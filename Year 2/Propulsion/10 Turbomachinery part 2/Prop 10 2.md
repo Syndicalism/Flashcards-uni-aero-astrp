@@ -2,6 +2,7 @@ TARGET_DECK: Propulsion::10 Turbomachinery part 2
 
 
 
+
 START_CARD
 Basic
 
@@ -15,7 +16,7 @@ $$ \begin{align}
 - $\phi$ is the flow coefficient
 - $V_{x}$ is the axial flow velocity
 - $U$ is the blade speed
-
+<!--ID: 1685355946848-->
 END_CARD
 
 
@@ -38,7 +39,7 @@ $$ \begin{align}
 - High value $\to$ near tangential flow
 
 ![[Pasted image 20230527181855.png]]
-
+<!--ID: 1685355946862-->
 END_CARD
 
 
@@ -53,7 +54,7 @@ Back:
 - For blades to operate effectively the flow incidence angle on the leading edge should be near zero
 - The flow coefficient measures to some extent the angle of the flow
 - If the flow coefficient is changing from it's design value then the turbomachinery is probably not going to have good incidence on it's flow and loose efficiency
-
+<!--ID: 1685355946875-->
 END_CARD
 
 
@@ -70,7 +71,7 @@ Back:
 - Between stages the flow density increases (compressed, duh), which if cross section is constant then axial velocity will drop
 - To compensate for this we reduce the cross section, meaning $V_{x}$ is constant(ish) and flow coefficient is constant(ish)
 - Since area drops blade height will obviously also drop.
-
+<!--ID: 1685355946888-->
 END_CARD
 
 
@@ -90,7 +91,7 @@ $$ \begin{align}
 - $\psi$ is stage loading coefficient
 - $\Delta h_{0}$ is stagnation enthalpy
 - $U$ is blade speed
-
+<!--ID: 1685355946900-->
 END_CARD
 
 
@@ -115,7 +116,7 @@ $$ \begin{align}
 - So $\psi$ describes the indidence angle times the deflection angle, which is a measure of how much the blades are deflecting the flow
 - Hence low stage loading implies low deflection of flow and the blades extracting/inputting little energy
 - High stage loading would imply the opposite
-
+<!--ID: 1685355946912-->
 END_CARD
 
 
@@ -133,7 +134,7 @@ $$ \begin{align}
 \end{align} $$
 - This equation shows that high loading implies a high Δ𝑉𝜃, and hence blades with a large amount of flow turning
 - High stage loading means doing more with less machinery and is desirable
-
+<!--ID: 1685355946927-->
 END_CARD
 
 
@@ -157,7 +158,7 @@ c &= \sqrt{k R T}
 - For practical reasons the relative mach number onto the fan tip is kept below Mach 1.6, with axial mach number about 0.6:
 	- Bird strikes
 	- Limiting noise
-
+<!--ID: 1685355946941-->
 END_CARD
 
 
@@ -187,7 +188,7 @@ $$ \begin{align}
 \phi &= \frac{V_{x}}{U} & &\to & U &= \frac{V_{x}}{\phi} \\
 && && &= \frac{209.4}{0.55}=\underline{380.8\: m/s}
 \end{align} $$
-
+<!--ID: 1685355946955-->
 END_CARD
 
 
@@ -223,7 +224,7 @@ $$ \begin{align}
 \frac{\Delta h_{0,total}}{\Delta h_{0,stage}} = \frac{303895}{58003} = &5.23\\
 &\therefore \text{need 6 compression stages}
 \end{align} $$
-
+<!--ID: 1685355946967-->
 END_CARD
 
  

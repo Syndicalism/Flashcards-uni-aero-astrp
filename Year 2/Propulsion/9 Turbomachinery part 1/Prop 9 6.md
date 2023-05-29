@@ -9,7 +9,7 @@ The function of a blade in axial turbomachinery is to add/use swirl, what gradie
 
 Back: 
 - The pressure gradient between suction and pressure surfaces of adjacent blades is what's responsible for flow velocity changes
-
+<!--ID: 1685355931729-->
 END_CARD
 
 
@@ -29,7 +29,7 @@ Back:
 - The increasing area leads to flow deceleration and static enthalpy and pressure increase.
 
 ![[Pasted image 20230527164019.png]]
-
+<!--ID: 1685355931739-->
 END_CARD
 
 
@@ -50,7 +50,7 @@ Back:
 - This leads to the flow accelerating and loosing static enthalpy and pressure
 
 ![[Pasted image 20230527165032.png]]
-
+<!--ID: 1685355931749-->
 END_CARD
 
 
@@ -68,7 +68,7 @@ Back:
 - Reduce pressure gradient across individual stages but increase number of stages.
 	- Increases weight
 	- Increases complexity
-
+<!--ID: 1685355931759-->
 END_CARD
 
 
@@ -84,7 +84,7 @@ Back:
 - It can be caused by:
 	- Flow rate being too low
 	- Rotation speed being too high
-
+<!--ID: 1685355931770-->
 END_CARD
 
 
