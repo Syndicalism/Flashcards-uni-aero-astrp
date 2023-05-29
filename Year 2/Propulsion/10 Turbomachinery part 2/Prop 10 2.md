@@ -172,14 +172,40 @@ Consider a turbojet engine in flight at sea level (T=288 K, p=1.01 bar) and Mach
 Back: 
 ![[Pasted image 20230529104340.png]]
 
-- Assume a perfect gas, find the temperature before the fan then using a mach number relation:
+- Assume a perfect gas, assume isentropic compression, find the temperature before the fan then using a mach number relation:
 $$ \begin{align}
 T_{02} &= T_{atm} \left( 1 + \frac{\gamma-1}{2} M^{2} \right) & &\to & T_{02} &=288 \left( 1 + \frac{1.4-1}{2} 0.6^{2} \right) = 324.9K
 \end{align} $$
-- Note that all velocity is axial $V=V_{x}$ since there is no swirl. 
-
+- Note that all velocity is axial $V=V_{x}$ since there is no swirl. So then we can use the following mach relation:
+$$ \begin{align}
+\frac{V}{\sqrt{c_{p} T_{0}}} &= \sqrt{\gamma -1}  M \left( 1 + \frac{\gamma-1}{2} M^{2} \right)^{-\frac{1}{2}} & &\to & V_{x}   &= \sqrt{c_{p} T_{02}(\gamma -1)}  M \left( 1 + \frac{\gamma-1}{2} M^{2} \right)^{-\frac{1}{2}}\\
+&& && &= \sqrt{1005\times 324.9\times(1.4-1)} 0.6 \left( 1 + \frac{1.4-1}{2} 0.6^{2} \right)^{- \frac{1}{2} }\\
+&& && &= 209.4\: m/s
+\end{align} $$
+- Now to get mid-span blade speed ($U$) we can make use of $\phi$ which we've been given:
+$$ \begin{align}
+\phi &= \frac{V_{x}}{U} & &\to & U &= \frac{V_{x}}{\phi} \\
+&& && &= \frac{209.4}{0.55}=\underline{380.8\: m/s}
+\end{align} $$
 
 END_CARD
+
+
+--------
+
+START_CARD
+Basic
+
+Consider a turbojet engine in flight at sea level, with mid-span blade speed of 380.8 m/s, the multi-stage compressor has an overall total pressure ratio of 10:1. Assuming that the designer has decided that the upper limit for the mid-span stage loading coefficient should be 0.4, determine the minimum number of stages required.
+
+Back: 
+- Loading coefficient should be less than 0.4:
+$$ \begin{align}
+\psi &= \Delta
+\end{align} $$
+
+END_CARD
+
 
 
 
