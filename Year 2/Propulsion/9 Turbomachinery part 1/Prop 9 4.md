@@ -30,7 +30,6 @@ We know according to SFEE ($Q-W_{out} = \Delta H_{0}$) that:
 	- Static enthalpy increases (so pressure/density/temp will also probably increase)
 
 ![[Pasted image 20230527155445.png]]
-
 <!--ID: 1685200388314-->
 END_CARD
 
@@ -125,7 +124,7 @@ What is meridional velocity?
 
 Back: 
 - The component of velocity along the centre stream tube
-
+<!--ID: 1685355931783-->
 END_CARD
 
 
