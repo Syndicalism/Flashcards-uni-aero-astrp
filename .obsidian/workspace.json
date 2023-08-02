@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Year 2/Propulsion/9 Turbomachinery part 1/Prop 9 7.md",
+                "file": "Year 2/Propulsion/1 Introduction/Deck 1.md",
                 "mode": "source",
                 "source": false
               }
@@ -142,7 +142,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Year 2/Propulsion/9 Turbomachinery part 1/Prop 9 7.md",
+                "file": "Year 2/Propulsion/1 Introduction/Deck 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -187,6 +187,7 @@
   },
   "active": "1c97200e8d9d02cd",
   "lastOpenFiles": [
+    "Year 2/Propulsion/9 Turbomachinery part 1/Prop 9 7.md",
     "Year 2/Propulsion/9 Turbomachinery part 1/Prop 9 4.md",
     "Year 2/Propulsion/9 Turbomachinery part 1/9 3 Turbomachines.md",
     "Year 2/Propulsion/9 Turbomachinery part 1/9 2 Turbomachines.md",
@@ -212,7 +213,6 @@
     "Year 2/Propulsion/3 Gas dynamics/Prop 3 2.md",
     "Year 2/Propulsion/3 Gas dynamics/Prop 3 1.md",
     "Year 2/Propulsion/2 Thermodynamics/Prop 2 4.md",
-    "Year 2/Propulsion/2 Thermodynamics/Prop 2 3.md",
     "Images/Pasted image 20230529104340.png",
     "Images/Pasted image 20230527181855.png",
     "Year 2/Propulsion/10 Turbomachinery part 2",
