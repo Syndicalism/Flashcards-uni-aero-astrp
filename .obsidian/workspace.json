@@ -19,9 +19,11 @@
             "id": "f7d44c06f15aafc9",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.4.14"
+                "file": "Year 2/Propulsion/3 Gas dynamics/Prop 3 5.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -100,6 +102,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Year 2/Propulsion/3 Gas dynamics/Prop 3 5.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -144,6 +147,7 @@
   },
   "active": "f7d44c06f15aafc9",
   "lastOpenFiles": [
+    "Year 2/Propulsion/3 Gas dynamics/Prop 3 4.md",
     "Year 2/Propulsion/1 Introduction/Deck 1.md",
     "Year 2/Propulsion/9 Turbomachinery part 1/Prop 9 7.md",
     "Year 2/Propulsion/9 Turbomachinery part 1/Prop 9 4.md",
@@ -166,7 +170,6 @@
     "Year 2/Propulsion/4 Ramjets/Prop 4 4.md",
     "Year 2/Propulsion/4 Ramjets/Prop 4 2.md",
     "Year 2/Propulsion/3 Gas dynamics/Prop 3 5.md",
-    "Year 2/Propulsion/3 Gas dynamics/Prop 3 4.md",
     "Year 2/Propulsion/3 Gas dynamics/Prop 3 3.md",
     "Year 2/Propulsion/3 Gas dynamics/Prop 3 2.md",
     "Year 2/Propulsion/3 Gas dynamics/Prop 3 1.md",
