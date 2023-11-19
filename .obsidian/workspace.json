@@ -21,9 +21,9 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Year 2/Propulsion/3 Gas dynamics/Prop 3 5.md",
+                "file": "Year 3/Aerothermodynamics/2 - NF/Aerotherm 2 2.md",
                 "mode": "source",
-                "source": false
+                "source": true
               }
             }
           }
@@ -102,7 +102,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Year 2/Propulsion/3 Gas dynamics/Prop 3 5.md",
+                "file": "Year 3/Aerothermodynamics/2 - NF/Aerotherm 2 2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -145,8 +145,27 @@
       "obsidian-to-anki-plugin:Obsidian_to_Anki - Scan Vault": false
     }
   },
-  "active": "f7d44c06f15aafc9",
+  "active": "36544cca903a5622",
   "lastOpenFiles": [
+    "Year 3/Aerothermodynamics/2 - NF/Untitled",
+    "Images/Pasted image 20231117005059.png",
+    "Images/Pasted image 20231117005040.png",
+    "Images/Pasted image 20231117004619.png",
+    "Year 3/Aerothermodynamics/2 - NF/Aerotherm 2 1.md",
+    "Year 3/Aerothermodynamics/2 - NF/Aerotherm 2 2.md",
+    "Images/Pasted image 20231117003729.png",
+    "Images/Pasted image 20231117003539.png",
+    "Images/Pasted image 20231117003519.png",
+    "Images/Pasted image 20231117003208.png",
+    "Images/Pasted image 20231117003111.png",
+    "Images/Pasted image 20231117002729.png",
+    "Images/Pasted image 20231117002209.png",
+    "Year 3/Aerothermodynamics/1 - NOT finished/Aerotherm 1.md",
+    "Year 3/Aerothermodynamics/2 - NF",
+    "Year 2/Propulsion/3 Gas dynamics/Prop 3 5.md",
+    "Year 3/Aerothermodynamics/1 - NOT finished",
+    "Year 3/Aerothermodynamics",
+    "Year 3",
     "Year 2/Propulsion/3 Gas dynamics/Prop 3 4.md",
     "Year 2/Propulsion/1 Introduction/Deck 1.md",
     "Year 2/Propulsion/9 Turbomachinery part 1/Prop 9 7.md",
@@ -168,30 +187,11 @@
     "Year 2/Propulsion/5 Combustion/Ex 5 2.md",
     "Year 2/Propulsion/4 Ramjets/Prop 4 5.md",
     "Year 2/Propulsion/4 Ramjets/Prop 4 4.md",
-    "Year 2/Propulsion/4 Ramjets/Prop 4 2.md",
-    "Year 2/Propulsion/3 Gas dynamics/Prop 3 5.md",
-    "Year 2/Propulsion/3 Gas dynamics/Prop 3 3.md",
-    "Year 2/Propulsion/3 Gas dynamics/Prop 3 2.md",
-    "Year 2/Propulsion/3 Gas dynamics/Prop 3 1.md",
-    "Images/Pasted image 20230529104340.png",
-    "Images/Pasted image 20230527181855.png",
     "Year 2/Propulsion/10 Turbomachinery part 2",
-    "Images/Pasted image 20230527173209.png",
-    "Images/Pasted image 20230527172353.png",
-    "Images/Pasted image 20230527172256.png",
-    "Images/Pasted image 20230527172034.png",
-    "Images/Pasted image 20230527171911.png",
-    "Images/Pasted image 20230527171738.png",
-    "Images/Pasted image 20230527165032.png",
-    "Images/Pasted image 20230527164817.png",
     "Year 2/Propulsion/9 Turbomachinery part 1",
     "Year 2/Propulsion/8 Design of turbofan engines",
     "Year 2/Flight mechanics/PP Questions",
     "Year 2/Materials/4 High temperature materials",
-    "Year 2/Materials/3 Ferrous metals",
-    "Year 2/Materials/2 Lightweight materials",
-    "Year 2/Materials/1 Structural Performance",
-    "Year 2/Materials",
-    "Year 2/Propulsion/7 Gas Turbine Engines"
+    "Year 2/Materials/3 Ferrous metals"
   ]
 }
