@@ -11,24 +11,15 @@
             "id": "20ee21aa4af19609",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "f7d44c06f15aafc9",
-            "type": "leaf",
-            "state": {
               "type": "markdown",
               "state": {
-                "file": "Year 3/Aerothermodynamics/2 - NF/Aerotherm 2 2.md",
+                "file": "Year 3/Aerothermodynamics/2/Aerotherm 2 3.md",
                 "mode": "source",
-                "source": true
+                "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -86,7 +77,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300.5
   },
   "right": {
     "id": "c5372b784fdc67dc",
@@ -102,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Year 3/Aerothermodynamics/2 - NF/Aerotherm 2 2.md",
+                "file": "Year 3/Aerothermodynamics/2/Aerotherm 2 3.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -145,23 +136,38 @@
       "obsidian-to-anki-plugin:Obsidian_to_Anki - Scan Vault": false
     }
   },
-  "active": "36544cca903a5622",
+  "active": "20ee21aa4af19609",
   "lastOpenFiles": [
+    "Year 3/Aerothermodynamics/Proofs that came up.md",
+    "Year 3/Aerothermodynamics/4/Aerotherm 4 1.md",
+    "Images/Pasted image 20231218200304.png",
+    "Images/Pasted image 20231218200246.png",
+    "Images/Pasted image 20231218200213.png",
+    "Images/Pasted image 20231218200025.png",
+    "Images/Pasted image 20231218195917.png",
+    "Images/Pasted image 20231218195844.png",
+    "Year 3/Aerothermodynamics/3/Aerotherm 3 4.md",
+    "Year 3/Aerothermodynamics/4",
+    "Year 3/Aerothermodynamics/3/Aerotherm 3 3.md",
+    "Images/Pasted image 20231218193001.png",
+    "Year 3/Aerothermodynamics/3/Aerotherm 3 2.md",
+    "Images/Pasted image 20231218173017.png",
+    "Year 3/Aerothermodynamics/3/Aerotherm 3 3",
+    "Images/Pasted image 20231218172411.png",
+    "Images/Pasted image 20231218171919.png",
+    "Year 3/Aerothermodynamics/2/Aerotherm 2 7.md",
+    "Year 3/Aerothermodynamics/3",
+    "Year 3/Aerothermodynamics/2/Aerotherm 2 6.md",
+    "Year 3/Aerothermodynamics/2/Aerotherm 2 5.md",
+    "Year 3/Aerothermodynamics/2/Aerotherm 2 1.md",
+    "Year 3/Aerothermodynamics/2/Aerotherm 2 4.md",
+    "Year 3/Aerothermodynamics/2/Aerotherm 2 2.md",
+    "Year 3/Aerothermodynamics/2/Aerotherm 2 3.md",
+    "README.md",
+    "Misc/Regex for deleting broken ID's.md",
     "Year 3/Aerothermodynamics/2 - NF/Untitled",
-    "Images/Pasted image 20231117005059.png",
-    "Images/Pasted image 20231117005040.png",
-    "Images/Pasted image 20231117004619.png",
-    "Year 3/Aerothermodynamics/2 - NF/Aerotherm 2 1.md",
-    "Year 3/Aerothermodynamics/2 - NF/Aerotherm 2 2.md",
-    "Images/Pasted image 20231117003729.png",
-    "Images/Pasted image 20231117003539.png",
-    "Images/Pasted image 20231117003519.png",
-    "Images/Pasted image 20231117003208.png",
-    "Images/Pasted image 20231117003111.png",
-    "Images/Pasted image 20231117002729.png",
-    "Images/Pasted image 20231117002209.png",
     "Year 3/Aerothermodynamics/1 - NOT finished/Aerotherm 1.md",
-    "Year 3/Aerothermodynamics/2 - NF",
+    "Year 3/Aerothermodynamics/2",
     "Year 2/Propulsion/3 Gas dynamics/Prop 3 5.md",
     "Year 3/Aerothermodynamics/1 - NOT finished",
     "Year 3/Aerothermodynamics",
@@ -175,23 +181,7 @@
     "Year 2/Propulsion/8 Design of turbofan engines/Prop 8 3.md",
     "Year 2/Propulsion/8 Design of turbofan engines/Prop 8 2.md",
     "Year 2/Propulsion/7 Gas Turbine Engines/Prop 7 8.md",
-    "Year 2/Propulsion/7 Gas Turbine Engines/Prop 7 7.md",
-    "Year 2/Propulsion/7 Gas Turbine Engines/Prop 7 6.md",
-    "Year 2/Propulsion/7 Gas Turbine Engines/Prop 7 5.md",
-    "Year 2/Propulsion/7 Gas Turbine Engines/Prop 7 2.md",
-    "Year 2/Propulsion/7 Gas Turbine Engines/Prop 7 4.md",
-    "Year 2/Propulsion/6 Rockets/Prop 6 5.md",
-    "Year 2/Propulsion/6 Rockets/Prop 6 4.md",
-    "Year 2/Propulsion/6 Rockets/Prop 6 3.md",
-    "Year 2/Propulsion/6 Rockets/Prop 6 2.md",
-    "Year 2/Propulsion/5 Combustion/Ex 5 2.md",
-    "Year 2/Propulsion/4 Ramjets/Prop 4 5.md",
-    "Year 2/Propulsion/4 Ramjets/Prop 4 4.md",
     "Year 2/Propulsion/10 Turbomachinery part 2",
-    "Year 2/Propulsion/9 Turbomachinery part 1",
-    "Year 2/Propulsion/8 Design of turbofan engines",
-    "Year 2/Flight mechanics/PP Questions",
-    "Year 2/Materials/4 High temperature materials",
-    "Year 2/Materials/3 Ferrous metals"
+    "Year 2/Propulsion/9 Turbomachinery part 1"
   ]
 }

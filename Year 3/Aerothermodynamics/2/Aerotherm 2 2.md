@@ -1,4 +1,4 @@
-TARGET_DECK: Aerothermodynamics::2 - NF
+TARGET_DECK: Aerothermodynamics::2
 
 
 
