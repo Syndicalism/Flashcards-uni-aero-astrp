@@ -13,8 +13,7 @@ Back:
 - This effect follows a non-linear exponential-ish curve, in an idealised system we can increase efficiency by using many smaller oblique shocks rather than single large ones. 
 - EXTRA (Of course in non-idealised systems such as those in real life, other trade offs would also take consideration leading to some optimal shock configuration rather than just adding more forever)
 
-![[Pasted image 20231025102011.png]]
-
+<!--ID: 1703587157362-->
 END_CARD
 
 
@@ -27,7 +26,7 @@ Under what conditions do detached shocks occur?
 
 Back: 
 - Looking at the oblique shock chart, you can see that $\theta>\theta_{max}$ has no valid solutions. But obviously something must exist there, the shock phenomena that occurs in this range is known as a detached shock.
-
+<!--ID: 1703587157377-->
 END_CARD
 
 
@@ -45,7 +44,7 @@ Back:
 - In the centre is a infinitesimally small normal shock, here crossing flow is subsonic
 - Around the normal shock it is a gradual increasing shock angle, it slowly transitions out from subsonic back into supersonic as you leave the centre
 - The crossing Mach number approaches the value in the free stream as the shock angle increases leaving the centre
-
+<!--ID: 1703587157393-->
 END_CARD
 
 
@@ -59,7 +58,7 @@ How do you calculate the angle and Mach number ($M_{2}$) at the middle of a deta
 Back: 
 - Centre is an normal shock, hence $\beta=0$ and $\theta=0$
 - Mach number can be calculated using normal shock table or relevant normal shock equation
-
+<!--ID: 1703587157410-->
 END_CARD
 
 
@@ -81,7 +80,7 @@ Back:
 - $c=$ this is the point on the surface where $M_{2}=1$, beyond which flow past the detached shock will be supersonic
 - $d=$ around here are [[oblique shock chart|weak solutions]]
 - $e=$ here a Mach wave occurs as you get really far from the object
-
+<!--ID: 1703587157420-->
 END_CARD
 
 
@@ -95,7 +94,7 @@ How do points along a detached shock relate to oblique shocks.
 Back: 
 - What makes these nasty is unlike normal shocks or oblique shocks which have single angles they operate at, detached shocks form a curved surface meaning different turning angles ($\beta$) across the entire surface leading to very complex behaviour ($M_{2}$ varies across the whole surface).
 - Effectively, we can treat any point on the detached shock as an instantaneous oblique shock, given $\beta$ at that point: oblique shock methods can find $M_{2}$ and $\theta$
-
+<!--ID: 1703587157428-->
 END_CARD
 
 

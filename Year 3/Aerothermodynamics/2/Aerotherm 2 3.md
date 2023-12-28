@@ -15,6 +15,7 @@ It can be seen that the streamlines for $M_{2}$ will collide with the top surfac
 - Although the turning angle is the same the [[oblique shock angles|shock angle]] is not the same, since that is a function of Mach number and $M_{1}\neq M_{2}$
 ![[Pasted image 20231218110626.png]]
 
+<!--ID: 1703587167985-->
 END_CARD
 
 
@@ -34,7 +35,7 @@ Back:
 	- Convert to get $M_{2}$ $M_{2} = \frac{M_{n2}}{\sin(\beta_{1}-\theta_{1})}$
 - When the flow hits the top surface it deflects with a turning angle $\theta=\theta_{2}$, repeat previous method to get $M_{3}$ note that $\beta_{1}\neq \beta_{2}$ since incident Mach number is different!
 - Final answer $M_{3}=2.49$
-
+<!--ID: 1703587167995-->
 END_CARD
 
 
@@ -47,7 +48,7 @@ An oblique shock hit's a wall and is reflected, sketch how this looks with the i
 
 Back: 
 ![[Pasted image 20231218114537.png]]
-
+<!--ID: 1703587168009-->
 END_CARD
 
 
@@ -65,7 +66,7 @@ Back:
 - In most regions the "information" about this pressure gradient can't back propagate as is the nature of supersonic flows
 - Near the wall we have a unbroken region of subsonic flow, where information can easily back propagate
 - The strong pressure gradient lead's to lots of backflow near the wall, creating separation bubbles and shearing the boundary layer
-
+<!--ID: 1703587168021-->
 END_CARD
 
 
@@ -84,7 +85,7 @@ Back:
 - Since there is expansion there is an expansion fan and expansion wavesw
 - The flow expands after the peak, which causes the flow to accelerate and decrease in pressure
 - The expansion allows for a reduction in the adversity of the pressure gradient leading to relaxation
-
+<!--ID: 1703587168031-->
 END_CARD
 
 
@@ -106,7 +107,7 @@ The slip line has some strange properties:
 - The velocities, temperature and density can be discontinuous
 
 Also note that the intersection point, where all these phenomena intersect is T on the diagram and known as the [[Mach reflection|triple point]]. Note also that since across the Mach stem there is subsonic flow, information can back propagate so downstream conditions can effect it's shape and position.
-
+<!--ID: 1703587168043-->
 END_CARD
 
 
@@ -126,7 +127,7 @@ Back:
 - The two shocks intercepted and create subsequent shocks such that thy have tangential output flows at their intercept point (along a slip line)
 	- On a slip line pressure is continuous, but velocity and temperature can vary discontinuously (in this idealised model)
 - This sketch does not consider Mach reflection on the wall
-
+<!--ID: 1703587168053-->
 END_CARD
 
 
@@ -151,7 +152,7 @@ Back:
 - Then find $P_{3B}$ and $P_{3A}$
 - Using the error between the pressures iterate on the value of $\Delta$
 - Do this until the pressure difference is sufficiently small
-
+<!--ID: 1703587168064-->
 END_CARD
 
 

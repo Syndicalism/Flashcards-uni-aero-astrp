@@ -16,6 +16,7 @@ $$\begin{align*}  C_{p} &= -2 \frac{u'}{U_{\infty}}   \end{align*}$$
 - Key limitation is it can't be used near $M=1$ ($0.8<M<1.2$), as well as failing above $M>5$
 - This acts as the start point for Ackeret and Prantdl-Glauert linerization
 
+<!--ID: 1703587299579-->
 END_CARD
 
 
@@ -34,7 +35,7 @@ Back:
 - Key limitation is it can't be used near $M=1$ ($0.8<M<1.2$), as well as failing above $M>5$
 - This acts as the start point for Ackeret and Prantdl-Glauert linerization
 - We can see that for a small free stream Mach number, the equation reduces to an incompressible potential flow equation (Laplace equation in incompressible flow)
-
+<!--ID: 1703587299592-->
 END_CARD
 
 

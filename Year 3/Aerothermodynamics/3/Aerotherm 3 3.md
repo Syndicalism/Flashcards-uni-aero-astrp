@@ -18,6 +18,7 @@ R^{-}_{A} &= \nu_{W} - \theta_{W} & &\to & R^{-}_{A} + \theta_{W} &= \nu_{W} \\\
 &&&&&& \nu^{-1}(\nu_W) &= M_{W}
 \end{align*}$$
 
+<!--ID: 1703587262862-->
 END_CARD
 
 
@@ -34,7 +35,7 @@ Back:
 - This in fact goes both ways, if we consider some point P then the only points that can be influenced by the event's at P (aka: receive P's information) are in a cone bounded by the Mach cone. Also known as $\mu$. 
 - Then we also know that P is under the same restriction, only points within a certain upstream "cone" of P can propagate information to it
 - This lines up exactly with what characteristic lines follow
-
+<!--ID: 1703587262875-->
 END_CARD
 
 
@@ -50,7 +51,7 @@ Back:
 - Fundamentally characteristic lines are equivalent to the boundaries of sonic information flow in a supersonic fluid (hence their relationship with $\sin\mu = \frac{1}{M}$)
 - Hence if some significant property change occurs inside a flow at some "point" in the flow such that there is a visible difference, then this visual effect will be bounded by the characteristic lines
 - This results in the potential for real visible lines appearing due to the abrupt changes in flow properties
-
+<!--ID: 1703587262886-->
 END_CARD
 
 
@@ -65,7 +66,7 @@ Back:
 ![[Pasted image 20231218193001.png]]
 - When there is no change in flow direction before and after the incident characteristic line ($\theta_{W}=\theta_{A}$), there is no need to draw a reflected characteristic line since there is no downstream change
 - This is wave cancellation and it is useful for designing nozzles that have uniform output geometries
-
+<!--ID: 1703587262896-->
 END_CARD
  
 

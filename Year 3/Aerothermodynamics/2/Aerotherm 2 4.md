@@ -16,6 +16,7 @@ Back:
 - $\theta=$  turning angle (just like [[oblique shock angles|turning angle]] for [[oblique shocks]])
 - Since this is supersonic expansion $M_{2}>M_{1}$
 
+<!--ID: 1703587193611-->
 END_CARD
 
 
@@ -30,7 +31,7 @@ State the equations of $\mu_{1}$, $\mu_{2}$ and $M_{2}$ as well as the name of t
 
 Back: 
 ![[Pasted image 20231218121633.png]]
-
+<!--ID: 1703587193622-->
 END_CARD
 
 
@@ -48,7 +49,7 @@ Back:
 - $M=$ output Mach number after the expansion fan
 - Since this equation on it's own only works for a $M_{init}=1$, we use it along side $\theta = \nu(M_{2}) - \nu(M_{1})$
 - Here $M_{1}$ is any initial supersonic flow
-
+<!--ID: 1703587193630-->
 END_CARD
 
 
@@ -63,7 +64,7 @@ Back:
 - Then input flow is subsonic
 - Subsonic flows decelerate as they expand
 - $M_{2}<M_{1}$ and the expansion phenomena would be different
-
+<!--ID: 1703587193639-->
 END_CARD
 
 
@@ -83,7 +84,7 @@ Back:
 - To evaluate $\nu^{-1}(\nu_{2})=M_{2}$ we make use of the normal shock table to find the $M_{2}$ for the closest $\nu_{2}$ value
 - The $\mu$ values are found from the Mach triangle relation $\sin \mu = \frac{1}{ M}$
 - The difference can then be easily evaluated
-
+<!--ID: 1703587193647-->
 END_CARD
 
 
@@ -103,7 +104,7 @@ $$ \begin{align}
 -  $M_{1}=$ the initial Mach number
 -  $M_{2}=$ the final Mach number
 -  $\theta=$ the angle divergence required to expand the flow from $M_{1}\to M_{2}$
-
+<!--ID: 1703587193657-->
 END_CARD
 
 

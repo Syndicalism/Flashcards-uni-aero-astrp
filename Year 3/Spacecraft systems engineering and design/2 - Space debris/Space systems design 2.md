@@ -18,6 +18,7 @@ $$ \begin{align}
 - $g_{0}=9.81$
 - $I_{sp}=$ specific impulse (a stupid measure)
 
+<!--ID: 1703407845267-->
 END_CARD
 
 
@@ -32,7 +33,7 @@ Back:
 $$ \begin{align}
 V_{ex} &= g_{0} I_{sp}
 \end{align} $$
-
+<!--ID: 1703407845274-->
 END_CARD
 
 
@@ -48,7 +49,7 @@ $$ \varepsilon =  -\frac{ \mu  }{ r_{a}  +  r_{p}  } = - \frac{\mu}{2a}= \frac{V
 $$ \begin{align}
 - \frac{\mu}{2a} &=  \frac{V^{2}}{2} - \frac{\mu}{r} &&\to& V= \sqrt{2\mu \left(\frac{1}{r} + \frac{1}{2a}\right)}
 \end{align} $$
-
+<!--ID: 1703407845282-->
 END_CARD
 
 
@@ -64,7 +65,7 @@ $$\begin{align*} \Delta H  &\geq 235 \:km + 10^{3} C_{R}\frac{A}{m} &&\text{and}
 $$\begin{align*} r_{p} &= a_{geo} + \Delta H   \end{align*}$$
 - In practice we usually will assume the graveyard orbit $e=0.003$, not zero!
 
-
+<!--ID: 1703407845290-->
 END_CARD
 
 
@@ -78,7 +79,7 @@ Sketch the GEO and LEO Protected Region definitions
 Back: 
 ![[Pasted image 20231223183354.png]]
 - This sketch is a cross sectional view.
-
+<!--ID: 1703407845297-->
 END_CARD
 
 
@@ -91,7 +92,7 @@ What is the maximum time for disposal in a LEO orbit?
 
 Back: 
 - 25 years
-
+<!--ID: 1703407845303-->
 END_CARD
 
 
@@ -108,7 +109,7 @@ Back:
 	- Will make contact with the dense regions of the atmosphere and burn up
 	- Will make contact with the less dense regions, space drag will eventually get it to burn up
 - Move it into a suitable graveyard orbit
-
+<!--ID: 1703407845309-->
 END_CARD
 
 

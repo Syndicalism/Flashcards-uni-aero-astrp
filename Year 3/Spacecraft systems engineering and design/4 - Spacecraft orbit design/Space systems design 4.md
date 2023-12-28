@@ -15,6 +15,8 @@ Back:
 - $e=0$
 - $i=0$
 
+
+<!--ID: 1703407869457-->
 END_CARD
 
 
@@ -40,7 +42,7 @@ Back:
 	- Orbital perturbations ([[space drag]]) with potential for significant interference from the moon due to high [[ellipse (year 2)|eccentricity]]
 	- Passes through [[Van Allen radiation belts]], which can cause significant problems for the [[spacecraft maintenance problem]]
 	- Generally requires quite large satellites (>1000kg) unlike LEO and has large power requirements
-
+<!--ID: 1703407869468-->
 END_CARD
 
 
@@ -63,7 +65,7 @@ Back:
 	- Basically the same as a normal Molniya orbit, but instead of having 2 regions it's just got 1, this requires a higher delta-V to reach but has more targeted coverage
 	- To achieve 24 hour coverage of the target region, 3 satellites spaced 120 degrees apart are needed.
 ![[N0H7Q.gif]]
-
+<!--ID: 1703407869477-->
 END_CARD
 
 
@@ -80,7 +82,7 @@ Back:
 - LEO has less variation in transmission signal and pointing, simpler ground station
 - HEO requires fewer satellites for 24 hour coverage
 - HEO has less complications caused by eclipses (with LEO these could occur during transmission periods)
-
+<!--ID: 1703407869485-->
 END_CARD
 
 
@@ -103,7 +105,7 @@ $$\begin{align*} I &= \left\{\begin{aligned} &\frac{180\degree}{p},&\text{Walker
 
 ![[Pasted image 20231224094928.png]]
 ![[Pasted image 20231224094847.png]]
-
+<!--ID: 1703407869493-->
 END_CARD
 
 
@@ -123,7 +125,7 @@ $$ \begin{align}
 n_{raw} &= \frac{360\degree}{2\alpha} = 3.43
 \end{align} $$
 - We need 4 satellites
-
+<!--ID: 1703407869501-->
 END_CARD
 
 
@@ -147,7 +149,7 @@ $$ \begin{align}
 \text{Walker star}&& p &= \frac{180\degree}{2\alpha} \times 2 =3.77 &&\to& p&=4 &&\to&  t&= ps=32\\\\
 \text{Walker delta}&& p &= \frac{360\degree}{2\alpha} \times 2 =7.53 &&\to& p&=8 &&\to&  t&= ps=64
 \end{align} $$
-
+<!--ID: 1703407869507-->
 END_CARD
 
 
@@ -167,7 +169,7 @@ Back:
 - LEO - Low latency, relatively consistent
 - MEO - Medium latency, relatively consistent
 - GEO - High latency, perfectly consistent
-
+<!--ID: 1703407869517-->
 END_CARD
 
 
@@ -189,7 +191,7 @@ Back:
 - $E=$ spacecraft elevation angle at edge of coverage
 - $R=$ slant range at edge of coverage area
 - $R_{E}=$ earth radius
-
+<!--ID: 1703407869523-->
 END_CARD
 
 

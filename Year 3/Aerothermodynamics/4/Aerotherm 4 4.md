@@ -36,6 +36,7 @@ $$\begin{align*}
   C_{p} &=  \frac{C_{p0}}{\sqrt{1-M_{\infty}^{2}}}  
 \end{align*}$$
 
+<!--ID: 1703587317252-->
 END_CARD
 
 
@@ -54,7 +55,7 @@ $$\begin{align*}
 - The Prandtl-Glauert transformation provides a method for converting transonic flow problems into an equivalent low speed incompressible version
 - which allows for calculation of values in the incompressible potential flow domain, which is significantly simpler
 - results can then be transformed back into the transonic domain to achieve a reasonable approximation of the true behaviour
-
+<!--ID: 1703587317264-->
 END_CARD
 
 
@@ -71,7 +72,7 @@ $$ \begin{align}
 \end{align} $$
 - Temperature one just assumes perfect gas
 - Pressure one has additional Isentropic assumption
-
+<!--ID: 1703587317277-->
 END_CARD
 
 
@@ -106,7 +107,7 @@ C_{p} &=  \frac{C_{p0}}{\sqrt{1-M_{\infty}^{2}}}
 \end{align*}$$
 - Here $C_{p0}=C_{p,min}$ since they both come from the incompressible regime, utilizing some iterative method we can now find what $M_{\infty}$ will make that pressure coefficient reach $M=1$, and hence $M_{crit}$
 - For this case $M_{crit}=0.747$
-
+<!--ID: 1703587317288-->
 END_CARD
 
 
@@ -128,7 +129,7 @@ $$\begin{align*}
 \end{align*}$$
 
 - (Second equation not needed for passing this flashcard)
-
+<!--ID: 1703587317298-->
 END_CARD
 
 

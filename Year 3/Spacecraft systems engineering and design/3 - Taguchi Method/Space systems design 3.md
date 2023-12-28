@@ -13,6 +13,7 @@ Back:
 - In the diagram, we can choose a value of x (a design parameter) such that we maximise the quality, but it is sensitive to noise and the quality can be very low even though x is still close to the nominal value. 
 - Alternatively, for the same noise/drift in the parameter x, we can have a product where the quality changes only slightly, this is a more robust design parameter
 
+<!--ID: 1703407852175-->
 END_CARD
 
 
@@ -38,7 +39,7 @@ $$ \begin{align}
 \text{Total unique combos}  &= (s_{d})^{m_{d}}\times (s_{n})^{m_{n}} &&& \text{Min exp combos}  &= [1 + m_{d}(s_{d}-1)]\times[1 + m_{n}(s_{n}-1)]\\
 1327104&= 4^{7} 3^{4}  &&& 198 &=  [1 + 7(4-1)]\times[1 + 4(3-1)]
 \end{align} $$
-
+<!--ID: 1703407852185-->
 END_CARD
 
 
@@ -52,7 +53,7 @@ What is a signal to noise ratio? Why average it?
 Back: 
 - This is a value from the Taguchi method which signifies the performance of a certain configuration, it can be individual (where it's for one set of noise factors and design parameters) or averaged for a specific design condition
 - By averaging it for a specific design condition we can find the most* robust design condition by what has the highest (or lowest, depending) average noise factor
-
+<!--ID: 1703407852194-->
 END_CARD
 
 
@@ -68,7 +69,7 @@ Back:
 - Inner and outer array structure assumes no interaction between design parameters and noise factors
 - It is possible that the "most robust" combination chosen has a terrible S/N value as assumption of independent performance is unlikely to hold
 - Only accounts for one performance characteristic
-
+<!--ID: 1703407852204-->
 END_CARD
 
 
@@ -83,7 +84,7 @@ Draw the orthogonal matrix for four design parameters (A, B, C, D) at three diff
 Back: 
 ![[Pasted image 20231223190124.png]]
 - Something like this (Note that at the very least each row is unique!!!)
-
+<!--ID: 1703407852213-->
 END_CARD
 
 
@@ -99,7 +100,7 @@ Draw the orthogonal matrix for three noise factors:
 Back: 
 ![[Pasted image 20231223190301.png]]
 - Something like this (Note that at the very least each row is unique!!!)
-
+<!--ID: 1703407852222-->
 END_CARD
 
  

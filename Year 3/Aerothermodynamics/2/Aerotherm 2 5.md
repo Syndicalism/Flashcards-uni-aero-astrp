@@ -12,6 +12,7 @@ Sketch what happens in, assuming a large $M_{1}$, provide sufficient labels:
 Back: 
 ![[Pasted image 20231218131838.png]]
 
+<!--ID: 1703587206282-->
 END_CARD
 
 
@@ -36,7 +37,7 @@ Back:
 	- Entropy increases across oblique shocks, so pressure loss makes use of normal shock tables
 - The net force can be found by summing pressures (constant along plate) against area (length)
 - Net force is broken into lift and drag by basic trig ($L = F\sin\alpha$ and $D = F\cos\alpha$)
-
+<!--ID: 1703587206297-->
 END_CARD
 
 
@@ -52,7 +53,7 @@ Back:
 - The centre of pressure's pretty easy to figure out intuitively, it will be at $c=0.5$ since the pressure is constant on the upper and lower surfaces.
 - The [[aerodynamic centre]] is equally trivial, since the [[centre of pressure]] is constant we know the [[aerodynamic centre]] must be located at the same spot ($c=0.5$).
 - This is quite different to what we generally see in normal aerofoils
-
+<!--ID: 1703587206308-->
 END_CARD
 
 
@@ -66,7 +67,7 @@ Why is there drag, even though we have the inviscid assumption, for supersonic f
 Back: 
 - In supersonic flows, even with the inviscid assumption, drag is present due to the generation of shock waves. These shock waves lead to changes in pressure, density, and temperature, causing an increase in drag.
 - The shocks involved generally produce entropy even in the case of the inviscid assumption, leading to the generation of useful energy losses and hence drag
-
+<!--ID: 1703587206319-->
 END_CARD
 
 

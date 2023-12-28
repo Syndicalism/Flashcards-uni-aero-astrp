@@ -7,9 +7,11 @@ Basic
 
 What are oblique shocks?
 
+
 Back: 
 - Shocks that occur at an angle to flow direction
 - They are compressive shocks
+<!--ID: 1703587126026-->
 
 END_CARD
 
@@ -23,7 +25,7 @@ Draw a diagram showing a oblique shock on the tip of a cone in a supersonic flow
 
 Back: 
 ![[Pasted image 20231117000519.png]]
-
+<!--ID: 1703587126043-->
 END_CARD
 
 
@@ -45,7 +47,7 @@ Back:
  here:
  $\theta=$ Shock angle, the path of the streamline for most problems we take this as the angle of the objects surface
  $\beta=$ Turning angle ,the angle of the oblique shock
-
+<!--ID: 1703587126057-->
 END_CARD
 
 
@@ -64,7 +66,7 @@ Back:
 - $M=$ Mach number before and after shock 
 - $\theta=$ oblique shock turning angle
 - $\beta=$ oblique shock shock angle
-
+<!--ID: 1703587126067-->
 END_CARD
 
 
@@ -84,7 +86,7 @@ Back:
 - $M=$ Mach number before and after shock 
 - $\theta=$ oblique shock turning angle
 - $\beta=$ oblique shock shock angle
-
+<!--ID: 1703587126076-->
 END_CARD
 
 
@@ -100,7 +102,7 @@ Back:
 - You instead interpolate from the Oblique shock chart, finding the shock-wave angle $(\beta)$ which corresponds to your known deflection angle and Mach
 
 ![[Pasted image 20231117001641.png]]
-
+<!--ID: 1703587126086-->
 END_CARD
 
 
@@ -121,7 +123,7 @@ M_{n1} &= M_{1} \sin \beta
 $$ \begin{align}
 M _{2} &= \frac{M _{n2}}{\sin (\beta-\theta)}
 \end{align} $$
-
+<!--ID: 1703587126099-->
 END_CARD
 
 
@@ -147,7 +149,7 @@ M_{n1} &= M_{1} \sin \beta
 $$ \begin{align}
 M _{2} &= \frac{M _{n2}}{\sin (\beta-\theta)}
 \end{align} $$
-
+<!--ID: 1703587126112-->
 END_CARD
 
 
@@ -160,7 +162,7 @@ Draw a diagram for the geometric relationships for incident and exit Mach vector
 
 Back: 
 ![[Pasted image 20231117002209.png]]
-
+<!--ID: 1703587126121-->
 END_CARD
 
 
@@ -180,7 +182,7 @@ This is the oblique shock chart.
 - At zero turning angle they have a normal shock solution as well as some $\beta\neq90\degree$ solution.
 - The maximum turning angle (at $M=\infty$) is $45\degree$ with high Mach numbers tending towards this value
 - There exists a maximum possible turning angle for any Mach number $\theta_{max}$
-
+<!--ID: 1703587126131-->
 END_CARD
 
 
@@ -196,7 +198,7 @@ What do the coloured lines mean?
 Back: 
 - The red line describes where we have strong or weak solutions, with those that have $\beta$ angles above $\theta_{max}$ being strong solutions and those below being weak solutions
 - The dotted blue line separates where oblique shocks will cause subsonic flow transition, those above will have $M_{2}<1$ while those below will have $M_{2}>1$
-
+<!--ID: 1703587126140-->
 END_CARD
 
 
@@ -216,7 +218,7 @@ Back:
 $$ \begin{align}
 \theta &= 0 & \sin\beta &= \sin M_{1}
 \end{align} $$
-
+<!--ID: 1703587126149-->
 END_CARD
 
 
@@ -235,7 +237,7 @@ $$ \begin{align}
 - $M=$ Mach number
 
 ![[Pasted image 20231117003519.png]]
-
+<!--ID: 1703587126160-->
 END_CARD
 
 
@@ -253,7 +255,7 @@ Back:
 $$ \begin{align}
 \tan \mu &= \frac{1}{\sqrt{M^{2}-1}}
 \end{align} $$
-
+<!--ID: 1703587126169-->
 END_CARD
 
 
@@ -278,7 +280,7 @@ $$ \begin{align}
 $$ \begin{align}
 \sin\beta  = \frac{1}{M}
 \end{align} $$
-
+<!--ID: 1703587126178-->
 END_CARD
 
 

@@ -14,6 +14,7 @@ Back:
 - Decrease the strength of shocks that do occur
 - This is achieved through this flattening of the airfoil's top.
 
+<!--ID: 1703587290429-->
 END_CARD
 
 
@@ -34,7 +35,7 @@ Back:
 	- Doing so means that the total air compression around the vehicle can vary in a smoother manor, reducing shocks and hence entropy increases.
 
 ![[Pasted image 20231220170917.png]]
-
+<!--ID: 1703587290442-->
 END_CARD
 
  

@@ -15,6 +15,7 @@ Back:
 4) Find the new $\mu$ (Mach number changed, use [[Mach cone|Mach triangle]])
 5) Use geometric properties to determine location of point
 
+<!--ID: 1703587253200-->
 END_CARD
 
 
@@ -30,7 +31,7 @@ Back:
 $$\begin{align*}  \text{Along line C}^{+}:\:\: \text{ R}^{+} &= \nu-\theta =\text{constant}&&&\text{Along line C}^{-}:\:\: \text{ R}^{-} &= \nu+\theta =\text{constant}   \end{align*}$$
 - We know that along characteristic lines (lines that lie along angle $\mu$ to the stream line $\theta$) the remain invariants are constant
 - Then information about downstream conditions can be found by considering the consequences of this fact
-
+<!--ID: 1703587253213-->
 END_CARD
 
 
@@ -47,7 +48,7 @@ Back:
 	- $R^{+}:$ $\alpha^{+}=\theta+\mu$
 	- $R^{+}:$ $\alpha^{-}=\theta-\mu$
 - Where $\mu$ is the Mach angle $\sin\mu = \frac{1}{M}$
-
+<!--ID: 1703587253223-->
 END_CARD
 
 
@@ -60,7 +61,7 @@ State the positive and negative characteristic line relations.
 
 Back: 
 $$\begin{align*}  \text{Along line C}^{+}:\:\: \text{ R}^{+} &= \nu-\theta =\text{constant}&&&\text{Along line C}^{-}:\:\: \text{ R}^{-} &= \nu+\theta =\text{constant}   \end{align*}$$
-
+<!--ID: 1703587253234-->
 END_CARD
 
 
@@ -94,7 +95,7 @@ $$ \begin{align}
 \end{align} $$
 - These are simple equations, the interception point can be easily found
 - This specific example assumed that one characteristic line was positive and the other negative, but if that wasn't the case (two positive or two negative) the derived value of $M_{P}$ and $\theta_{P}$ would be different!! 
-
+<!--ID: 1703587253245-->
 END_CARD
 
 
@@ -111,7 +112,7 @@ Back:
 This sucks, in reality at each characteristic line interception, they should bend slightly to reflect the change in Mach number
 ![[Pasted image 20231218172411.png]]
 Secondly, these both represent a discretised version of the expansion. In reality Mach number changes continuously as it expands so straight lines will always just be an approximation (of course more lines means less error as a more accurate discretisation is captured.)
-
+<!--ID: 1703587253256-->
 END_CARD
 
 
