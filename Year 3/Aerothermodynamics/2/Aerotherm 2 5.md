@@ -11,7 +11,6 @@ Sketch what happens in, assuming a large $M_{1}$, provide sufficient labels:
 
 Back: 
 ![[Pasted image 20231218131838.png]]
-
 <!--ID: 1703587206282-->
 END_CARD
 
@@ -29,16 +28,25 @@ For the following, how would you go about calculating lift and drag, give only a
 Back: 
 - For lift and drag the $M_{3}$ values aren't needed
 - Initial stagnation pressure $P_{01}$ can be found from pressure and isentropic flow tables
-- Top surface
-	- $M_{2U}$ is found after using Prandtl-Meyer relations, making use of $\alpha=\theta_{1U}$
-	- Expansion fans are isentropic, isentropic flow tables can simply be used to find $P_2$ since $P_{0}$ is unchanged
-- Bottom
-	- $M_{2L}$ is found from $\alpha=\theta_{1L}$ using oblique shock methods
-	- Entropy increases across oblique shocks, so pressure loss makes use of normal shock tables
-- The net force can be found by summing pressures (constant along plate) against area (length)
-- Net force is broken into lift and drag by basic trig ($L = F\sin\alpha$ and $D = F\cos\alpha$)
+![[Pasted image 20231228075455.png]]
+![[Pasted image 20231228075521.png]]
+![[Pasted image 20231228075550.png]] 
 <!--ID: 1703587206297-->
 END_CARD
+
+--------
+
+START_CARD
+Basic
+
+State the 3 equations of pressure coefficient.
+
+Back: 
+$$ C_{p} = \frac{p-p_{\infty}}{p_{0}-p_{\infty}} =  \frac{p-p_{\infty}}{\frac{1}{2}\rho_{\infty}V^{2}_{\infty}} = \frac{2}{\gamma M^{2}_{\infty}} \left(\frac{p}{p_{\infty}} - 1\right) $$
+<!--ID: 1703743993533-->
+END_CARD
+
+
 
 
 --------
@@ -68,6 +76,20 @@ Back:
 - In supersonic flows, even with the inviscid assumption, drag is present due to the generation of shock waves. These shock waves lead to changes in pressure, density, and temperature, causing an increase in drag.
 - The shocks involved generally produce entropy even in the case of the inviscid assumption, leading to the generation of useful energy losses and hence drag
 <!--ID: 1703587206319-->
+END_CARD
+
+
+
+--------
+
+START_CARD
+Basic
+
+
+
+Back: 
+- 
+
 END_CARD
 
 

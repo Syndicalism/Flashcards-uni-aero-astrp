@@ -35,7 +35,6 @@ $$\begin{align*}
   C_{p} &=  \frac{C_{p0}}{\beta}   & &\to & 
   C_{p} &=  \frac{C_{p0}}{\sqrt{1-M_{\infty}^{2}}}  
 \end{align*}$$
-
 <!--ID: 1703587317252-->
 END_CARD
 
@@ -81,7 +80,8 @@ END_CARD
 START_CARD
 Basic
 
-How can I find the critical Mach number for a transonic regime? Comment on use for analysing a real airfoil. Then find the critical Mach number given $C_{p,min}=0.4$.
+
+How can I find the critical Mach number for a transonic regime? Comment on use for analysing a real airfoil. Then find the critical Mach number given $C_{p,min}=-0.4$.
 
 Back: 
 -  Critical Mach number is the Mach at which some point on the airfoil reaches Mach 1, this will of course occur at the location of lowest pressure and hence lowest pressure coefficient

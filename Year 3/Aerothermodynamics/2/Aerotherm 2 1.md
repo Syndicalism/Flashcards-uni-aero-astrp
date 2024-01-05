@@ -216,8 +216,9 @@ State the equation for the $\beta$ and $\theta$ at the red marks:
 Back: 
 
 $$ \begin{align}
-\theta &= 0 & \sin\beta &= \sin M_{1}
+\theta &= 0 & \beta &= \arcsin \frac{1}{M_{1}} \text{ or } \beta=90
 \end{align} $$
+
 <!--ID: 1703587126149-->
 END_CARD
 

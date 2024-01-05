@@ -17,7 +17,6 @@ $$\begin{align*}
 R^{-}_{A} &= \nu_{W} - \theta_{W} & &\to & R^{-}_{A} + \theta_{W} &= \nu_{W} \\\\
 &&&&&& \nu^{-1}(\nu_W) &= M_{W}
 \end{align*}$$
-
 <!--ID: 1703587262862-->
 END_CARD
 
@@ -69,6 +68,46 @@ Back:
 <!--ID: 1703587262896-->
 END_CARD
  
+
+
+--------
+
+START_CARD
+Basic
+
+![[Pasted image 20231231165440.png]]
+Proof that for a min length nozzle:
+
+$$ \begin{align}
+\theta_{max} &= \frac{\nu(M_{e})}{2}
+\end{align} $$
+
+
+
+Back: 
+
+Taking characteristic lines:
+
+$$ \begin{align}
+&& && \theta &= 0\\
+(3\to5):&& R^{+}_{3} &= \nu(M_{e}) + \theta &&\to& R^{+}_{3} &= \nu(M_{e}) = R_{3}^{-}
+\end{align} $$
+
+Using an expansion fan and the fact that $M_{init}=1$, it's clear that $\nu(M_{B})-\nu(M_{A})=\theta$ applied at the corner becomes $\nu_{0} = \theta_{max}$.
+
+Using the characteristic lines we can finally get the relationship.
+
+$$ \begin{align}
+&& && \nu(M_{e}) &= R_{3}^{-} = R^{-}_{0}\\
+&& && \nu_{0} &= \theta_{max}\\
+ 
+(0\to3):&& R^{-}_{0} &= \nu_{0} + \theta_{max} &&\to& \nu(M_{e}) &=   \theta_{max} &&\to& \frac{\nu(M_{e})}{2}&=   \theta_{max} 
+\end{align} $$
+
+
+<!--ID: 1704035194765-->
+END_CARD
+
 
 
 

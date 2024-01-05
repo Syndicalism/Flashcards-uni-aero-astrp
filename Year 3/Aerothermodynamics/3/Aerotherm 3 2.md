@@ -14,7 +14,6 @@ Back:
 3) Use the calculated $\nu$ to determine Mach number and any other gas properties
 4) Find the new $\mu$ (Mach number changed, use [[Mach cone|Mach triangle]])
 5) Use geometric properties to determine location of point
-
 <!--ID: 1703587253200-->
 END_CARD
 
@@ -94,7 +93,6 @@ $$ \begin{align}
 \text{Line B: }y &= \tan\alpha_{BP} (x - x_{B}) +y_{B} &&& \text{Line A: }y &= \tan\alpha_{AP} (x - x_{A}) +y_{A}
 \end{align} $$
 - These are simple equations, the interception point can be easily found
-- This specific example assumed that one characteristic line was positive and the other negative, but if that wasn't the case (two positive or two negative) the derived value of $M_{P}$ and $\theta_{P}$ would be different!! 
 <!--ID: 1703587253245-->
 END_CARD
 
