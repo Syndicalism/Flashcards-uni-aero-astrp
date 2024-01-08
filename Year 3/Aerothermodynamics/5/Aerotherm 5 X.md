@@ -16,3 +16,52 @@ $$\begin{align*}\text{Nu}  &=  \text{St} \cdot \text{Re} \cdot\text{Pr}&&& \text
 <!--ID: 1704396485191-->
 END_CARD
 
+
+--------
+
+START_CARD
+Basic
+
+State reynolds number.
+
+Back: 
+$$ \begin{align}
+Re &= \frac{VL}{\nu} = \frac{VL\rho}{\mu}
+\end{align} $$
+<!--ID: 1704434916003-->
+END_CARD
+
+
+--------
+
+START_CARD
+Basic
+
+State nusselt number
+
+Back: 
+$$ \begin{align}
+Nu &= \frac{hL}{k}
+\end{align} $$
+<!--ID: 1704436012474-->
+END_CARD
+
+
+
+--------
+
+START_CARD
+Basic
+
+Define Prantyl number
+
+Back: 
+$$ \begin{align}
+Pr &= \frac{c_{p}\mu}{k}
+\end{align} $$
+<!--ID: 1704436012484-->
+END_CARD
+
+
+
+
