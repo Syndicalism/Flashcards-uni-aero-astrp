@@ -105,6 +105,25 @@ END_CARD
 
  
 
+--------
+
+START_CARD
+Basic
+
+State the signal to noise ratio equations for both min and maxing.
+
+Back: 
+$$\begin{align*} \text{Min equation}& & S/N_{i}  &= -10 \log_{10} \left( \frac{1}{n_{T}} \sum\limits^{n_{T}}_{j=1} Q_{ij}^{2} \right) \\\\ \text{Max equation}& & S/N_{i}  &= -10 \log_{10} \left( \frac{1}{n_{T}} \sum\limits^{n_{T}}_{j=1} \frac{1}{Q_{ij}^{2}} \right)  \end{align*}$$
+
+
+- $S/N_{i}=$ Signal to noise ratio for a row
+- $n_{T}=$ Number of experiments per [[design parameters and noise factors|design parameter]] combination
+- $Q_{ij}=$ The performance metric result for a particular [[design parameters and noise factors|noise factor]] and [[design parameters and noise factors|design parameter]] combinations experiment
+
+END_CARD
+
+
+
 
 
 
