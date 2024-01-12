@@ -12,7 +12,6 @@ Back:
 -  We want to have a product that maintains the level of quality even when the parameters are not nominal. (robust product)
 - In the diagram, we can choose a value of x (a design parameter) such that we maximise the quality, but it is sensitive to noise and the quality can be very low even though x is still close to the nominal value. 
 - Alternatively, for the same noise/drift in the parameter x, we can have a product where the quality changes only slightly, this is a more robust design parameter
-
 <!--ID: 1703407852175-->
 END_CARD
 
@@ -119,7 +118,7 @@ $$\begin{align*} \text{Min equation}& & S/N_{i}  &= -10 \log_{10} \left( \frac{1
 - $S/N_{i}=$ Signal to noise ratio for a row
 - $n_{T}=$ Number of experiments per [[design parameters and noise factors|design parameter]] combination
 - $Q_{ij}=$ The performance metric result for a particular [[design parameters and noise factors|noise factor]] and [[design parameters and noise factors|design parameter]] combinations experiment
-
+<!--ID: 1704973040182-->
 END_CARD
 
 

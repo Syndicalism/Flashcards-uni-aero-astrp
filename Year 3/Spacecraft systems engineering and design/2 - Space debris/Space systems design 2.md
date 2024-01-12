@@ -17,7 +17,6 @@ $$ \begin{align}
 - $V_{ex}=$ exhaust velocity
 - $g_{0}=9.81$
 - $I_{sp}=$ specific impulse (a stupid measure)
-
 <!--ID: 1703407845267-->
 END_CARD
 
@@ -60,11 +59,11 @@ Basic
 
 State the GEO, guideline equation
 
+
 Back: 
 $$\begin{align*} \Delta H  &\geq 235 \:km + 10^{3} C_{R}\frac{A}{m} &&\text{and}& e&\leq 0.003\end{align*}$$
-$$\begin{align*} r_{p} &= a_{geo} + \Delta H   \end{align*}$$
+$$\begin{align*} r_{p2} &= r_{p1} + \Delta H   \end{align*}$$
 - In practice we usually will assume the graveyard orbit $e=0.003$, not zero!
-
 <!--ID: 1703407845290-->
 END_CARD
 
@@ -111,6 +110,28 @@ Back:
 - Move it into a suitable graveyard orbit
 <!--ID: 1703407845309-->
 END_CARD
+
+
+--------
+
+START_CARD
+Basic
+
+IADC Space Debris
+Mitigation Guidelines
+
+Back: 
+Seven mitigation guidelines:
+1. Limit debris released during normal operations
+2. Minimize potential for post-mission break-ups resulting from stored energy
+3. Prevention of on-orbit collisions
+4. Minimize the potential for break-ups during operational phases
+5. Avoidance of intentional destruction and other harmful activities
+6. Post mission disposal: geosynchronous region
+7. Post mission disposal: objects passing through the LEO region
+<!--ID: 1704973040190-->
+END_CARD
+
 
 
 

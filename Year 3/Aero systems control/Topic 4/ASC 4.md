@@ -18,7 +18,6 @@ $$\begin{align*}
 - In first order systems $\tau$ is time constant, it determines the rate of response. A higher value will result in a faster decay.
 - In second order systems $\zeta$ is damping factor, with less than one resulting in oscillations and more than 1 resulting in no oscillations
 - In second order systems $\omega_{n}$ is natural frequency, a higher natural frequency results in higher frequency oscillations
-
 <!--ID: 1704396522463-->
 END_CARD
 
@@ -129,6 +128,21 @@ $$ \begin{align}
 
 ![[Pasted image 20240101120413.png]]
 <!--ID: 1704396522497-->
+END_CARD
+
+
+
+--------
+
+START_CARD
+Basic
+
+State the 4 basic Laplace transforms
+
+Back: 
+![[Pasted image 20240110104950.png]]
+![[Pasted image 20240110105029.png]]
+<!--ID: 1704973040198-->
 END_CARD
 
 
