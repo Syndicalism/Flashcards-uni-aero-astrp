@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Year 3/Aerothermodynamics/5/Aerotherm 5 7.md",
+                "file": "Year 3/Aircraft Structures/2 Structural design/2.2 Composite Wings.md",
                 "mode": "source",
                 "source": false
               }
@@ -105,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Year 3/Aerothermodynamics/5/Aerotherm 5 7.md",
+                "file": "Year 3/Aircraft Structures/2 Structural design/2.2 Composite Wings.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -148,13 +148,25 @@
       "obsidian-to-anki-plugin:Obsidian_to_Anki - Scan Vault": false
     }
   },
-  "active": "36544cca903a5622",
+  "active": "20ee21aa4af19609",
   "lastOpenFiles": [
+    "Year 3/Aircraft Structures/2 Structural design/2.1 Wing Components.md",
+    "Year 3/Aircraft Structures/2 Structural design/2.3 Requirements.md",
+    "Images/Pasted image 20240514184412.png",
+    "Year 3/Aircraft Structures/2 Structural design/2.2 Composite Wings.md",
+    "Year 3/Aerothermodynamics/5/Aerotherm 5 7.md",
+    "Images/Pasted image 20240514183522.png",
+    "Images/Pasted image 20240514183303.png",
+    "Images/Pasted image 20240514183133.png",
+    "Images/Pasted image 20240514183043.png",
+    "Images/materials-15-02430-g001-1830859069.png",
+    "Images/Pasted image 20240514182958.png",
+    "Images/Pasted image 20240514182538.png",
+    "Images/Pasted image 20240514182443.png",
+    "Images/Pasted image 20240514182305.png",
+    "Year 3/Aircraft Structures/2 Structural design",
     "Year 3/Aircraft Structures/1",
     "Year 3/Aircraft Structures",
-    "Images/Pasted image 20240112114834.png",
-    "Images/Pasted image 20240112114806.png",
-    "Images/Pasted image 20240112114800.png",
     "Year 3/Aerothermodynamics/5/Aerotherm 5 X.md",
     "Year 3/Aerothermodynamics/4/Aerotherm 4 5.md",
     "Year 3/Aerothermodynamics/Proofs that came up.md",
@@ -162,15 +174,7 @@
     "Year 3/Aerothermodynamics/4/Aerotherm 4 4.md",
     "Year 3/Spacecraft systems engineering and design/2 - Space debris/Space systems design 2.md",
     "Year 3/Spacecraft systems engineering and design/1 - Mission design/Space systems design 1.md",
-    "Year 3/Aerothermodynamics/5/Aerotherm 5 7.md",
-    "Images/Pasted image 20240111115927.png",
-    "Images/Pasted image 20240111115457.png",
-    "Images/Pasted image 20240111115455.png",
-    "Images/Pasted image 20240111115407.png",
-    "Images/Pasted image 20240111115320.png",
     "Year 3/Aero systems control/Topic 4/ASC 4.md",
-    "Images/Pasted image 20240110105029.png",
-    "Images/Pasted image 20240110104950.png",
     "Year 3/Spacecraft systems engineering and design/3 - Taguchi Method/Space systems design 3.md",
     "Year 3/Spacecraft systems engineering and design/4 - Spacecraft orbit design/Space systems design 4.md",
     "Year 3/Aerothermodynamics/4/Aerotherm 4 2.md",
@@ -190,11 +194,6 @@
     "Year 3/Aero systems control",
     "Year 3/Aerothermodynamics/2/Aerotherm 2 1.md",
     "Year 3/Aerothermodynamics/2/Aerotherm 2 3.md",
-    "Year 3/Aerothermodynamics/2/Aerotherm 2 2.md",
-    "Year 3/Aerothermodynamics/2/Aerotherm 2 5.md",
-    "Year 3/Aerothermodynamics/2/Aerotherm 2 7.md",
-    "Year 3/Aerothermodynamics/5",
-    "Year 3/Spacecraft systems engineering and design/4 - Spacecraft orbit design",
-    "Year 3/Spacecraft systems engineering and design/3 - Taguchi Method"
+    "Year 3/Aerothermodynamics/5"
   ]
 }
