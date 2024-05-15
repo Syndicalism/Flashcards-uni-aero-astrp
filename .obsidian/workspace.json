@@ -4,28 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "230e5dec45f690be",
+        "id": "f8da96c781d45377",
         "type": "tabs",
         "children": [
           {
-            "id": "20ee21aa4af19609",
+            "id": "4e936da67470adb2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Year 3/Aircraft Structures/5/5.1.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "503458d5488cccfa",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Year 3/Aerothermodynamics/Proofs that came up.md",
+                "file": "Year 3/Aircraft Structures/2,3 Structural design/Equations.md",
                 "mode": "source",
                 "source": false
               }
@@ -105,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Year 3/Aircraft Structures/5/5.1.md",
+                "file": "Year 3/Aircraft Structures/2,3 Structural design/Equations.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -148,12 +136,22 @@
       "obsidian-to-anki-plugin:Obsidian_to_Anki - Scan Vault": false
     }
   },
-  "active": "20ee21aa4af19609",
+  "active": "4e936da67470adb2",
   "lastOpenFiles": [
+    "Images/Pasted image 20240515172935.png",
+    "Images/Pasted image 20240515145349.png",
+    "Images/Pasted image 20240515145103.png",
+    "Images/Pasted image 20240515144855.png",
+    "Images/Pasted image 20240515143930.png",
+    "Images/Pasted image 20240515143918.png",
+    "Year 3/Aircraft Structures/4 Beam as wing/3.1.md",
+    "Year 3/Aircraft Structures/2,3 Structural design/Equations.md",
+    "Year 3/Aircraft Structures/2,3 Structural design/2.3 Requirements.md",
+    "Year 3/Aircraft Structures/2,3 Structural design/2.1 Wing Components.md",
+    "Year 3/Aerothermodynamics/Proofs that came up.md",
+    "Year 3/Aircraft Structures/5/5.1.md",
     "Year 3/Aircraft Structures/2,3 Structural design/2.4 Problems.md",
     "Year 3/Aircraft Structures/2,3 Structural design/2.2 Composite Wings.md",
-    "Year 3/Aircraft Structures/2,3 Structural design/2.1 Wing Components.md",
-    "Year 3/Aircraft Structures/5/5.1.md",
     "Year 3/Aircraft Structures/4 Beam as wing/3.4.md",
     "Year 3/Aircraft Structures/5",
     "Images/Pasted image 20240514212937.png",
@@ -161,23 +159,15 @@
     "Images/Pasted image 20240514212040.png",
     "Year 3/Aircraft Structures/4 Beam as wing/3.2.md",
     "Images/Pasted image 20240514210554.png",
-    "Year 3/Aircraft Structures/4 Beam as wing/3.1.md",
     "Images/Pasted image 20240514205547.png",
     "Images/Pasted image 20240514205542.png",
-    "Images/Pasted image 20240514205532.png",
     "Year 3/Aircraft Structures/4 Beam as wing",
-    "Images/Pasted image 20240514185755.png",
-    "Images/Pasted image 20240514185552.png",
-    "Images/Pasted image 20240514185528.png",
-    "Year 3/Aircraft Structures/2,3 Structural design/2.3 Requirements.md",
-    "Images/Pasted image 20240514184412.png",
     "Year 3/Aerothermodynamics/5/Aerotherm 5 7.md",
     "Year 3/Aircraft Structures/2,3 Structural design",
     "Year 3/Aircraft Structures/1",
     "Year 3/Aircraft Structures",
     "Year 3/Aerothermodynamics/5/Aerotherm 5 X.md",
     "Year 3/Aerothermodynamics/4/Aerotherm 4 5.md",
-    "Year 3/Aerothermodynamics/Proofs that came up.md",
     "Year 3/Aerothermodynamics/4/Aerotherm 4 3.md",
     "Year 3/Aerothermodynamics/4/Aerotherm 4 4.md",
     "Year 3/Spacecraft systems engineering and design/2 - Space debris/Space systems design 2.md",
@@ -189,8 +179,6 @@
     "Year 3/Aerothermodynamics/3/Aerotherm 3 4.md",
     "Year 3/Aerothermodynamics/3/Aerotherm 3 3.md",
     "Year 3/Aerothermodynamics/3/Aerotherm 3 2.md",
-    "Year 3/Aero systems control/Topic 7/ASC 7.md",
-    "Year 3/Aero systems control/Topic 6/ASC 6.md",
     "Year 3/Aero systems control/Topic 7",
     "Year 3/Aero systems control/Topic 6",
     "Year 3/Aero systems control/Topic 4",
