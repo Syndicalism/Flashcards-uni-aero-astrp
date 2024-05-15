@@ -46,7 +46,7 @@ State the useful bits of the specific orbital energy equations, then rearrange i
 Back: 
 $$ \varepsilon =  -\frac{ \mu  }{ r_{a}  +  r_{p}  } = - \frac{\mu}{2a}= \frac{V^{2}}{2} - \frac{\mu}{r} $$
 $$ \begin{align}
-- \frac{\mu}{2a} &=  \frac{V^{2}}{2} - \frac{\mu}{r} &&\to& V= \sqrt{2\mu \left(\frac{1}{r} + \frac{1}{2a}\right)}
+- \frac{\mu}{2a} &=  \frac{V^{2}}{2} - \frac{\mu}{r} &&\to& V= \sqrt{2\mu \left(\frac{1}{r} - \frac{1}{2a}\right)}
 \end{align} $$
 <!--ID: 1703407845282-->
 END_CARD
