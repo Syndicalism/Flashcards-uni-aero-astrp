@@ -11,6 +11,18 @@ Gusts:
 
 ![[Pasted image 20240515172935.png]]
 
+--------
+
+START_CARD
+Basic
+
+State the equation for gust alleviation factor
+
+Back: 
+![[Pasted image 20240516191404.png]]
+
+END_CARD
+
 ---
 
 START_CARD
