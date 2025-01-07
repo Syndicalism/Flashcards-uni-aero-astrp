@@ -1,6 +1,6 @@
 TARGET_DECK: Aircraft Structures::5 Fatigue
 
-Goodman thing
+Goodman thin
 
 
 --------
@@ -13,9 +13,23 @@ State the differential equation for gust integration
 Back: 
 ![[Pasted image 20240516160211.png]]
 - Note the $U_{f}$ is the minimum gust intensity at which there is no risk of failure
-
+<!--ID: 1716056929388-->
 END_CARD
 
+
+
+
+--------
+
+START_CARD
+Basic
+
+Write the equation for gust exceedance
+
+Back: 
+![[Pasted image 20240518163929.png]]
+<!--ID: 1716056929396-->
+END_CARD
 
 
 
@@ -34,7 +48,7 @@ Back:
 - $S_{m}$ mean stress
 - $S_{t}$ ultimate tensile stress
 - $m$ some imperial constant, approximately 1
-
+<!--ID: 1716056929404-->
 END_CARD
 
 
@@ -59,7 +73,7 @@ $$ \begin{align}
 - $R$ the total distance travelled
 - $T_{gusts}$ the number of gusts encountered
 - For fatigue calculations you divide by 2!
-
+<!--ID: 1716056929411-->
 END_CARD
 
 
@@ -76,7 +90,7 @@ Back:
 - $n_{i}$ the current number of cycles at stress level $i$
 - Summing these up, when the value is 1 the material will fail
 - This permits estimating the life of a component considering stresses at different intensities
-
+<!--ID: 1716056929418-->
 END_CARD
 
 
@@ -96,7 +110,7 @@ Back:
 - $c$ a constant related to the component
 - $N$ cycles till failure
 - $k_{n}$ scatter factor, accounts for uncertainty from "insufficient" testing
-
+<!--ID: 1716056929425-->
 END_CARD
 
 
@@ -113,7 +127,7 @@ Back:
 - Damage due to ground->air->ground cycles
 - Damage due to gusts
 - Damage from other stuff, eg breaking, manovres
-
+<!--ID: 1716056929433-->
 END_CARD
 
 
@@ -131,7 +145,7 @@ Back:
 - $S_{1g}$ the stress at normal loading (1g)
 - $S_{TO}$ ground stress caused by wing weight, and includes possible dynamic effects during taxi
 - These equations show the Ground air ground stresses in one cycle
-
+<!--ID: 1716056929441-->
 END_CARD
 
 
@@ -146,7 +160,7 @@ Back:
 ![[Pasted image 20240516143442.png]]
 
 ![[Pasted image 20240516143327.png]]
-
+<!--ID: 1716056929447-->
 END_CARD
 
 
@@ -159,7 +173,7 @@ What is the GAG safety factor?
 
 Back: 
 ![[Pasted image 20240516143842.png]]
-
+<!--ID: 1716056929454-->
 END_CARD
 
 
@@ -178,7 +192,7 @@ Back:
 - $D_{extra}$ unaccounted for stresses damage caused
 - Obviously the number of flights
 ![[Pasted image 20240516144828.png]]
-
+<!--ID: 1716056929460-->
 END_CARD
 
 
@@ -192,7 +206,7 @@ Because of insufficient testing the SN curve needs to be adjusted with a scatter
 
 Back: 
 ![[Pasted image 20240516173710.png]]
-
+<!--ID: 1716056929467-->
 END_CARD
 
 
@@ -215,7 +229,7 @@ Back:
 
 ![[Pasted image 20240516174932.png]]
 - 
-
+<!--ID: 1716056929474-->
 END_CARD
 
 
@@ -230,7 +244,7 @@ State the $I$ for a rectangular cross section and the location of the neutral ax
 Back: 
 ![[Pasted image 20240516175310.png]]
 - Neutral axis is through the centre
-
+<!--ID: 1716056929480-->
 END_CARD
 
 

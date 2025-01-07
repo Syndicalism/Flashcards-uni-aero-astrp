@@ -13,10 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Year 3/Aircraft Structures/2,3 Structural design/Equations.md",
+                "file": "Year 4/Adv Management/0 Exams/T3.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "T3"
             }
           }
         ]
@@ -39,7 +41,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
             }
           },
           {
@@ -54,7 +58,9 @@
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-search",
+              "title": "Search"
             }
           },
           {
@@ -62,7 +68,9 @@
             "type": "leaf",
             "state": {
               "type": "starred",
-              "state": {}
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
             }
           },
           {
@@ -70,7 +78,9 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {}
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
             }
           }
         ]
@@ -93,7 +103,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Year 3/Aircraft Structures/2,3 Structural design/Equations.md",
+                "file": "Year 4/Adv Management/1 Project management/L20.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -101,7 +111,9 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for L20"
             }
           },
           {
@@ -112,7 +124,9 @@
               "state": {
                 "sortOrder": "frequency",
                 "useHierarchy": true
-              }
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
             }
           }
         ]
@@ -138,50 +152,51 @@
   },
   "active": "4e936da67470adb2",
   "lastOpenFiles": [
+    "Images/Pasted image 20250101183636.png",
+    "Images/Pasted image 20250101183617.png",
+    "Year 4/Adv Management/1 Project management/L21.md",
+    "Year 4/Adv Management/0 Exams/T3.md",
+    "Year 4/Adv Management/0 Exams",
+    "Images/Pasted image 20241227135543.png",
+    "Year 4/Adv Management/1 Project management/L20.md",
+    "Year 4/Adv Management/1 Project management/L19.md",
+    "Year 4/Adv Management/1 Project management/L17.md",
+    "Images/Pasted image 20241224113627.png",
+    "Images/Pasted image 20241224105302.png",
+    "Images/Pasted image 20241224105220.png",
+    "Images/Pasted image 20241224105024.png",
+    "Images/Pasted image 20241224105022.png",
+    "Images/Pasted image 20241224104610.png",
+    "Images/Pasted image 20241224104449.png",
+    "Images/Pasted image 20241224104349.png",
+    "Year 4/Adv Management/1 Project management/L16.md",
+    "Year 4/Adv Management/1 Project management",
     "Year 3/Aircraft Structures/5 Fatigue/Equations.md",
-    "Images/Pasted image 20240516191404.png",
+    "Year 4/Adv Management",
+    "Year 4",
+    "Year 3/Aircraft Structures/6 Dynamic system/Equations.md",
     "Year 3/Aircraft Structures/2,3 Structural design/Equations.md",
-    "Images/Pasted image 20240516184130.png",
-    "Images/Pasted image 20240516175310.png",
-    "Images/Pasted image 20240516174932.png",
-    "Images/Pasted image 20240516174912.png",
-    "Images/Pasted image 20240516173710.png",
-    "Images/Pasted image 20240516173651.png",
-    "Images/Pasted image 20240516160211.png",
-    "Images/Pasted image 20240516144828.png",
-    "Images/Pasted image 20240516144636.png",
-    "Year 3/Aircraft Structures/Fatigue",
-    "Year 3/Aircraft Structures/4 Beam as wing/3.1.md",
-    "Year 3/Aircraft Structures/2,3 Structural design/2.3 Requirements.md",
     "Year 3/Aircraft Structures/2,3 Structural design/2.1 Wing Components.md",
-    "Year 3/Aerothermodynamics/Proofs that came up.md",
-    "Year 3/Aircraft Structures/5 Fatigue/5.1.md",
     "Year 3/Aircraft Structures/2,3 Structural design/2.4 Problems.md",
     "Year 3/Aircraft Structures/2,3 Structural design/2.2 Composite Wings.md",
-    "Year 3/Aircraft Structures/4 Beam as wing/3.4.md",
-    "Year 3/Aircraft Structures/5 Fatigue",
-    "Year 3/Aircraft Structures/4 Beam as wing/3.3.md",
+    "Year 3/Aircraft Structures/2,3 Structural design/2.3 Requirements.md",
+    "Year 3/Aircraft Structures/4 Beam as wing/3.1.md",
     "Year 3/Aircraft Structures/4 Beam as wing/3.2.md",
+    "Year 3/Aircraft Structures/4 Beam as wing/3.3.md",
+    "Year 3/Aircraft Structures/4 Beam as wing/3.4.md",
+    "Year 3/Aircraft Structures/5 Fatigue/5.1.md",
+    "Year 2/Flight mechanics/3 Flight Dynamics/3.8ish Spiraly shite.md",
+    "Year 3/Aircraft Structures/6 Dynamic system",
+    "Year 2/Flight mechanics/3 Flight Dynamics/3.3 Longitudinal model.md",
+    "Year 2/Flight mechanics/3 Flight Dynamics/3.2 Decoupled linear model.md",
+    "Year 2/Flight mechanics/3 Flight Dynamics/3.1 Rigid aircraft model Six degrees of freedom.md",
+    "Year 2/Flight mechanics/3 Flight Dynamics/3.0 Derivative meanings.md",
+    "Year 2/Flight mechanics/2 Trim and Static Stability/2.4 Lateral-Directional Stability.md",
+    "Year 2/Flight mechanics/2 Trim and Static Stability/2.3 Determining Margins from flight tests.md",
+    "Year 3/Aircraft Structures/Fatigue",
+    "Year 3/Aircraft Structures/5 Fatigue",
     "Year 3/Aircraft Structures/4 Beam as wing",
-    "Year 3/Aerothermodynamics/5/Aerotherm 5 7.md",
     "Year 3/Aircraft Structures/2,3 Structural design",
-    "Year 3/Aircraft Structures/1",
-    "Year 3/Aircraft Structures",
-    "Year 3/Aerothermodynamics/5/Aerotherm 5 X.md",
-    "Year 3/Aerothermodynamics/4/Aerotherm 4 5.md",
-    "Year 3/Aerothermodynamics/4/Aerotherm 4 3.md",
-    "Year 3/Aerothermodynamics/4/Aerotherm 4 4.md",
-    "Year 3/Spacecraft systems engineering and design/2 - Space debris/Space systems design 2.md",
-    "Year 3/Spacecraft systems engineering and design/1 - Mission design/Space systems design 1.md",
-    "Year 3/Aero systems control/Topic 4/ASC 4.md",
-    "Year 3/Spacecraft systems engineering and design/3 - Taguchi Method/Space systems design 3.md",
-    "Year 3/Spacecraft systems engineering and design/4 - Spacecraft orbit design/Space systems design 4.md",
-    "Year 3/Aerothermodynamics/4/Aerotherm 4 2.md",
-    "Year 3/Aerothermodynamics/3/Aerotherm 3 4.md",
-    "Year 3/Aerothermodynamics/3/Aerotherm 3 3.md",
-    "Year 3/Aero systems control/Topic 7",
-    "Year 3/Aero systems control/Topic 6",
-    "Year 3/Aero systems control/Topic 4",
-    "Year 3/Aero systems control/Topic 3"
+    "Year 3/Aircraft Structures/1"
   ]
 }
