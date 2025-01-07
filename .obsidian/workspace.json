@@ -4,19 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "f8da96c781d45377",
+        "id": "230e5dec45f690be",
         "type": "tabs",
         "children": [
           {
-            "id": "4e936da67470adb2",
+            "id": "503458d5488cccfa",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Year 3/Aircraft Structures/2,3 Structural design/Equations.md",
+                "file": "Year 3/Aerothermodynamics/Proofs that came up.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "Proofs that came up"
             }
           }
         ]
@@ -39,7 +41,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
             }
           },
           {
@@ -54,7 +58,9 @@
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-search",
+              "title": "Search"
             }
           },
           {
@@ -62,7 +68,9 @@
             "type": "leaf",
             "state": {
               "type": "starred",
-              "state": {}
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
             }
           },
           {
@@ -70,7 +78,9 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {}
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
             }
           }
         ]
@@ -93,7 +103,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Year 3/Aircraft Structures/2,3 Structural design/Equations.md",
+                "file": "Year 3/Aerothermodynamics/Proofs that came up.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -101,7 +111,9 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Proofs that came up"
             }
           },
           {
@@ -112,7 +124,9 @@
               "state": {
                 "sortOrder": "frequency",
                 "useHierarchy": true
-              }
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
             }
           }
         ]
@@ -136,11 +150,23 @@
       "obsidian-to-anki-plugin:Obsidian_to_Anki - Scan Vault": false
     }
   },
-  "active": "4e936da67470adb2",
+  "active": "503458d5488cccfa",
   "lastOpenFiles": [
+    "Year 3/Aircraft Structures/5/5.1.md",
     "Year 3/Aircraft Structures/5 Fatigue/Equations.md",
-    "Images/Pasted image 20240516191404.png",
+    "Year 3/Aircraft Structures/5 Fatigue/5.1.md",
+    "Year 3/Aircraft Structures/5 Fatigue",
     "Year 3/Aircraft Structures/2,3 Structural design/Equations.md",
+    "Year 3/Advanced Astronautics/AA 4/Adv Astro 4.md",
+    "Year 3/Advanced Astronautics/AA 3/Adv Astro 3.md",
+    "Year 3/Advanced Astronautics/AA 2/Adv Astro 1.md",
+    "Year 3/Advanced Astronautics/AA 1/Adv Astro 1.md",
+    "Year 3/Advanced Astronautics/AA 4",
+    "Year 3/Advanced Astronautics/AA 3",
+    "Year 3/Advanced Astronautics/AA 2",
+    "Year 3/Advanced Astronautics/AA 1",
+    "Year 3/Advanced Astronautics",
+    "Images/Pasted image 20240516191404.png",
     "Images/Pasted image 20240516184130.png",
     "Images/Pasted image 20240516175310.png",
     "Images/Pasted image 20240516174932.png",
@@ -150,38 +176,27 @@
     "Images/Pasted image 20240516160211.png",
     "Images/Pasted image 20240516144828.png",
     "Images/Pasted image 20240516144636.png",
-    "Year 3/Aircraft Structures/Fatigue",
-    "Year 3/Aircraft Structures/4 Beam as wing/3.1.md",
-    "Year 3/Aircraft Structures/2,3 Structural design/2.3 Requirements.md",
-    "Year 3/Aircraft Structures/2,3 Structural design/2.1 Wing Components.md",
-    "Year 3/Aerothermodynamics/Proofs that came up.md",
-    "Year 3/Aircraft Structures/5 Fatigue/5.1.md",
     "Year 3/Aircraft Structures/2,3 Structural design/2.4 Problems.md",
     "Year 3/Aircraft Structures/2,3 Structural design/2.2 Composite Wings.md",
+    "Year 3/Aircraft Structures/2,3 Structural design/2.1 Wing Components.md",
     "Year 3/Aircraft Structures/4 Beam as wing/3.4.md",
-    "Year 3/Aircraft Structures/5 Fatigue",
+    "Year 3/Aircraft Structures/5",
     "Year 3/Aircraft Structures/4 Beam as wing/3.3.md",
     "Year 3/Aircraft Structures/4 Beam as wing/3.2.md",
+    "Year 3/Aircraft Structures/4 Beam as wing/3.1.md",
     "Year 3/Aircraft Structures/4 Beam as wing",
+    "Year 3/Aircraft Structures/2,3 Structural design/2.3 Requirements.md",
     "Year 3/Aerothermodynamics/5/Aerotherm 5 7.md",
     "Year 3/Aircraft Structures/2,3 Structural design",
     "Year 3/Aircraft Structures/1",
-    "Year 3/Aircraft Structures",
     "Year 3/Aerothermodynamics/5/Aerotherm 5 X.md",
     "Year 3/Aerothermodynamics/4/Aerotherm 4 5.md",
+    "Year 3/Aerothermodynamics/Proofs that came up.md",
     "Year 3/Aerothermodynamics/4/Aerotherm 4 3.md",
     "Year 3/Aerothermodynamics/4/Aerotherm 4 4.md",
     "Year 3/Spacecraft systems engineering and design/2 - Space debris/Space systems design 2.md",
     "Year 3/Spacecraft systems engineering and design/1 - Mission design/Space systems design 1.md",
     "Year 3/Aero systems control/Topic 4/ASC 4.md",
-    "Year 3/Spacecraft systems engineering and design/3 - Taguchi Method/Space systems design 3.md",
-    "Year 3/Spacecraft systems engineering and design/4 - Spacecraft orbit design/Space systems design 4.md",
-    "Year 3/Aerothermodynamics/4/Aerotherm 4 2.md",
-    "Year 3/Aerothermodynamics/3/Aerotherm 3 4.md",
-    "Year 3/Aerothermodynamics/3/Aerotherm 3 3.md",
-    "Year 3/Aero systems control/Topic 7",
-    "Year 3/Aero systems control/Topic 6",
-    "Year 3/Aero systems control/Topic 4",
-    "Year 3/Aero systems control/Topic 3"
+    "Year 3/Spacecraft systems engineering and design/3 - Taguchi Method/Space systems design 3.md"
   ]
 }
