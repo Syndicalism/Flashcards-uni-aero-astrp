@@ -140,4 +140,21 @@ END_CARD
 
 
 
+--------
+
+START_CARD
+Basic
+
+State the 4 moral principles engineers need to uphold
+
+Back: 
+- Accuracy + Rigour - Engineers should apply their knowledge and skills to ensure accuracy and thoroughness in their work, ensuring that all designs and solutions meet the highest standards of quality and correctness.
+- Honesty + Integrity -  Engineers are expected to be truthful and transparent in their professional conduct, providing reliable information and avoiding any misleading or deceptive practices.
+- Respect for life and the public good - Engineers should prioritize the safety, health, and well-being of people and the environment, ensuring that their work benefits society and does not cause harm.
+- Responsible leadership, listening and informing - Engineers should take on leadership roles responsibly, listen to stakeholders, and provide accurate information to ensure informed decision-making, while promoting ethical practices within the profession.
+
+END_CARD
+
+
+
 
